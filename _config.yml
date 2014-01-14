@@ -1,3 +1,44 @@
-name: Hendrix Blog
-markdown: redcarpet
-pygments: true
+title:            Subject to Changes
+description:      Hendrix Blog
+disqus_shortname: subjecttochanges
+#url:              http://hen-drik.de/blog
+url:              http://0.0.0.0:4000
+
+# Owner/author information
+owner:
+  name:           Hendrik Heuer
+  avatar:         bio-photo.jpg
+  bio:            "I'm a student in Human-Computer Interaction and Design and Machine Learning at KTH Stockholm and Aalto Helsinki."
+  email:          you@email.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        hen_drik
+  facebook:       
+  github:         h10r
+  stackexchange:  
+  linkedin:       hendrikheuer
+  instagram:      
+  flickr:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Theme Setup
+    url: /theme-setup
+  - title: External Link
+    url: http://mademistakes.com
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Stockholm
+future:      true
+pygments:    true
+markdown:    kramdown
