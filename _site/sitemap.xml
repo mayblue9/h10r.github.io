@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://0.0.0.0:4000</loc>
+        <loc>http://hen-drik.de/blog</loc>
     </url>
     
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft.html</loc>
+        <loc>http://hen-drik.de/blog/articles/2014/01/20/gute-menschen-die-zukunft.html</loc>
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige.html</loc>
+        <loc>http://hen-drik.de/blog/articles/2013/08/31/valkommen-till-sverige.html</loc>
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2011/08/31/test.html</loc>
+        <loc>http://hen-drik.de/blog/articles/2011/08/31/test.html</loc>
     </url>
     
 </urlset>
