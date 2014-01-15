@@ -1,4 +1,4 @@
-title:            Subject to Changes
+title:            Hendrik Heuer
 description:      Hendrix Blog
 disqus_shortname: subjecttochanges
 #url:              http://hen-drik.de/blog
@@ -31,11 +31,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
+  - title: Home
+    url: /
+  - title: Projects
+    url: /showcase.html
+  - title: Blog
+    url: /articles/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Stockholm

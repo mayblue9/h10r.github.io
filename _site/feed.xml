@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Subject to Changes</title>
+<title type="text">Hendrik Heuer</title>
 <subtitle type="text"></subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://0.0.0.0:4000" />
-<updated>2014-01-15T12:18:57+01:00</updated>
+<updated>2014-01-15T12:45:34+01:00</updated>
 <id>http://0.0.0.0:4000/</id>
 <author>
   <name>Hendrik</name>
@@ -35,7 +35,7 @@ Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes L
 &lt;p&gt;Ich war vor kurzem außerdem auf der TEDxKTH. Da gab es wissenschaftliche Vorträge im alten Atomreaktor der KTH (dem ersten Atomreaktor Skandinaviens). Besonders gut gefallen hat mir der eines Professors, der DVD-Laufwerke benutzt, um schnell und günstig HIV, Malaria und Tuberkulose nachzuweisen. Die DVD-Laufwerke sind durch die Massenproduktion extrem günstig und außerdem noch klein. Die Geräte sollen z.B. in Eritrea in Afrika eingesetzt werden, um schnell und einfach Tests durchzuführen. Als Vera zu Besuch war, waren wir außerdem bei den Nobelpreis-Vorlesungen in der Medizin. Auch wenn ich ehrlich gesagt wenig verstanden habe, war es schon sehr interessant, mal dabei gewesen zu sein.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft.html&quot;&gt;Gute Menschen & die Zukunft&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Subject to Changes&lt;/a&gt; on January 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft.html&quot;&gt;Gute Menschen & die Zukunft&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -67,7 +67,7 @@ Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes L
 &lt;p&gt;Bisher habe ich aber auch noch gar nicht besonders viele Schweden und Schwedinnen kennengelernt, weil ich meistens mit anderen internationalen Studenten unterwegs bin. Insgesamt ist hier alles im schönsten Sinne multikulturell und international. Und die anderen Studenten kommen wirklich von überall her — Indien, China, Südafrika, Fidji, Weißrussland, Ukraine, Island und Türkei.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige.html&quot;&gt;Välkommen till Sverige!&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Subject to Changes&lt;/a&gt; on August 31, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige.html&quot;&gt;Välkommen till Sverige!&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 31, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -133,7 +133,7 @@ Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes L
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/31/test.html&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Subject to Changes&lt;/a&gt; on August 31, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/31/test.html&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 31, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>
