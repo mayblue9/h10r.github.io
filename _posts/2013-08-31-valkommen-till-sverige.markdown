@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Välkommen till Sverige!"
-subtitle:  "Mein erster Eindruck"
+title: "Välkommen till Sverige!"
+tagline: "Mein erster Eindruck"
+description: "Mein erster Eindruck"
+category: articles
 date:   2013-08-31 08:03:00
-categories: german stockholm personal
+tags: [german, stockholm, personal]
+image:
+  feature: texture-feature-04.jpg
 ---
-
 
 Stockholm und Schweden gefallen mir bisher ganz hervorragend. Soweit wirkt es hier alles ein bisschen so, wie ich mir das von Amsterdam erhofft hatte. Ich habe ein sehr schönes Apartment, das sowohl nah an der Natur als auch nah an der Innenstadt ist. Wenn ich rechts aus dem Haus gehe, bin ich in 15 Minuten im Wald, wenn ich links aus dem Haus gehe, in 25 Minuten in der Innenstadt.
 

@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Gute Menschen & die Zukunft"
-subtitle:  "Warum Schweden  keine Cola klauen"
+title: "Gute Menschen & die Zukunft"
+tagline: "Warum Schweden keine Cola klauen"
+description: "Warum Schweden keine Cola klauen"
+category: articles
 date:   2014-01-20 08:03:00
-categories: german stockholm personal
+tags: [german, stockholm, personal]
+image:
+  feature: texture-feature-04.jpg
 ---
 
 Schweden ist wirklich ein sehr schönes und anständiges Land. Mir gefällt es hier auch weiterhin und ziemlich durchgehend ausgezeichnet. An der KTH gibt es, wie an wahrscheinlich jeder Universität, gute und weniger gute Kurse und Professoren. Wobei man sich letzten Endes nicht wirklich beschweren kann, auch wenn ich das natürlich trotzdem gerne tue.

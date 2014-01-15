@@ -5,10 +5,10 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://0.0.0.0:4000" />
-<updated>2014-01-14T20:43:40+01:00</updated>
+<updated>2014-01-15T10:36:49+01:00</updated>
 <id>http://0.0.0.0:4000/</id>
 <author>
-  <name>Hendrik Heuer</name>
+  <name>Hendrik</name>
   <uri>http://0.0.0.0:4000/</uri>
   <email>you@email.com</email>
 </author>
@@ -16,12 +16,12 @@
 
 <entry>
   <title type="html"><![CDATA[Gute Menschen & die Zukunft]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/german/stockholm/personal/2014/01/20/gute-menschen-die-zukunft.html" />
-  <id>http://0.0.0.0:4000/german/stockholm/personal/2014/01/20/gute-menschen-die-zukunft</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft.html" />
+  <id>http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft</id>
   <published>2014-01-20T08:03:00Z</published>
   <updated>2014-01-20T08:03:00Z</updated>
   <author>
-    <name>Hendrik Heuer</name>
+    <name>Hendrik</name>
     <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
@@ -35,18 +35,18 @@ Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes L
 &lt;p&gt;Ich war vor kurzem außerdem auf der TEDxKTH. Da gab es wissenschaftliche Vorträge im alten Atomreaktor der KTH (dem ersten Atomreaktor Skandinaviens). Besonders gut gefallen hat mir der eines Professors, der DVD-Laufwerke benutzt, um schnell und günstig HIV, Malaria und Tuberkulose nachzuweisen. Die DVD-Laufwerke sind durch die Massenproduktion extrem günstig und außerdem noch klein. Die Geräte sollen z.B. in Eritrea in Afrika eingesetzt werden, um schnell und einfach Tests durchzuführen. Als Vera zu Besuch war, waren wir außerdem bei den Nobelpreis-Vorlesungen in der Medizin. Auch wenn ich ehrlich gesagt wenig verstanden habe, war es schon sehr interessant, mal dabei gewesen zu sein.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/german/stockholm/personal/2014/01/20/gute-menschen-die-zukunft.html&quot;&gt;Gute Menschen & die Zukunft&lt;/a&gt; was originally published by Hendrik Heuer at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Subject to Changes&lt;/a&gt; on January 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft.html&quot;&gt;Gute Menschen & die Zukunft&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Subject to Changes&lt;/a&gt; on January 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Välkommen till Sverige!]]></title>
-  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/german/stockholm/personal/2013/08/31/valkommen-till-sverige.html" />
-  <id>http://0.0.0.0:4000/german/stockholm/personal/2013/08/31/valkommen-till-sverige</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige.html" />
+  <id>http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige</id>
   <published>2013-08-31T08:03:00Z</published>
   <updated>2013-08-31T08:03:00Z</updated>
   <author>
-    <name>Hendrik Heuer</name>
+    <name>Hendrik</name>
     <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
@@ -67,7 +67,7 @@ Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes L
 &lt;p&gt;Bisher habe ich aber auch noch gar nicht besonders viele Schweden und Schwedinnen kennengelernt, weil ich meistens mit anderen internationalen Studenten unterwegs bin. Insgesamt ist hier alles im schönsten Sinne multikulturell und international. Und die anderen Studenten kommen wirklich von überall her — Indien, China, Südafrika, Fidji, Weißrussland, Ukraine, Island und Türkei.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/german/stockholm/personal/2013/08/31/valkommen-till-sverige.html&quot;&gt;Välkommen till Sverige!&lt;/a&gt; was originally published by Hendrik Heuer at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Subject to Changes&lt;/a&gt; on August 31, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige.html&quot;&gt;Välkommen till Sverige!&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Subject to Changes&lt;/a&gt; on August 31, 2013.&lt;/p&gt;</content>
 </entry>
 
 
@@ -78,11 +78,13 @@ Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes L
   <published>2011-08-31T00:00:00+02:00</published>
   <updated>2011-08-31T00:00:00+02:00</updated>
   <author>
-    <name>Hendrik Heuer</name>
+    <name>Hendrik</name>
     <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
-  <content type="html">&lt;p&gt;This is a sample post with a large feature image&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; up top and tons of text. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
+  <content type="html">&lt;p&gt;texture-feature-02.jpg&lt;/p&gt;
+
+&lt;p&gt;This is a sample post with a large feature image&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; up top and tons of text. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
 
 &lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
 
@@ -131,7 +133,7 @@ Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes L
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/31/test.html&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Hendrik Heuer at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Subject to Changes&lt;/a&gt; on August 31, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/31/test.html&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Subject to Changes&lt;/a&gt; on August 31, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>
