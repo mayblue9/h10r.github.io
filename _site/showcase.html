@@ -11,14 +11,14 @@ html,body{height:100%;}
 body{margin:0px; padding:0px; background:#000;}
 #toolbar{position:fixed; z-index:3; right:10px; top:10px; padding:5px; background:url(malihu/fs_img_g_bg.png);}
 #toolbar img{border:none;}
-#img_title{position:fixed; z-index:3; left:10px; top:10px; padding:10px; background:url(malihu/fs_img_g_bg.png); color:#FFF; font-family:'Josefin Sans Std Light', arial, serif; font-size:24px; text-transform:uppercase;}
-#bg{position:fixed; z-index:1; overflow:hidden; width:100%; height:100%;}
+#img_title{margin-left: 16.666666666666668%; position:relative; z-index:3; left:0px; top:10px; padding:10px; background:url(malihu/fs_img_g_bg.png); color:#FFF; font-family:'Josefin Sans Std Light', arial, serif; font-size:24px; font-weight: normal;}
+#bg{position:fixed; z-index:1; overflow:hidden; width:100%; height:100%;background-color:#343434;}
 #bgimg{display:none; -ms-interpolation-mode: bicubic;}
-#preloader{position:relative; z-index:3; width:32px; padding:20px; top:80px; margin:auto; background:#000;}
+#preloader{position:relative; z-index:3; width:32px; padding:20px; top:46%; margin:auto; background:#000;}
 #thumbnails_wrapper{z-index:2; position:fixed; bottom:0; width:100%; background:url(malihu/empty.gif); /* stupid ie needs a background value to understand hover area */}
-#outer_container{position:relative; padding:0; width:100%; margin:40px auto;}
+#outer_container{position:relative; padding:0; width:100%; margin:0px auto;}
 #outer_container .thumbScroller{position:relative; overflow:hidden; background:url(malihu/fs_img_g_bg.png);}
-#outer_container .thumbScroller, #outer_container .thumbScroller .container, #outer_container .thumbScroller .content{height:170px;}
+#outer_container .thumbScroller, #outer_container .thumbScroller .container, #outer_container .thumbScroller .content{height:90px;}
 #outer_container .thumbScroller .container{position:relative; left:0;}
 #outer_container .thumbScroller .content{float:left;}
 #outer_container .thumbScroller .content div{margin:5px; height:100%;}
@@ -110,7 +110,7 @@ body{margin:0px; padding:0px; background:#000;}
 		        
 				<li><a href="http://0.0.0.0:4000/showcase.html" >Projects</a></li>
 		        
-				<li><a href="http://0.0.0.0:4000/articles/" >Articles</a></li>
+				<li><a href="http://0.0.0.0:4000/articles/" >Blog</a></li>
 		        
 		    </ul>
 		</nav>
@@ -118,7 +118,7 @@ body{margin:0px; padding:0px; background:#000;}
 </div><!-- /.navigation-wrapper -->
 
 <div id="bg"><a href="#" class="nextImageBtn" title="next"></a><a href="#" class="prevImageBtn" title="previous"></a><img src="gallery/01-current.png" width="1280" height="850" alt="Denebola" title="Denebola" id="bgimg" /></div>
-<div id="preloader"><img src="malihu/ajax-loader_dark.gif" width="32" height="32" /></div>
+<div id="preloader"><img src="malihu/ajax-loader.png" width="32" height="32" /></div>
 <div id="img_title"></div>
 <div id="toolbar" style="display:none;"><a href="#" title="Maximize" onClick="ImageViewMode('full');return false"><img src="toolbar_fs_icon.png" width="50" height="50"  /></a></div>
 <div id="thumbnails_wrapper">
@@ -126,16 +126,16 @@ body{margin:0px; padding:0px; background:#000;}
 <div class="thumbScroller">
   <div class="container">
       <div class="content">
-          <div><a href="gallery/01-current.png"><img src="gallery/01-current_thumb.png" title="Student at EIT ICT Labs Master School" alt="Student at EIT ICT Labs Master School" class="thumb" /></a></div>
+          <div><a href="gallery/01-current.png"><img src="gallery/01-current_thumb.png" title="Master Student at EIT ICT Labs Master School" alt="Master Student at EIT ICT Labs Master School" class="thumb" /></a></div>
         </div>
         <div class="content">
-          <div><a href="gallery/02-rei1440project.png"><img src="gallery/02-rei1440project_thumb.png" title="REI 1440 Project" alt="REI 1440 Project" class="thumb" /></a></div>
+          <div><a href="gallery/02-rei1440project.png"><img src="gallery/02-rei1440project_thumb.png" title="REI 1440 Project - A photo sharing site" alt="REI 1440 Project - A photo sharing site" class="thumb" /></a></div>
         </div>
       <div class="content">
-          <div><a href="gallery/03-blind_tennis.png"><img src="gallery/03-blind_tennis_thumb.png" title="Blind Tennis" alt="Blind Tennis" class="thumb" /></a></div>
+          <div><a href="gallery/03-blind_tennis.png"><img src="gallery/03-blind_tennis_thumb.png" title="Blind Tennis - Play tennis using your sense of hearing" alt="Blind Tennis - Play tennis using your sense of hearing" class="thumb" /></a></div>
         </div>
         <div class="content">
-          <div><a href="gallery/04-columbia.png"><img src="gallery/04-columbia_thumb.png" title="Columbia" alt="Columbia" class="thumb" /></a></div>
+          <div><a href="gallery/04-columbia.png"><img src="gallery/04-columbia_thumb.png" title="Columbia - A new approach to music composition" alt="Columbia - A new approach to music composition" class="thumb" /></a></div>
         </div>
   </div>
 </div>

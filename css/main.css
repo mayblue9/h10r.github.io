@@ -164,3 +164,12 @@ a:visited { color: #a0a; }
   text-align: center;
 }
 
+.site-name a {
+  padding-left: 10px;
+  font-size: 24px;
+}
+
+.top-navigation {
+  padding-top: 5px;
+}
+
