@@ -2,6 +2,7 @@
 layout: post
 title: "Mutual Core"
 category: travel-blog
+travel-country: Toronto, Kanada
 date:   2011-10-21 08:03:00
 tags: [german, usa, buffalo, personal]
 image:

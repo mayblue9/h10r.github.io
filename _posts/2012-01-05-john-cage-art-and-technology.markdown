@@ -2,6 +2,7 @@
 layout: post
 title: "John Cage - Art and Technology"
 category: articles
+context: Sound Media Poetry
 date:   2012-01-05 08:03:00
 tags: [cage, aesthetics, poetry, media theory]
 image:

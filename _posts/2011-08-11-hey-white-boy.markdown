@@ -2,6 +2,7 @@
 layout: post
 title: "Hey white boy, whatcha doin’ downtown?"
 category: travel-blog
+travel-country: New York City, USA
 date:   2011-08-11 08:03:00
 tags: [german, usa, new york, personal]
 image:

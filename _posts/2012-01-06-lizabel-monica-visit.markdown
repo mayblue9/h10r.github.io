@@ -2,6 +2,7 @@
 layout: post
 title: "Lizabel Monica Visit"
 category: articles
+context: Sound Media Poetry
 date:   2012-01-06 08:03:00
 tags: [aesthetics, poetry, media theory]
 image:

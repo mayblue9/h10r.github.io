@@ -2,6 +2,7 @@
 layout: post
 title: "Game Proposal - Kraken & Kaos"
 category: articles
+context: Game Design
 date:   2012-01-09 08:03:00
 tags: [game design]
 image:

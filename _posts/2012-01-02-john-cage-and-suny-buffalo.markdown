@@ -2,6 +2,7 @@
 layout: post
 title: "John Cage and the Center of the Creative and Performing Arts at SUNY Buffalo"
 category: articles
+context: Master Composer
 date:   2012-01-02 08:03:00
 tags: [aesthetics, music, cage]
 image:

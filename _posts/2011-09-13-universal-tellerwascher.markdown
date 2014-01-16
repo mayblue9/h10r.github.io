@@ -2,6 +2,7 @@
 layout: post
 title: "Universal Tellerwäscher"
 category: travel-blog
+travel-country: Buffalo, USA
 date:   2011-09-13 08:03:00
 tags: [german, usa, buffalo, personal]
 image:

@@ -2,6 +2,7 @@
 layout: post
 title: "Space Oddity"
 category: travel-blog
+travel-country: Buffalo, USA
 date:   2011-08-31 08:03:00
 tags: [german, usa, buffalo, personal]
 image:

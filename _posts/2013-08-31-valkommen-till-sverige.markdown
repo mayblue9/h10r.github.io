@@ -2,8 +2,8 @@
 layout: post
 title: "Välkommen till Sverige!"
 tagline: "Mein erster Eindruck"
-description: "Mein erster Eindruck"
 category: travel-blog
+travel-country: Stockholm, Schweden
 date:   2013-08-31 08:03:00
 tags: [german, stockholm, personal]
 image:

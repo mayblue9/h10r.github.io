@@ -3,26 +3,26 @@
 <title type="text">Hendrik Heuer</title>
 <subtitle type="text"></subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://h10r.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://h10r.github.io" />
-<updated>2014-01-16T15:57:53+01:00</updated>
-<id>http://h10r.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://0.0.0.0:4000" />
+<updated>2014-01-16T17:04:39+01:00</updated>
+<id>http://0.0.0.0:4000/</id>
 <author>
   <name>Hendrik</name>
-  <uri>http://h10r.github.io/</uri>
+  <uri>http://0.0.0.0:4000/</uri>
   <email>you@email.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Gute Menschen & die Zukunft]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/travel-blog/2014/01/20/gute-menschen-die-zukunft.html" />
-  <id>http://h10r.github.io/travel-blog/2014/01/20/gute-menschen-die-zukunft</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/travel-blog/2014/01/20/gute-menschen-die-zukunft.html" />
+  <id>http://0.0.0.0:4000/travel-blog/2014/01/20/gute-menschen-die-zukunft</id>
   <published>2014-01-20T08:03:00Z</published>
   <updated>2014-01-20T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;Schweden ist wirklich ein sehr schönes und anständiges Land. Mir gefällt es hier auch weiterhin und ziemlich durchgehend ausgezeichnet. An der KTH gibt es, wie an wahrscheinlich jeder Universität, gute und weniger gute Kurse und Professoren. Wobei man sich letzten Endes nicht wirklich beschweren kann, auch wenn ich das natürlich trotzdem gerne tue.&lt;/p&gt;
@@ -30,27 +30,26 @@
 &lt;p&gt;Hier im Land der Pirate Bay stehen die Leute in langen Schlangen an, um sich einen Pappbecher zu kaufen, den sie selber am Soda Fountain füllen. Wasser ist immer und überall kostenlos. Deshalb bekäme man den gleichen Pappbecher auch einfach umsonst. Und dann könnte man einfach schnell Cola zapfen, wenn keiner hinguckt. Das macht aber niemand. Mein Mitstudent aus der Ukraine und mich hat das irgendwie gewundert und wir haben unsere schwedische Mitstudentin gefragt. Die konnte das überhaupt nicht nachvollziehen und meinte entsetzt: „Why would you do that? You didn’t pay for that!“. Sowas gehört sich ja auch nicht. In politischen Diskussionen fallen dann manchmal so Sätze wie: „I don’t get this — why don’t they just make a law against it?“. Für Schweden ist schon Dänemark die pure Anarchie. Ein Land ohne Regeln und Ordnung, voller im Gesicht tätowierter Drogensüchtiger und Prostituierten. Ich weiß wirklich nicht, wieso die Leute hier so gut erzogen sind, aber es scheint zu funktionieren. Die Leute lassen zum Beispiel in der Bibliothek auch einfach alles liegen, wenn sie auf die Toilette gehen, weil wahrscheinlich sowieso keiner auf die Idee käme, einen unbewachten Computer mitzunehmen. Wieso sollte man das auch tun, der gehört einem ja gar nicht!&lt;/p&gt;
 
 &lt;p&gt;Ich war vor ein paar Tagen mit meinem Kurs bei einem richtig tollen Startup. Die Firma, die von KTH-Studenten gegründet wurde, hat eine eigene Eye Tracking-Software entwickelt. Die kann zum einen für so Sachen wie Marktforschung und Nutzertests benutzt werden, zum anderen aber auch als Hilfsmittel für Leute, die sich kaum bewegen können, weil sie beispielsweise gelähmt sind. Die können dann mit ihren Augen einen Computer steuern und im Internet surfen. Ich habe das auch mal ausprobiert und es fühlt sich wirklich wie die Zukunft an. Die hatten einen Fahrsimulator, bei dem man während der Fahrt mit den Augen die Lieder wechseln konnte. Das hat schon richtig gut funktioniert, auch wenn ich das Auto trotzdem vor die Wand gesetzt habe.
-Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes Lebewesen Augen hat. Die Technik funktioniert also auch bei Pferden und Affen. Sowieso ist es für die Forschung sehr spannend. In Uppsala haben sie damit zum Beispiel schon bei Säuglingen Hinweise auf Autismus gefunden, weil Kinder mit autistischen Zügen sich mit ihren Blicken nicht auf Augen und Mund konzentrieren. Wenn sie das so früh erkennen können, dann können sie auch schon früh damit anfangen, den Kindern mit autistischen Zügen zu helfen, besser zurecht zu kommen.&lt;/p&gt;
+Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja die meisten Lebewesen Augen haben. Die Technik funktioniert also auch bei Pferden und Affen. Sowieso ist es für die Forschung sehr spannend. In Uppsala haben sie damit zum Beispiel schon bei Säuglingen Hinweise auf Autismus gefunden, weil Kinder mit autistischen Zügen sich mit ihren Blicken nicht auf Augen und Mund konzentrieren. Wenn sie das so früh erkennen können, dann können sie auch schon früh damit anfangen, den Kindern mit autistischen Zügen zu helfen, besser zurecht zu kommen.&lt;/p&gt;
 
-&lt;p&gt;Ich war vor kurzem außerdem auf der TEDxKTH. Da gab es wissenschaftliche Vorträge im alten Atomreaktor der KTH (dem ersten Atomreaktor Skandinaviens). Besonders gut gefallen hat mir der eines Professors, der DVD-Laufwerke benutzt, um schnell und günstig HIV, Malaria und Tuberkulose nachzuweisen. Die DVD-Laufwerke sind durch die Massenproduktion extrem günstig und außerdem noch klein. Die Geräte sollen z.B. in Eritrea in Afrika eingesetzt werden, um schnell und einfach Tests durchzuführen. Als Vera zu Besuch war, waren wir außerdem bei den Nobelpreis-Vorlesungen in der Medizin. Auch wenn ich ehrlich gesagt wenig verstanden habe, war es schon sehr interessant, mal dabei gewesen zu sein.&lt;/p&gt;
+&lt;p&gt;Ich war vor kurzem außerdem auf der TEDxKTH. Da gab es wissenschaftliche Vorträge im alten Atomreaktor der KTH (dem ersten Atomreaktor Skandinaviens). Besonders gut gefallen hat mir der Vortrag eines Professors, der DVD-Laufwerke benutzt, um schnell und günstig HIV, Malaria und Tuberkulose nachzuweisen. Die DVD-Laufwerke sind durch die Massenproduktion extrem günstig und außerdem noch klein. Die Geräte sollen z.B. in Eritrea in Afrika eingesetzt werden, um schnell und einfach Tests durchzuführen. Als Vera zu Besuch war, waren wir außerdem bei den Nobelpreis-Vorlesungen in der Medizin. Auch wenn ich ehrlich gesagt wenig verstanden habe, war es schon sehr interessant, mal dabei gewesen zu sein.&lt;/p&gt;
 
-
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/travel-blog/2014/01/20/gute-menschen-die-zukunft.html&quot;&gt;Gute Menschen & die Zukunft&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/travel-blog/2014/01/20/gute-menschen-die-zukunft.html&quot;&gt;Gute Menschen & die Zukunft&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Välkommen till Sverige!]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/travel-blog/2013/08/31/valkommen-till-sverige.html" />
-  <id>http://h10r.github.io/travel-blog/2013/08/31/valkommen-till-sverige</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/travel-blog/2013/08/31/valkommen-till-sverige.html" />
+  <id>http://0.0.0.0:4000/travel-blog/2013/08/31/valkommen-till-sverige</id>
   <published>2013-08-31T08:03:00Z</published>
   <updated>2013-08-31T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
-  <content type="html">&lt;p&gt;Stockholm und Schweden gefallen mir bisher ganz hervorragend. Soweit wirkt es hier alles ein bisschen so, wie ich mir das von Amsterdam erhofft hatte. Ich habe ein sehr schönes Apartment, das sowohl nah an der Natur als auch nah an der Innenstadt ist. Wenn ich rechts aus dem Haus gehe, bin ich in 15 Minuten im Wald, wenn ich links aus dem Haus gehe, in 25 Minuten in der Innenstadt.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Stockholm und Schweden gefallen mir bisher ganz hervorragend. Soweit wirkt es hier alles ein bisschen so, wie ich mir das von Amsterdam erhofft hatte. Ich habe ein sehr schönes Appartement, das sowohl nah an der Natur als auch nah an der Innenstadt ist. Wenn ich rechts aus dem Haus gehe, bin ich in 15 Minuten im Wald, wenn ich links aus dem Haus gehe, in 25 Minuten in der Innenstadt.&lt;/p&gt;
 
 &lt;p&gt;Die Schweden nennen Kista, meinen Wohnort, auch das Silicon Valley des Nordens. Dem würde ich nur bedingt zustimmen, denn der Großteil der Gebäude hier gehört Ericsson, die hier ihre Zentrale haben. Umzingelt von Ericsson ist der Campus, an dem ich einen Teil meiner Kurse machen werde. Ab und an läuft man dann aber auch an Büros von Microsoft, Adobe und Oracle vorbei. Die meisten richtigen Startups findet man aber eher in der Innenstadt.&lt;/p&gt;
 
@@ -60,26 +59,62 @@ Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes L
 
 &lt;p&gt;Von der Organisation her hatte ich mir eigentlich ein bisschen mehr von den Schweden erhofft. Die Veranstaltungen meiner vier Kurse kollidieren ständig. Zudem gibt es keine festen Zeiten, ich habe also jede Woche einen anderen Stundenplan und in anderthalb Monaten schon erste Prüfungen. Ich bin fast davon überzeugt, dass viele Leute hart daran arbeiten, dass jede Woche möglichst viele Veranstaltungen kollidieren.&lt;/p&gt;
 
-&lt;p&gt;Davon abgesehen hatte ich hier in Stockholm aber bisher eine klasse Zeit und ich freue mich schon sehr auf mein Studium. Bisher war eigentlich immer was los — ich habe einige klasse Startup-Gründer kennengelernt, richtig gute Vorträge gehört, ein tolles Indie-Konzert unter einer Brücke besucht, schöne Parks gefunden, einen Triathlon-Start miterlebt und ein Sinfonieorchester gehört. Nicht schlecht für zwei Wochen und vor allem war all das kostenlos! Die Startup-Veranstaltungen hatten sogar manchmal Freibier und Buffets. Daran könnte ich mich gewöhnen! Bier ist leider ein heikles Thema. Ich war ja darauf gefasst, dass es teuer wird. Teuer ist es auf jeden Fall auch. Leider schmeckt es aber nichtmal! Und so kommt es dann, dass man in Bars seinen Erstgebornen für ein Bitburger eintauscht.&lt;/p&gt;
+&lt;p&gt;Davon abgesehen hatte ich hier in Stockholm aber bisher eine klasse Zeit und ich freue mich schon sehr auf mein Studium. Bisher war eigentlich immer was los — ich habe einige klasse Startup-Gründer kennengelernt, richtig gute Vorträge gehört, ein tolles Indie-Konzert unter einer Brücke besucht, schöne Parks gefunden, einen Triathlon-Start miterlebt und ein Sinfonieorchester gehört. Nicht schlecht für zwei Wochen und vor allem war all das kostenlos! Die Startup-Veranstaltungen hatten sogar manchmal Freibier und Buffets. Daran könnte ich mich gewöhnen!&lt;/p&gt;
 
 &lt;p&gt;Sobald man den Schweden ein Kompliment für ihre tolle Stadt macht, sagen sie ausnahmslos und automatisch “Jaaa — im Sommer! Warte mal, bis der Winter kommt!”. Vom Winter weiß ich bisher nur, dass die Sonne im Dezember um 15h untergeht.&lt;/p&gt;
 
-&lt;p&gt;Bisher habe ich aber auch noch gar nicht besonders viele Schweden und Schwedinnen kennengelernt, weil ich meistens mit anderen internationalen Studenten unterwegs bin. Insgesamt ist hier alles im schönsten Sinne multikulturell und international. Und die anderen Studenten kommen wirklich von überall her — Indien, China, Südafrika, Fidji, Weißrussland, Ukraine, Island und Türkei.&lt;/p&gt;
+&lt;p&gt;Bisher habe ich aber auch noch gar nicht besonders viele Schweden und Schwedinnen kennengelernt, weil ich meistens mit anderen internationalen Studenten unterwegs bin. Insgesamt ist hier alles im schönsten Sinne multikulturell und international. Und die anderen Studenten kommen wirklich von überall her — Indien, China, Südafrika, Fidji, Weißrussland, der Ukraine, Island und der Türkei.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/travel-blog/2013/08/31/valkommen-till-sverige.html&quot;&gt;Välkommen till Sverige!&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 31, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/travel-blog/2013/08/31/valkommen-till-sverige.html&quot;&gt;Välkommen till Sverige!&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 31, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Game Proposal - Kraken & Kaos]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/09/game-proposal-kraken-and-kaos.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/09/game-proposal-kraken-and-kaos</id>
+  <published>2012-01-09T08:03:00Z</published>
+  <updated>2012-01-09T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;My idea is based on the underwater sound called “Bloop”. “Bloop” was an extremely powerful ultra-low frequency sound, which the U.S. National Oceanic and Atmospheric Administration (NOAA) detected in 1997. The fascinating thing about “Bloop” is the fact that it was registered by several different sensor at a range of over 5,000km (3,100 miles). This means, that the sound is much louder  than anything any known animal in the sea could possibly produce. In pop culture, this is often regarded as a sign for the existence of sea monsters or even HP Lovecraft’s Cthulhu.&lt;/p&gt;
+
+&lt;p&gt;In Kraken &amp;amp; Kaos, a group of players act together as a team, guarding an island in the sea. On this island, a group of people lives. The people need to be protected. This can be done by moving them on the island. Moreover, the players can set up walls and anti-sea monster warfare, protecting the people with different strategies. My design goal is to make people interact with each other in a thrilling way, while having the ability to create something. The thrilling element is implemented by the fact that some players are not only part of the island defense committee, but also undercover helpers of the sea monster. The game is turn-based. First, all players in the game discuss their strategy of where to move their people and how to arm the island. After that, all players secretly playing for the monster team decide where to move the monster and whether to attack the island or not. Any attack will cost health energy, but it might pay off in terms of victims, which increase the energy of the monster. &lt;/p&gt;
+
+&lt;p&gt;The most exciting part of this game is the discussion of the island defense committee, as everybody is suspicious and might be part of the conspiracy, while on the other hand the group has to act in effort to save the people. The game is over, when either all people or the sea monster is dead (no energy left).&lt;/p&gt;
+
+&lt;p&gt;The main idea is very similar to most tower defense games. But in this case, the danger is invisible. The social interaction is inspired by the popular french party game “Les loups-garous de Thiercelieux”, where a town is defending themselves against a group of werewolves among them.&lt;/p&gt;
+
+&lt;p&gt;The game is a multiplayer game, where people communicate in Person, via text-chat and/or Skype. I think text-chat might be the most thrilling experience though, as it is the most ambiguous form of communication. The gameplay should be pretty similar to games like “Age of Empires”, enabling the group to build anti-sea monster warfare. &lt;/p&gt;
+
+&lt;p&gt;I would like to implement this as a server-based online game, with a small server written in Ruby on Rails and an client in Processing.js.
+In a physical version, a storyteller, a map of an island and some token are sufficient. The storyteller has to  makes sure to play out the movement of the sea monster without the entire committee noticing.&lt;/p&gt;
+
+&lt;p&gt;The audience includes any social human being. Age does not matter that much, although some basic acting skill is a plus. Generally, any child able to lie is able to play the game. Playing the game might augment children’s knowledge of human nature and advocate their critical thinking skills.&lt;/p&gt;
+
+&lt;h4 id=&quot;sources&quot;&gt;Sources&lt;/h4&gt;
+
+&lt;p&gt;Guerriero, Andy, “6 Insane Discoveries That Science Can’t Explain”, Cracked.com, &lt;a href=&quot;http://www.cracked.com/article_16871_6-insane-discoveries-that-science-cant-explain_p2.html&quot;&gt;http://www.cracked.com/article_16871_6-insane-discoveries-that-science-cant-explain_p2.html&lt;/a&gt; (accessed September 5, 2011).&lt;/p&gt;
+
+&lt;p&gt;Wikipedia contributors, “Bloop”, Wikipedia, The Free Encyclopedia, &lt;a href=&quot;http://en.wikipedia.org/w/index.php?title=Bloop&amp;amp;oldid=448059295&quot;&gt;http://en.wikipedia.org/w/index.php?title=Bloop&amp;amp;oldid=448059295&lt;/a&gt;(accessed September 5, 2011).&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/09/game-proposal-kraken-and-kaos.html&quot;&gt;Game Proposal - Kraken & Kaos&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 09, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Terry Harpold Visit]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2012/01/06/terry-harpold-visit.html" />
-  <id>http://h10r.github.io/articles/2012/01/06/terry-harpold-visit</id>
-  <published>2012-01-06T08:03:00Z</published>
-  <updated>2012-01-06T08:03:00Z</updated>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/08/terry-harpold-visit.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/08/terry-harpold-visit</id>
+  <published>2012-01-08T08:03:00Z</published>
+  <updated>2012-01-08T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;I really enjoyed the Terry Harpold visit and I think it was the highlight of the year so far. I was really happy that he introduced us to the main themes in his research. Especially interesting was how he interacted with us. He really cared about our reactions. 
@@ -102,19 +137,19 @@ I also liked the interview he did with you about your poetry, as it was laid-bac
 &lt;p&gt;Harpold introduced the hypothesis that language shapes our worldview and that the experience of language is often mediated. Therefore, the media conditions define our thoughts. This is a really interesting concept and I really have to think about it further. But I have the gut feeling that he might be right. Take for example how personal relationships are depicted in Hollywood cinema and how this shapes our idea of perfect love and friendship. Or how aspiration is destroyed by constantly being exposed to really great artwork. Whenever somebody starts painting, writing poetry or playing music, his first attempts will be horrible in comparison to their heros. This discourages many people, as nobody tells them that this is just normal. 
 Harpold emphasis of the social relationship in reading is interesting and reminded me of the four-sides model of Friedemann Schulz von Thun. In Schulz von Thun’s model, every message includes factual information, self-revelation, relationship information and an appeal. As appeal and factual information are not that important in poetry, the relationship obviously becomes more important. But I think that Harpold somewhat underestimates the self-revelation, as a poet normally reveals a lot about himself while writing poetry, too. I know that for example post-World War II artists like John Cage tried to remove intention and purpose from their art, but I think that even they thereby conveyed something about themselves, their situation and their personality. Just like in Paul Watzlawick said: “One cannot not communicate”.  &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2012/01/06/terry-harpold-visit.html&quot;&gt;Terry Harpold Visit&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 06, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/08/terry-harpold-visit.html&quot;&gt;Terry Harpold Visit&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 08, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Nick Montfort Visit]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2012/01/06/nick-montfort-visit.html" />
-  <id>http://h10r.github.io/articles/2012/01/06/nick-montfort-visit</id>
-  <published>2012-01-06T08:03:00Z</published>
-  <updated>2012-01-06T08:03:00Z</updated>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/07/nick-montfort-visit.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/07/nick-montfort-visit</id>
+  <published>2012-01-07T08:03:00Z</published>
+  <updated>2012-01-07T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;I really enjoyed the visit of Nick Montfort and his workshop.&lt;/p&gt;
@@ -141,19 +176,19 @@ Harpold emphasis of the social relationship in reading is interesting and remind
 Montfort also utilizes the code itself in an artistic sense. Especially with ppg256, where the title refers to the limitation to 256 characters as well as to the use of the rather hard to read programming language Perl (which is “write-only”, as Nick put it).
 An ironic side note was that people need a title to recognize poetry.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2012/01/06/nick-montfort-visit.html&quot;&gt;Nick Montfort Visit&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 06, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/07/nick-montfort-visit.html&quot;&gt;Nick Montfort Visit&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 07, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Lizabel Monica Visit]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2012/01/06/lizabel-monica-visit.html" />
-  <id>http://h10r.github.io/articles/2012/01/06/lizabel-monica-visit</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/06/lizabel-monica-visit.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/06/lizabel-monica-visit</id>
   <published>2012-01-06T08:03:00Z</published>
   <updated>2012-01-06T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;First, I still can’t believe that Cuba does not have proper Internet for its people. In face of the events like Arab Spring, I thought everybody in the world has at least basic Internet access by now. Unbelievable.&lt;/p&gt;
@@ -175,19 +210,19 @@ An ironic side note was that people need a title to recognize poetry.&lt;/p&gt;
 &lt;p&gt;I think it is remarkable and courageous to make art facing physical harm and punishment. &lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2012/01/06/lizabel-monica-visit.html&quot;&gt;Lizabel Monica Visit&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 06, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/06/lizabel-monica-visit.html&quot;&gt;Lizabel Monica Visit&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 06, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[John Cage - Art and Technology]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2012/01/05/john-cage-art-and-technology.html" />
-  <id>http://h10r.github.io/articles/2012/01/05/john-cage-art-and-technology</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/05/john-cage-art-and-technology.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/05/john-cage-art-and-technology</id>
   <published>2012-01-05T08:03:00Z</published>
   <updated>2012-01-05T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;I like the idea of synergies between art and technology and I do believe that everybody nowadays benefits from technology. Not only, but also, regarding the art world. I also agree with Cage when he says “all technology must move toward” to what he describes as an “identification with nature” in “complete mystery”. This really reminds me of the Tangible User Interfaces. Invented at the MIT Media Lab by Hiroshi Ishii and his Tangible Media Group, Tangible User Interfaces are an alternative to traditional human computer interaction. Their goal is it to make technology tangible and invisible, moving technology away from personal computers, which you use with a mouse and keyboard, towards seemingless and ubiquitous computing.&lt;/p&gt;
@@ -201,55 +236,19 @@ An ironic side note was that people need a title to recognize poetry.&lt;/p&gt;
 &lt;p&gt;A beautiful remark is the idea that music is the “only true international language”. 
 I also like Cage’s approach to have manuscript pages, which leave the composer’s hand. This renunciation is a really nice comment on the art of the twentieth century, as almost everything changed and most of the rules and the conventional wisdom did not apply to art anymore. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2012/01/05/john-cage-art-and-technology.html&quot;&gt;John Cage - Art and Technology&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 05, 2012.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Game Proposal - Kraken & Kaos]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2012/01/05/game-proposal-kraken-and-kaos.html" />
-  <id>http://h10r.github.io/articles/2012/01/05/game-proposal-kraken-and-kaos</id>
-  <published>2012-01-05T08:03:00Z</published>
-  <updated>2012-01-05T08:03:00Z</updated>
-  <author>
-    <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
-    <email>you@email.com</email>
-  </author>
-  <content type="html">&lt;p&gt;My idea is based on the underwater sound called “Bloop”. “Bloop” was an extremely powerful ultra-low frequency sound, which the U.S. National Oceanic and Atmospheric Administration (NOAA) detected in 1997. The fascinating thing about “Bloop” is the fact that it was registered by several different sensor at a range of over 5,000km (3,100 miles). This means, that the sound is much louder  than anything any known animal in the sea could possibly produce. In pop culture, this is often regarded as a sign for the existence of sea monsters or even HP Lovecraft’s Cthulhu.&lt;/p&gt;
-
-&lt;p&gt;In Kraken &amp;amp; Kaos, a group of players act together as a team, guarding an island in the sea. On this island, a group of people lives. The people need to be protected. This can be done by moving them on the island. Moreover, the players can set up walls and anti-sea monster warfare, protecting the people with different strategies. My design goal is to make people interact with each other in a thrilling way, while having the ability to create something. The thrilling element is implemented by the fact that some players are not only part of the island defense committee, but also undercover helpers of the sea monster. The game is turn-based. First, all players in the game discuss their strategy of where to move their people and how to arm the island. After that, all players secretly playing for the monster team decide where to move the monster and whether to attack the island or not. Any attack will cost health energy, but it might pay off in terms of victims, which increase the energy of the monster. &lt;/p&gt;
-
-&lt;p&gt;The most exciting part of this game is the discussion of the island defense committee, as everybody is suspicious and might be part of the conspiracy, while on the other hand the group has to act in effort to save the people. The game is over, when either all people or the sea monster is dead (no energy left).&lt;/p&gt;
-
-&lt;p&gt;The main idea is very similar to most tower defense games. But in this case, the danger is invisible. The social interaction is inspired by the popular french party game “Les loups-garous de Thiercelieux”, where a town is defending themselves against a group of werewolves among them.&lt;/p&gt;
-
-&lt;p&gt;The game is a multiplayer game, where people communicate in Person, via text-chat and/or Skype. I think text-chat might be the most thrilling experience though, as it is the most ambiguous form of communication. The gameplay should be pretty similar to games like “Age of Empires”, enabling the group to build anti-sea monster warfare. &lt;/p&gt;
-
-&lt;p&gt;I would like to implement this as a server-based online game, with a small server written in Ruby on Rails and an client in Processing.js.
-In a physical version, a storyteller, a map of an island and some token are sufficient. The storyteller has to  makes sure to play out the movement of the sea monster without the entire committee noticing.&lt;/p&gt;
-
-&lt;p&gt;The audience includes any social human being. Age does not matter that much, although some basic acting skill is a plus. Generally, any child able to lie is able to play the game. Playing the game might augment children’s knowledge of human nature and advocate their critical thinking skills.&lt;/p&gt;
-
-&lt;h4 id=&quot;sources&quot;&gt;Sources&lt;/h4&gt;
-
-&lt;p&gt;Guerriero, Andy, “6 Insane Discoveries That Science Can’t Explain”, Cracked.com, &lt;a href=&quot;http://www.cracked.com/article_16871_6-insane-discoveries-that-science-cant-explain_p2.html&quot;&gt;http://www.cracked.com/article_16871_6-insane-discoveries-that-science-cant-explain_p2.html&lt;/a&gt; (accessed September 5, 2011).&lt;/p&gt;
-
-&lt;p&gt;Wikipedia contributors, “Bloop”, Wikipedia, The Free Encyclopedia, &lt;a href=&quot;http://en.wikipedia.org/w/index.php?title=Bloop&amp;amp;oldid=448059295&quot;&gt;http://en.wikipedia.org/w/index.php?title=Bloop&amp;amp;oldid=448059295&lt;/a&gt;(accessed September 5, 2011).&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2012/01/05/game-proposal-kraken-and-kaos.html&quot;&gt;Game Proposal - Kraken & Kaos&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 05, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/05/john-cage-art-and-technology.html&quot;&gt;John Cage - Art and Technology&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 05, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[John Cage - Purpose and Intentionality in Music]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2012/01/04/john-cage-and-purpose-and-intentionality.html" />
-  <id>http://h10r.github.io/articles/2012/01/04/john-cage-and-purpose-and-intentionality</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/04/john-cage-and-purpose-and-intentionality.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/04/john-cage-and-purpose-and-intentionality</id>
   <published>2012-01-04T08:03:00Z</published>
   <updated>2012-01-04T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;h4 id=&quot;can-you-remove-purpose-or-intentionality-in-music--in-what-ways-does-cage-attempt-to-do-this&quot;&gt;Can you remove purpose or intentionality in music?  In what ways does Cage attempt to do this?&lt;/h4&gt;
@@ -271,19 +270,19 @@ On the other hand, I don’t like this in connection to a definition of music, a
 
 &lt;p&gt;In the text Cage discusses his use of “chance operations”, using both formal systems like the I Ching as well as self-reflection on his imperfections. But the most striking comment on his choices might be this answer: “By not giving a thought”. Even with this information in mind, I think it is really hard to answer this question. On the one hand, as Cage apparently put a lot of thought in his music and he has a very strong idea about what to say. On the other hand, he does not convey his message in traditional ways, that is via music, but rather by what I describe as theory, premise or background story. Therefore, I think that Cage might think of all these factors beforehand and then find a way to implement these ideas. The development of 4”33’, for example, could be more like designing a board game, where you set up the rules and the scope of action, rather than the actual action.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2012/01/04/john-cage-and-purpose-and-intentionality.html&quot;&gt;John Cage - Purpose and Intentionality in Music&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 04, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/04/john-cage-and-purpose-and-intentionality.html&quot;&gt;John Cage - Purpose and Intentionality in Music&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 04, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Modes of listening, Pierre Schaeffer]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2012/01/03/modes-of-listening.html" />
-  <id>http://h10r.github.io/articles/2012/01/03/modes-of-listening</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/03/modes-of-listening.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/03/modes-of-listening</id>
   <published>2012-01-03T08:03:00Z</published>
   <updated>2012-01-03T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;h4 id=&quot;what-are-the-three-modes-of-listening-and-how-do-they-differ-from-each-other&quot;&gt;What are the three modes of listening, and how do they differ from each other?&lt;/h4&gt;
@@ -305,19 +304,19 @@ But as said in the text, this connection can be broken by repetition, which is a
 But I don’t think achieving the mode of Reduced Listening is much harder with electronic music in general. If you think about synthesizer and for example frequency modulation synthesis (FM synthesis), it is abstract and does not relate to things in the real world. Therefore, I think it is as easy to achieve Reduced Listening in electronic music as it is in classical music. Especially as musical instruments are also sometimes connected to certain causes (like in Prokofiev’s “Peter and the Wolf”). Reduced Listening is of course the goal of musique concrète, as you remove the cause of a sound to use it as your musical material. But even in musique concrète, you can’t completely remove the cause of sound. Schaeffer for example names his piece “Études de chemin de fer”, which points the listener to the fact that he is using train sounds as his musical material and which makes Reduced Listening harder.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2012/01/03/modes-of-listening.html&quot;&gt;Modes of listening, Pierre Schaeffer&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 03, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/03/modes-of-listening.html&quot;&gt;Modes of listening, Pierre Schaeffer&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 03, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[John Cage and the Center of the Creative and Performing Arts at SUNY Buffalo]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2012/01/02/john-cage-and-suny-buffalo.html" />
-  <id>http://h10r.github.io/articles/2012/01/02/john-cage-and-suny-buffalo</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/02/john-cage-and-suny-buffalo.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/02/john-cage-and-suny-buffalo</id>
   <published>2012-01-02T08:03:00Z</published>
   <updated>2012-01-02T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;The Center of the Creative and Performing Arts seems to have been a very innovative place with a vision and many people who were curious and passionate about new music. For Cage, just like for many other people, this must have been very appealing. One of the aims of the Center was to close the gap between performer and composer. This is also one of Cage’s main themes, as he for example left room for interpretation with his graphical notations, thereby encouraging the performers to add their interpretation to the works. &lt;/p&gt;
@@ -333,19 +332,19 @@ But I don’t think achieving the mode of Reduced Listening is much harder with 
 &lt;p&gt;Working at the center was also a big commitment, as the people had to relocate to Buffalo to work with the Center. But this created a unique spirit and made the group working possible, as they had a defined place to meet. Cage was tied to New York City, just like his collaborators Merce Cunningham and David Tudor, so he knew the advantage of working together in the same place. While New York City is certainly an inspiring and interesting city, it might not be the best place to invent completely new music, as there are so many influences. Moreover, I think it can be pretty hard to be heard in New York City, as the musical scene is so much bigger than in Buffalo.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2012/01/02/john-cage-and-suny-buffalo.html&quot;&gt;John Cage and the Center of the Creative and Performing Arts at SUNY Buffalo&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 02, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/02/john-cage-and-suny-buffalo.html&quot;&gt;John Cage and the Center of the Creative and Performing Arts at SUNY Buffalo&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 02, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[John Cage - What is music?]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2012/01/01/john-cage-what-is-music.html" />
-  <id>http://h10r.github.io/articles/2012/01/01/john-cage-what-is-music</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/01/john-cage-what-is-music.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/01/john-cage-what-is-music</id>
   <published>2012-01-01T08:03:00Z</published>
   <updated>2012-01-01T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;Cage and others liberated music from tradition and connected it with dance and performance art, which made it more expressive, but also very different from traditional music. He is also a good example for the art of the twentieth century, as almost everything changed and most of the conventional rules did not apply to this new art any more. In his “Preface to Notations”, Cage describes music as the “only international language”, which is a wonderful comment on the nature of music.&lt;/p&gt;
@@ -360,111 +359,76 @@ But I don’t think achieving the mode of Reduced Listening is much harder with 
 
 &lt;p&gt;Music was not only about melodies and sounds anymore, but became a way of artistic expression, equally important as painting or dance. This of course had a big impact on the musician’s who played the pieces Cage composed. Cage did his experiments with virtuosity and challenged musicians to play especially hard pieces of music. He also introduced room for interpretation with his graphic notations, as it was not always completely clear and definite how to play his music.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2012/01/01/john-cage-what-is-music.html&quot;&gt;John Cage - What is music?&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 01, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/01/john-cage-what-is-music.html&quot;&gt;John Cage - What is music?&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 01, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[What a Difference a Day Made]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/travel-blog/2011/08/11/what-a-difference-a-day-made.html" />
-  <id>http://h10r.github.io/travel-blog/2011/08/11/what-a-difference-a-day-made</id>
-  <published>2011-08-11T08:03:00Z</published>
-  <updated>2011-08-11T08:03:00Z</updated>
+  <title type="html"><![CDATA[Mutual Core]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/travel-blog/2011/10/21/mutual-core.html" />
+  <id>http://0.0.0.0:4000/travel-blog/2011/10/21/mutual-core</id>
+  <published>2011-10-21T08:03:00Z</published>
+  <updated>2011-10-21T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
-  <content type="html">&lt;p&gt;Jetzt bin ich also endlich in Buffalo. So hoch wie New York City ist, so weitläufig ist Buffalo. Die Uni, insbesondere der North Campus, an dem ich die meisten Kurse haben werde und in dessen Nähe auch das Hotel ist, in dem ich gerade wohne, ist relativ weit von der Innenstadt entfernt. Der Campus liegt, ähnlich wie die Uni Bremen, direkt an der Autobahn am Arsch der Welt. Dementsprechend wenig ist hier in der Nähe des Hotels los. Im ersten Moment war das für mich, der mittags noch in New York war und nur ein bisschen mehr als eine Stunde mit JetBlue geflogen ist, ein kleiner Schock. Genau wie mein Zimmer. Denn das ist riesig, hat ein eigenes Bad mit Badewanne, Kabelfernsehen, Strom und Internet. Kein Vergleich zu meinem Bett mit Tür in New York. Richtig geil war auch, dass die University at Buffalo das Taxi vom Flughafen zum Hotel bezahlt hat.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Reisen ist eine gute Sache! Und Kanada ein sehr schönes Land. Auch wenn ich den Eindruck habe, dass Kanada und die USA gar nicht so unterschiedlich sind. Vielleicht liegt das aber auch einfach daran, dass Buffalo kanadisch geprägt ist und Toronto / Ontario wiederum relativ amerikanisch geprägt ist.&lt;/p&gt;
 
-&lt;p&gt;Die beste Nachricht ist aber wohl, dass ich ein Zimmer in Buffalo habe! Man muss dazu sagen, dass ich mich bewusst gegen eine Unterkunft auf dem Campus entschieden habe und bis gestern noch keine Ahnung hatte, wo und wie ich wohnen werde. Das hat mir in den letzten Tag auch einige Bauchschmerzen bereitet, zumal niemand bei Craigslist auf meine Anfragen reagiert hat (Bauchschmerzen habe ich aber sowieso. Wegen des Essens, glaube ich). &lt;/p&gt;
+&lt;p&gt;Um nach Toronto zu kommen, haben wir uns ein Auto gemietet. War schön, endlich mal wieder Auto fahren zu dürfen. Wobei es interessante Unterschiede zwischen Deutschland und den USA gibt. Man darf hier zum Beispiel an den meisten Ampeln auch rechts abbiegen, wenn rot ist. Ein Gefühl von Anarchie, wenn man das zum ersten Mal macht! Ich hoffe, dass ich mich nicht allzu sehr daran gewöhnt habe und das nie in Deutschland versuche. Bis auf das störend niedrige Tempolimit ging das Fahren aber klar. Wobei die Parkplatzsuche in der Stadt natürlich immer ätzend ist.&lt;/p&gt;
 
-&lt;p&gt;Ich habe aber vor einem Monat schon ein paar Leuten geschrieben und ein nettes Inserat gesehen. Die Leute wollten zwar ursprünglich jemanden, der für ein Jahr dort einzieht. Sie haben aber gesagt, dass sie sich melden, wenn das Zimmer Mitte August noch nicht vermietet ist. Was sie auch getan haben. Ich bin also heute morgen hingegangen - und habe das Zimmer direkt genommen. Zum einen ist es ein wirklich schönes Haus mit großer Küche, Wohnzimmer und Geschirrspülmaschine. Zum anderen habe ich mich mit Nathan, der Zahnarzt wird und gerade graduate ist, auf Anhieb super verstanden. Nathan leiht mir übrigens sowohl einen Tisch als auch ein Bett, was ein feiner Zug ist und einiges leichter macht. 
-Die anderen zwei Mitbewohnen klingen Nathans Beschreibung nach auch sehr sympathisch. Außerdem habe ich direkt eine Flasche Franziskaner Weißen in der Küche bemerkt und als gutes Zeichen gedeutet. Als Nathan dann noch erzählte, dass einer der Mitbewohner für eine Brauerei arbeitet und hin und wieder etwas mit nach Hause bringt, musste ich nicht mehr groß überlegen. 
-Das hat sogar das Potential, Micheles Bremer Mitbewohner zu toppen. Auch wenn der als experimenteller Bäcker sicher auch nicht schlecht war.&lt;/p&gt;
+&lt;p&gt;Unterwegs war ich mit zwei Freundinnen von der Uni. Suzy (England) und Annakaisa (Finnland). Mit an Board waren auch die Eltern von Annakaisa. Das war eine interessante Mischung, die den stumpfsinnigen U.S.-Grenzbeamten ein bisschen überfordert hat (“Do you all study together?”).&lt;/p&gt;
 
-&lt;p&gt;Das Haus liegt in der Nähe vom South Campus, der wiederum näher an der Innenstadt ist als der North Campus. Es fährt aber ein Shuttle zwischen den Campus. Außerdem ist es mit dem Fahrrad nur eine Viertelstunde zum North Campus.
- Das Straßenbahnsystem in Buffalo ist übrigens nicht annährend so verwirrend wie das in New York. Das liegt aber leider vor allem daran, dass es nur eine Linie gibt ;). Immerhin kann man sich da nicht vertun. Die Bahn fährt direkt vom South Campus in die Innenstadt und zurück. Die Innenstadt habe ich mir heute dann direkt angeguckt. Besonders beeindruckt hat mich die City Hall, also das Rathaus. Aber es gibt noch mehr interessante Gebäude in Buffalo. Unter anderem einige, die Frank Lloyd Wright entworfen hat. Die muss ich mir aber mal angucken, wenn ich ein Fahrrad habe. Und das werde ich wohl brauchen.&lt;/p&gt;
+&lt;p&gt;Ganz im Gegensatz zu eurem redseligen Hendrik sind die Finnen ein eher schweigsames Volk. Gesprochen wird nur das Nötigste und beim Essen schonmal gar nicht. War trotzdem schön und Annakaisa ist der Beweis, dass auch Finnen viel reden können.&lt;/p&gt;
 
-&lt;p&gt;Das Fernsehprogramm hier ist ausgezeichnet. Es läuft eigentlich immer was Sehenswertes (gerade Clone Wars, jetzt Thundercats). Die Daily Show kannte ich ja schon vorher gut. Was auch empfehlenswert ist und direkt danach läuft, ist der Colbert Report. Falls mal nichts läuft, hat man immer noch Hulu. Das ist sowas wie Kino.to in legal und mit super Qualität. Aber keine Sorge, ich gucke nicht den ganzen Tag Fernsehen. Könnte man aber, was vielleicht erklärt, warum so wenig auf den Straßen los ist. Vielleicht sind das aber auch nur die Nachwirkungen des Time Squares.&lt;/p&gt;
+&lt;p&gt;Wir hatten ein fantastisches Hostel (Planet Traveler, falls ihr mal nach Toronto kommt). Vielleicht das beste Hostel, das ich bis jetzt gesehen habe. Mit einer wunderschönen Dachterrasse mit Blick auf die Skyline von Toronto. Mit sehr schönem Zimmer, Frühstück inklusive und freiem Abendessen am Samstag auf der Dachterrasse. Außerdem konnte man den ganzen Tag Kaffee trinken und Popcorn essen. Hervorragend! &lt;/p&gt;
 
-&lt;p&gt;Zum Essen: Neben den Veggie Patties bei Subway ist Taco Bell meine große vegetarische Hoffnung. Ich kann vor allem die bean burritos empfehlen. Zumal die echt günstig sind. Einer der Mitarbeiter bei Taco Bell, ein netter Immigrant aus Kenia, hat mir nicht nur das komplette Menu erklärt, sondern mir auch direkt angeboten, beim ihm zur Untermiete zu wohnen. Nettes Angebot, auch wenn er ziemlich weit ab vom Schuss wohnt. Sowieso sind die Leute in Buffalo hilfsbereit und nett, auch wenn ich aus ihrer Perspektive manchmal blödsinnige Fragen stelle. Zum Beispiel wusste ich nicht, wie im Bus deutlich mache, dass ich an der nächsten Station aussteigen will. Der Trick ist, nicht nach irgendwelchen Knöpfen zu suchen, sondern an einer Schnur über dem Fenster zu ziehen. Muss man auch erstmal drauf kommen. &lt;/p&gt;
+&lt;p&gt;Toronto ist eine wunderschöne Stadt. Es war sowieso schön mal wieder in einer richtigen Stadt zu sein. Buffalo ist gut und schön, aber in Toronto war unser Hostel mitten in der Stadt und alles war ein bisschen szeniger. So wie das Viertel in Bremen. Toronto hat diesen schönen CN Tower. Da fährt man hoch und hat einen fantastischen Blick auf die Stadt. Cool ist vor allem, dass der Tower eine große Glasplatten im Boden hat und man nach unten gucken kann. Für Leute mit Höhenangst vielleicht nicht unbedingt das Richtige, aber ich hatte meinen Spaß und bin fein rumgesprungen.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/travel-blog/2011/08/11/what-a-difference-a-day-made.html&quot;&gt;What a Difference a Day Made&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+&lt;p&gt;Das Nachtleben in Toronto war schön, aber kurz. Die Bars schließen nämlich alle schon um 2 Uhr. Und das am Freitag und am Samstag! Damit hätte ich nun wirklich nicht gerechnet. Zumal Toronto mit 2,5 Millionen Einwohner ja wesentlich größer als Hamburg ist. Wir hatten trotzdem unseren Spaß. Die Kanadier, mit denen wir gesprochen haben, haben sich nämlich große Mühe gegeben, alle Klischees zu erfüllen, aye. Die Amis haben uns nämlich vorher erzählt, dass Kanadier nach jedem Satz “Aye” sagen, aye. Und das haben sie tatsächlich gemacht, aye. Eher nervig, aye. Zwei der Kanadier waren außerdem sehr dumm, betrunken oder beides. Dem einen musste ich dreimal erklären, dass ich aus Deutschland komme. Nur damit er mich drei Minuten später fragt: “So how is living in France like, aye?”. Sein Kumpel war auch nicht besser. Nachdem Suzy ihm erzählt hat, dass sie aus London kommt, fragt er: “Oh cool, London, Ontario!” “No, London, ENGLAND!”. Zumal Suzy einen kräftigen britischen Akzent hat. Und jeder, wirklich jeder Amerikaner und Kanadier ist einfach entzückt, wenn er einen britischen Akzent hört. Im Herzen sind das nämlich beides noch glückliche Kolonien, die heimlich die Queen anbeten (die Kanadier drucken die Alte ja sogar auf ihr Monopolygeld).&lt;/p&gt;
+
+&lt;p&gt;Die Uni läuft ansonsten gut. Habe heute meine Präsentation in “Philosophy and Pop Culture” gehalten. Das ist nämlich nicht nur Simpsons und Star Wars gucken. In meiner Präsentation ging es um “Dialectics of the Force in Star Wars”. Die Interpretation des Profs bezog sich hauptsächlich auf Hegel, seinen “Pathway to Spirit” und die alles umspannende “Life Force”. Ich habe es aber lieber auf Nietzsche und die attische Tragödie bezogen. Kam erstaunlich gut an.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/travel-blog/2011/10/21/mutual-core.html&quot;&gt;Mutual Core&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on October 21, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Universal Tellerwäscher]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/travel-blog/2011/08/11/universal-tellerwascher.html" />
-  <id>http://h10r.github.io/travel-blog/2011/08/11/universal-tellerwascher</id>
-  <published>2011-08-11T08:03:00Z</published>
-  <updated>2011-08-11T08:03:00Z</updated>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/travel-blog/2011/09/13/universal-tellerwascher.html" />
+  <id>http://0.0.0.0:4000/travel-blog/2011/09/13/universal-tellerwascher</id>
+  <published>2011-09-13T08:03:00Z</published>
+  <updated>2011-09-13T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;So. Ich glaube, jetzt muss ich erstmal ein paar Sätze zu Blödsinn loswerden. Eigentlich mag ich alberne Sachen ja sehr gerne, vor allem wenn Tulpen und Mümmelmann dabei eine Rolle spielen. Der Blödsinn, den ich jetzt meine, ist aber ein anderer. Ich habe zum Beispiel gerade eine Flasche Cola im Laden hier auf dem Campus gekauft. Zwei Liter. Weil die Zweiliterflasche Cola billiger war als ein halber Liter. Warum? Die Trümmerfrau in mir hat es jedenfalls einfach nicht übers Herz gebracht, mehr für weniger zu bezahlen! &lt;/p&gt;
 
 &lt;p&gt;Blödsinnig sind auch die Schlangen in der Bibliothek. Es gibt dort 15 Computer an Expressterminals, an denen man für eine Viertelstunde Sachen raussuchen und ausdrucken kann. Es gibt aber auch 20 Computer, an denen man so lange arbeiten kann, wie man will. Kein Unterschied, nur kein Zeitlimit. Und? Die Amerikaner stehen an der Expressschlange an. Auch wenn drei der anderen Computer frei sind. Punkt für mich, weil ich immer schnell einen Computer bekomme. Aber trotzdem: Warum?
-Free Refill bei Subay? Leute kaufen trotzdem den größten Becher. Möglicherweise aber nicht nur aus Dummheit, sondern auch teilweise aus Faulheit, weil man für den Free Refill natürlich wieder einmal durch das Restaurant laufen muss. Und bei Subway gibt es keine elektrischen Rollstühle, wie in den meisten Supermärkten.&lt;/p&gt;
+Free Refill bei Subway? Leute kaufen trotzdem den größten Becher. Möglicherweise aber nicht nur aus Dummheit, sondern auch teilweise aus Faulheit, weil man für den Free Refill natürlich wieder einmal durch das Restaurant laufen muss. Und bei Subway gibt es keine elektrischen Rollstühle, wie in den meisten Supermärkten.&lt;/p&gt;
 
-&lt;p&gt;Noch mehr Blödsinn? Football! Meine Meinung zu Sport und Fußball im Besonderen ist ja stadtbekannt, aber im Vergleich zu den amerikanischen Sportarten ist sogar Fußball eine sehr aufregende Sache. Football besteht zu 1% Sachen mit einem Ball machen, zu 29% aus Leute umschubsen und zu 70% aus Pausen und Timeouts (mit Werbung und Marching Bands). Dank der Pausen dauert ein Footballspiel mit vier Vierteln à 15 Minuten dann drei Stunden. Wobei ich in der Mitte des dritten Viertels aufgegeben habe. Immerhin gab es, wie eigentlich bei allen anderen studentischen Veranstaltung, kostenlos Essen (Pizza) und Trinken. Da war ich natürlich wieder vorne mit dabei, ganz klar.&lt;/p&gt;
+&lt;p&gt;Noch mehr Blödsinn? Football! Meine Meinung zu Sport und Fußball im Besonderen ist ja stadtbekannt, aber im Vergleich zu den amerikanischen Sportarten ist sogar Fußball eine sehr aufregende Sache. Football besteht zu 1% aus Sachen mit einem Ball machen, zu 29% aus Leute umschubsen und zu 70% aus Pausen und Timeouts (mit Werbung und Marching Bands). Dank der Pausen dauert ein Footballspiel mit vier Vierteln à 15 Minuten dann drei Stunden. Wobei ich in der Mitte des dritten Viertels aufgegeben habe. Immerhin gab es, wie eigentlich bei allen anderen studentischen Veranstaltung, kostenlos Essen (Pizza) und Trinken. Da war ich natürlich wieder vorne mit dabei, ganz klar.&lt;/p&gt;
 
 &lt;p&gt;Auch toll: das Telefonnetz von AT&amp;amp;T! Von der wunderbaren Idee, auch für einkommende SMS und Anrufe zu bezahlen, habe ich ja schon geschrieben. Mindestens genauso innovativ ist die Idee, dass jeder Anrufsversuch 10 Cent kostet. Also bezahlt man jedes Mal, wenn man jemanden nicht erreicht. Ist aber alles nur halb so schlimm, weil man auf dem Campus sowieso fast nie Empfang hat.&lt;/p&gt;
 
-&lt;p&gt;Das sind aber alles eher Kleinigkeiten und ganz klar first world problems. Die meiste Zeit amüsiere ich mich hier mit ein bisschen ironischer Distanz über diese Sachen. Die Uni läuft ansonsten super. Ich muss relativ viel lesen und habe insgesamt das Gefühl, dass es hier wesentlich schulischer, aber auch organisierter und zielgerichteter zugeht als in Bremen.&lt;/p&gt;
+&lt;p&gt;Das sind aber alles eher Kleinigkeiten und ganz klar first world problems. Die meiste Zeit amüsiere ich mich hier ganz gut. Die Uni läuft ansonsten super. Ich muss relativ viel lesen und habe insgesamt das Gefühl, dass es hier wesentlich schulischer, aber auch organisierter und zielgerichteter zugeht als in Bremen.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/travel-blog/2011/08/11/universal-tellerwascher.html&quot;&gt;Universal Tellerwäscher&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[There’s more to life than this]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/travel-blog/2011/08/11/there-is-more-to-life-than-this.html" />
-  <id>http://h10r.github.io/travel-blog/2011/08/11/there-is-more-to-life-than-this</id>
-  <published>2011-08-11T08:03:00Z</published>
-  <updated>2011-08-11T08:03:00Z</updated>
-  <author>
-    <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
-    <email>you@email.com</email>
-  </author>
-  <content type="html">&lt;p&gt;Ich setze mal als bekannt voraus, dass es mir hier sehr gut geht und mir die Uni viel Spaß macht und interessant ist. Aber ich bin mittlerweile an einem sehr interessanten Punkt angelangt. Es ist der Punkt, an dem die Kleinigkeiten, von denen ich dachte, dass ich mich einfach daran gewöhnen werde, tierisch auf die Nerven gehen.&lt;/p&gt;
-
-&lt;p&gt;Zum Beispiel das Essen: Das Brot ist einfach furchtbar! Richtig ekelig. Der Käse schmeckt meistens nach nichts, oft aber auch einfach komisch. Dann gibt es noch dutzende Dinge, die man auf das Watteartige Brot schmieren kann. Aber technisch sind das nur verschiedene Zuckervariationen mit verschiedenen Geschmacksverstärkern. Als Alternative gibt es noch Cornflakes. Aber auch das ist auch nur bunter Zucker in verschiedenen Formen. &lt;/p&gt;
-
-&lt;p&gt;Das Schlimmste ist aber das Wasser. Das wird hier mit Fluoriden angereichert. Zur Kariesprophylaxe. Das muss man sich mal auf der Zunge oder besser gleich den Zähnen zergehen lassen. Dieses Land trinkt den ganzen Tag Cola, schmierrt sich Zucker aufs Brot und kippt dann Chemikalien ins Wasser, damit ihnen die Zähne nicht direkt ausfallen. 
-Weiß jemand von euch zufällig, wie giftig diese Fluoride sind? Ich habe da mal im Internet nach gesucht und beeindruckende Verschwörungstheorien gefunden.
-Und die Fluoride sind natürlich auch in der Zahnpasta. Deshalb darf man die hier nicht verschlucken. Kleiner Haushaltstip: Eine Tube Zahnpasta ist giftig genug, um ein Kleinkind zu töten. Aber auch, wenn man die Zahnpasta selbst verschluckt, wird einem auf der Tube geraten, einen Arzt zu rufen. &lt;/p&gt;
-
-&lt;p&gt;Ich habe mich anfangs ja sehr darüber gefreut, sowohl einen Wäschetrockner als auch eine Geschirrspülmaschine im Haus zu haben. Ist aber beides scheiße. Das Geschirr ist immer halb dreckig. Und die Klamotten werden nie wirklich trocken. Die Maschine erkennt nämlich automatisch, wenn die Sachen trocken genug sind. Klappt natürlich nicht. Dann stell ich sie per Hand nochmal für ne halbe Stunde an. 
-Und dann habe ich keinen Bock mehr, den Scheiß nochmal anzumachen und nehme die nassen Sachen raus.&lt;/p&gt;
-
-&lt;p&gt;Alle, die meine große Freude an Nationalsymbolen kennen, wird es außerdem freuen, dass die USA-Flagge vor meinem Haus die größte in unserer Siedlung ist. Selbstverständlich haben auch alle Nachbarn eine. Nicht, dass man vergisst, in welchem Land man gerade ist. &lt;/p&gt;
-
-&lt;p&gt;In dieser Woche ist außerdem Homecoming-Week an der Uni. Das hat irgendwie was mit dem ollen Community Spirit hier zu tun. Aber es ist hauptsächlich Anlass für Brot und Spiele. Zum Beispiel wurde am Montag in der Nähe der Bushaltestelle ein Auto kaputtgehauen. Also als Performance, kein normaler Gentrifizierungsprotest. Dann gab es am Dienstag einen elektrischen Bullen, so ein American Gladiators-Hüpfburg-Ding, wo man sich mit Bällen umschubsen konnte, und dieses Gummischnur-Wettrenn-Ding, das man von Festivals kennt. Am Mittwoch waren dann noch Kühe und Hühner auf dem Campus. Was das soll?&lt;/p&gt;
-
-&lt;p&gt;Gleichzeitig sind Wahlen für die Student Association. Das macht man hier natürlich nicht mit Flyern, sondern indem man im Anzug oder Kostüm Leute direkt anspricht. Mich hat eine kleine, blonde Cheerleaderin angesprochen. Sie trug ein ein Namensschild, auf dem ungelogen stand: “Hello, my name is Kittie”. Hello Kitty! Auf die Frage, was die SA (auch eine feine Abkürzung für die Student Association) so macht, zeigt sie auf das Tohowabohu, über das ich mich mit Fabian, einem ähnlich irritierten deutschen Studenten, fein lustig gemacht hat und sagt stolz: “This!”. Das reicht mir natürlich nicht, um sie zu wählen. Ich will Argumente. Und die bekomme ich auch. Ich soll ihre Partei wählen, weil es ihre Partei schon am längsten gibt. Aber auch das zieht bei mir nicht. Und mehr fällt ihr nicht ein, also wird sie persönlich. Sie guckt auf meine Vans und erzählt mir, dass sie jeden Tag Longboard fährt. Dann guckt sie auf meine Haare und erzählt mir, dass die meisten ihrer Freunde auch Hippies seien. Personalisierte Werbung. Wie bei Facebook. 
-Da ist mir der Bremer AStA doch lieber. Der kämpft für die wirklich wichtigen Dinge im Leben. Wie veganes Essen in der Mensa (zusätzlich zu den fünf vegetarischen Mahlzeiten). Außerdem muss man sich in Bremen nur zwischen links, sehr-links, dogmatisch-links, undogmatisch-links, Die Linke-links und diesen CDU-Affen entscheiden (RCDS).&lt;/p&gt;
-
-&lt;p&gt;Euer Skaterhippie
-Hendrik&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/travel-blog/2011/08/11/there-is-more-to-life-than-this.html&quot;&gt;There’s more to life than this&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/travel-blog/2011/09/13/universal-tellerwascher.html&quot;&gt;Universal Tellerwäscher&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on September 13, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Space Oddity]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/travel-blog/2011/08/11/space-oddity.html" />
-  <id>http://h10r.github.io/travel-blog/2011/08/11/space-oddity</id>
-  <published>2011-08-11T08:03:00Z</published>
-  <updated>2011-08-11T08:03:00Z</updated>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/travel-blog/2011/08/31/space-oddity.html" />
+  <id>http://0.0.0.0:4000/travel-blog/2011/08/31/space-oddity</id>
+  <published>2011-08-31T08:03:00Z</published>
+  <updated>2011-08-31T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;Das Orientierungsprogramm der Universität läuft seit Sonntag und ich habe schon eine Menge interessanter und netter Menschen kennengelernt. Als Europärer ist man unter den internationalen Student eine wirkliche Seltenheit. Hauptsächlich trifft man hier Japaner, Chinesen und Inder. Die meisten der Chinesen studieren irgendwas mit Business und ausnahmslos alle Inder, die ich kennengelernt habe, Computer Science. Heute Abend hat sich dann aber doch eine kleine europäische Union gebildet, die sich aus mir, einer Finnin und einem Haufen Briten zusammensetzt. An den Briten schätze ich nicht nur ihren wunderbaren Akzent, sondern auch ihren Sinn für Humor. Einen Digital Media / Media Studies habe ich bis jetzt aber noch nicht getroffen.&lt;/p&gt;
@@ -484,71 +448,102 @@ Außerdem habe ich mir heute ein neues Handy gekauft. Prepaid inkl. Simkarte fü
 
 &lt;p&gt;Die Faulheit der Amerikaner treibt übrigens seltsame Blüten. Dass es Restaurants mit Drive-In bzw. Drive-Trough gibt, kennt man ja auch aus Deutschland. Hier gibt es aber auch Drive-Through-Apotheken und Bankautomanten. Bankautomaten!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/travel-blog/2011/08/11/space-oddity.html&quot;&gt;Space Oddity&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/travel-blog/2011/08/31/space-oddity.html&quot;&gt;Space Oddity&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 31, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Mutual Core]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/travel-blog/2011/08/11/mutual-core.html" />
-  <id>http://h10r.github.io/travel-blog/2011/08/11/mutual-core</id>
-  <published>2011-08-11T08:03:00Z</published>
-  <updated>2011-08-11T08:03:00Z</updated>
+  <title type="html"><![CDATA[A Day in the Life]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/travel-blog/2011/08/23/a-day-in-the-life.html" />
+  <id>http://0.0.0.0:4000/travel-blog/2011/08/23/a-day-in-the-life</id>
+  <published>2011-08-23T08:03:00Z</published>
+  <updated>2011-08-23T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
-  <content type="html">&lt;p&gt;Reisen ist eine gute Sache! Und Kanada ein sehr schönes Land. Auch wenn ich den Eindruck habe, dass Kanada und die USA gar nicht so unterschiedlich sind. Vielleicht liegt das aber auch einfach daran, dass Buffalo kanadisch geprägt ist und Toronto / Ontario wiederum relativ amerikanisch geprägt ist.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Mittlerweile ist es richtig voll auf dem Campus. Das Semester hat gestern endlich angefangen und damit sind auch alle amerikanischen StudentInnen angekommen. Zumindest die, die nicht vom “Hurricane” Irene abgehalten wurden. Wobei ich selbst weder vom Erdbeben noch vom Hurricane besonders viel mitbekommen habe. Mein Mitbewohner (der bei der Brauerei) sagt aber, dass er gehört hat, wie das Erdbeben die Städte in seiner Telefonkonferenz passiert hat. &lt;/p&gt;
 
-&lt;p&gt;Um nach Toronto zu kommen, haben wir uns ein Auto gemietet. War schön, endlich mal wieder Auto fahren zu dürfen. Wobei interessante Unterschiede zwischen Deutschland und den USA gibt. Man darf hier zum Beispiel an den meisten Ampeln auch rechts abbiegen, wenn rot ist. Ein Gefühl von Anarchie, wenn man das zum ersten Mal macht! Ich hoffe, dass ich mich nicht allzu sehr daran gewöhnt habe und das nie in Deutschland versuche. Bis auf das störend niedrige Tempolimit ging das Fahren aber klar. Wobei die Parkplatzsuche in der Stadt natürlich immer ätzend ist.&lt;/p&gt;
+&lt;p&gt;Der Hurricane war hier in Buffalo überhaupt kein Thema, weil wir circa 800km von der Küste entfernt sind. Hier war strahlender Sonnenschein und ich war am Samstag zum zweiten Mal bei den Niagarafällen. Einfach weil es da so schön ist und die Uni eine Fahrt für die internationalen Studenten organisiert hat.&lt;/p&gt;
 
-&lt;p&gt;Unterwegs war ich mit zwei Freundinnen von der Uni. Suzy (England) und Annakaisa (Finnland). Mit an Board waren auch die Eltern von Annakaisa. Das war eine interessante Mischung, die den stumpfsinnigen U.S.-Grenzbeamten ein bisschen überfordert hat (“Do you all study together?”).&lt;/p&gt;
+&lt;p&gt;Ich glaube übrigens auch, dass der Hurricane ein bisschen in den Medien aufgeblasen wurde, damit Obama mal was hat, um innenpolitisch zu brillieren. Die Nachrichten hier in den Tagen sahen jedenfalls so aus, als würde New York City komplett und für immer untergehen. Und am Samstag wurde der Hurricane dann ja auch zum tropischen Wirbelsturm downgeratet (nichtmal AA+). Die New York Times hat mich dabei insofern enttäuscht, als dass sie diese ganze Panikmache an keiner Stelle hinterfragt hat, sondern immer nur Zusammenfassungen geliefert hat, was der Bürgermeister sagt (Ich vermisse die taz). Ansonsten kann man die New York Times aber ganz gut lesen, zumal ich die auf dem Campus gratis bekomme (auch wenn die relativ schnell vergriffen ist).&lt;/p&gt;
 
-&lt;p&gt;Ganz im Gegensatz zu eurem redseligen Hendrik sind die Finnen ein eher schweigsames Volk sind. Gesprochen wird nur das Nötigste und beim Essen schonmal gar nicht. War trotzdem schön und Annakaisa ist der Beweis, dass auch Finnen viel reden können.&lt;/p&gt;
+&lt;p&gt;Eher furchtbar ist dagegen die USA Today (auch gratis). Habe sie mir gestern geholt, weil die NYT nicht mehr da war, aber nach ein paar Artikel aufgegeben. Einer der Artikel ging darum, dass man die Quantentheorie ja auch nicht beweisen kann, sondern glauben muss. Und dass die Sache mit Gott das Gleiche sei. Sowieso scheint den Amerikanern nicht immer klar zu sein, was eine wissenschaftliche Theorie ist (“Evolution is a theory”). Auch so Sachen wie bedingungslose Menschenrechte sind hier noch nicht angekommen. Selbst meinem Mitbewohner, der wohlgemerkt Zahnarzt und sicherlich nicht dumm ist, fällt es schwer zwischen den Attentätern vom 11. September und Muslimen zu unterscheiden. Und was er von Guantanamo Bay hält, erzähle ich euch mal lieber bei einem beruhigenden Bier ;).&lt;/p&gt;
 
-&lt;p&gt;Wir hatten ein fantastisches Hostel (Planet Traveler, falls ihr mal nach Toronto kommt). Vielleicht das beste Hostel, das ich bis jetzt gesehen habe. Mit einer wunderschönen Dachterrasse mit Blick auf die Skyline von Toronto. Mit sehr schönem Zimmer, Frühstück inklusive und freiem Abendessen am Samstag auf der Dachterrasse. Außerdem konnte man den ganzen Tag Kaffee trinken und Popcorn essen. Hervorragend! &lt;/p&gt;
+&lt;p&gt;Die Organisation an meiner amerikanischen Uni ist ausgezeichnet. Im Moment stehen zum Beispiel überall auf dem Campus Leute herum, die einem Karten geben und die man nach dem Weg fragen kann. Ich habe heute zum Beispiel einen bestimmten Raum gesucht und wurde fast direkt vor die Tür begleitet. Das ist wirklich sehr hilfreich, gerade weil der Campus eher einer Kleinstadt ähnelt (Ich habe es leider immer noch nicht geschafft, ein paar Bilder vom Campus zu machen). 
+Außerdem gibt es ständig Veranstaltungen mit leckerem Essen. Sei es das Willkommenspicnic mit Hähnchenkeulen bzw. vegetarischen Burgern oder die Mitternachtspfannkuchen. Es gibt einfach immer was zu essen. Sogar auf der Willkommensparty gab es Stände mit Pizza, Cola, Kaffee, Nachos und Zuckerwatte (!). Natürlich alles gratis (wobei man natürlich genug Gebühren bezahlt hat). Nur Bier gabs leider keins. 
+Insgesamt bin ich ganz froh, nicht direkt auf dem Campus zu wohnen und gezwungenermaßen jeden Tag 20min. hin und her zu gehen. Auch wenn das im Winter wahrscheinlich nerven wird.&lt;/p&gt;
 
-&lt;p&gt;Toronto ist eine wunderschöne Stadt. Es war sowieso schön mal wieder in einer richtigen Stadt zu sein. Buffalo ist gut und schön, aber in Toronto war unser Hostel mitten in der Stadt und alles war ein bisschen szeniger. So wie das Viertel in Bremen. Toronto hat diesen schönen CN Tower. Da fährt man hoch und hat einen fantastischen Blick auf die Stadt. Cool ist vor allem, dass der Tower eine große Glasplatten im Boden hat und man nach unten gucken kann. Für Leute mit Höhenangst vielleicht nicht unbedingt das Richtige, aber ich hatte meinen Spaß und bin fein rumgesprungen.&lt;/p&gt;
+&lt;p&gt;Nach zwei Tagen habe ich jetzt auch einen ersten Eindruck von den Vorlesungen und Seminaren, die ich in den nächsten Monaten machen werde. Mein Eindruck ist sehr gut, auch wenn ich einen Haufen Arbeit auf mich zukommen sehe ;). “Game Design” und “Programming Graphics” werden von einem Hippie unterrichtet, der mir allein schon deshalb sympathisch ist, weil er als einziger Amerikaner, den ich bis jetzt kenne, längere Haare hat als ich. Die dann aber als Pferdeschwanz, worüber man wieder streiten kann. Und muss. Viel wichtiger ist aber, dass er augenscheinlich viel von seinem Handwerk versteht und einen sehr guten, aber auch strikten Plan hat. Einer der anderen Studenten hat mir außerdem erzählt, dass er früher für die NASA gearbeitet hat, was verhältnismäßig cool ist. &lt;/p&gt;
 
-&lt;p&gt;Das Nachtleben in Toronto war schön, aber kurz. Die Bars haben nämlich alle schon um 2 Uhr nachts geschlossen. Und das am Freitag und am Samstag! Damit hätte ich nun wirklich nicht gerechnet. Zumal Toronto mit 2,5 Millionen Einwohner ja wesentlich größer als Hamburg ist. Wir hatten trotzdem unseren Spaß. Die Kanadier, mit denen wir gesprochen haben, haben sich nämlich große Mühe gegeben, alle Klischees zu erfüllen, aye. Die Amis haben uns nämlich vorher erzählt, dass Kanadier nach jedem Satz “Aye” sagen, aye. Und das haben sie tatsächlich gemacht, aye. Eher nervig, aye. Zwei der Kanadier waren außerdem sehr dumm, betrunken oder beides. Dem einen musste ich dreimal erklären, dass ich aus Deutschland komme. Nur damit er mich drei Minuten später fragt: “So how is living in France like, aye?”. Sein Kumpel war auch nicht besser. Nachdem Suzy ihm erzählt hat, dass sie aus London kommt, fragt er: “Oh cool, London, Ontario!” “No, London, ENGLAND!”. Zumal Suzy einen kräftigen britischen Akzent hat. Und jeder, wirklich jeder Amerikaner und Kanadier ist einfach entzückt, wenn er britischen Akzent hört. Im Herzen sind das nämlich beides noch glückliche Kolonien, die heimlich die Queen anbeten (die Kanadier drucken die Alte ja sogar auf ihr Monopolygeld).&lt;/p&gt;
+&lt;p&gt;In “Game Design” sollen wir als erstes ein Brettspiel bzw. einen Prototyp aus Papier entwickeln, den wir dann ausprobieren und später als Compuerspiel implementieren. Ein spannender Ansatz, weil man sich so wirklich auf das Gameplay konzentrieren muss.&lt;/p&gt;
 
-&lt;p&gt;Die Uni läuft ansonsten gut. Habe heute meine Präsentation in “Philosophy and Pop Culture” gehalten. Das ist nämlich nicht nur Simpsons und Star Wars gucken. In meiner Präsentation ging es um “Dialectics of the Force in Star Wars”. Die Interpretation des Profs bezog sich hauptsächlich auf Hegel, seinen “Pathway to Spirit” und die alles umspannende “Life Force”. Ich habe es aber lieber auf Nietzsche und die attische Tragödie bezogen. Kam erstaunlich gut an.&lt;/p&gt;
+&lt;p&gt;“Programming Graphics” hat mich in der ersten halben Stunde sehr an meinen Grafikkurs bei Frieder erinnert. Während es bei Frieder wie immer ein Studium generale mit viel Mathematik, aber auch Systemkritik im Allgemeinen gab, geht es hier eher darum, OpenGL 3.2+ und Shader zu lernen. Zu meiner Freude in Python.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/travel-blog/2011/08/11/mutual-core.html&quot;&gt;Mutual Core&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+&lt;p&gt;Der dritte Kurs ist “Sound Media Poetics”, wo ich dank Frieders Medienkunstdefinition auch gleich einen guten Eindruck hinterlassen habe. Dort geht es um Poesie im Allgemeinen und Poesie mit Sound im Besonderen. Was das genau heißt, weiß ich zwar auch noch nicht, aber die erste Vorlesung hat mir super gefallen. Der Kurs findet in einer Art Kinosaal statt und der Dozent ist sehr selbstironisch. Allgemein sind die amerikanischen Dozent sehr unterhaltsam und gut darin, ihren Stoff zu präsentieren. Gleichzeitig sind sie aber auch sehr streng was die Benotung angeht, was im Falle von “Sound Media Poetics” zum Beispiel heißt, dass sich meine Endnote aus einem Vortrag, drei schriftlichen Prüfungen, einem Filmtagebuch, einer Filmkritik, einem kreativen Projekt und meiner Beteiligung im Kurs zusammensetzt. Schon krass.&lt;/p&gt;
+
+&lt;p&gt;Als vierten Kurs habe ich “Philosophy and Pop Culture” gewählt. Die erste Aufgabe dazu hatte ich ja schon bei Facebook gepostet. Sie bestand darin, sich ein paar Simpsonsfolgen und vielleicht Star Wars nochmal anzugegucken. Verschwiegen habe ich euch dabei, dass ich auch vierzig Seiten über Kant und seinen kategorischen Imperativ lesen sollte. Der Professor ist genauso kauzig, wie man es von einem Philosophieprofessor erwartet. Und sein Ansatz ist wirklich bemerkenswert, weil er die Philosophie von Kant, Hegel und Plato in und an Popkulturbeispielen wie den Simpsons, The Matrix und Star Wars erläutert. Seine These, dass das Fernsehen unsere neue Religion ist, halte ich aber für ein bisschen weit hergeholt ;).&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/travel-blog/2011/08/23/a-day-in-the-life.html&quot;&gt;A Day in the Life&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 23, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[What a Difference a Day Made]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/travel-blog/2011/08/13/what-a-difference-a-day-made.html" />
+  <id>http://0.0.0.0:4000/travel-blog/2011/08/13/what-a-difference-a-day-made</id>
+  <published>2011-08-13T08:03:00Z</published>
+  <updated>2011-08-13T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Jetzt bin ich also endlich in Buffalo. So hoch wie New York City ist, so weitläufig ist Buffalo. Die Uni, insbesondere der North Campus, an dem ich die meisten Kurse haben werde und in dessen Nähe auch das Hotel ist, in dem ich gerade wohne, ist relativ weit von der Innenstadt entfernt. Der Campus liegt, ähnlich wie die Uni Bremen, direkt an der Autobahn am Arsch der Welt. Dementsprechend wenig ist hier in der Nähe des Hotels los. Im ersten Moment war das für mich, der mittags noch in New York war und nur ein bisschen mehr als eine Stunde mit JetBlue geflogen ist, ein kleiner Schock. Genau wie mein Zimmer. Denn das ist riesig, hat ein eigenes Bad mit Badewanne, Kabelfernsehen, Strom und Internet. Kein Vergleich zu meinem Bett mit Tür in New York. Richtig geil war auch, dass die University at Buffalo das Taxi vom Flughafen zum Hotel bezahlt hat.&lt;/p&gt;
+
+&lt;p&gt;Die beste Nachricht ist aber wohl, dass ich ein Zimmer in Buffalo habe! Man muss dazu sagen, dass ich mich bewusst gegen eine Unterkunft auf dem Campus entschieden habe und bis gestern noch keine Ahnung hatte, wo und wie ich wohnen werde. Das hat mir in den letzten Tag auch einige Bauchschmerzen bereitet, zumal niemand bei Craigslist auf meine Anfragen reagiert hat (Bauchschmerzen habe ich aber sowieso. Wegen des Essens, glaube ich). &lt;/p&gt;
+
+&lt;p&gt;Ich habe aber vor einem Monat schon ein paar Leuten geschrieben und ein nettes Inserat gesehen. Die Leute wollten zwar ursprünglich jemanden, der für ein Jahr dort einzieht. Sie haben aber gesagt, dass sie sich melden, falls das Zimmer Mitte August noch nicht vermietet ist. Was sie auch getan haben. Ich bin also heute morgen hingegangen - und habe das Zimmer direkt genommen. Zum einen ist es ein wirklich schönes Haus mit großer Küche, Wohnzimmer und Geschirrspülmaschine. Zum anderen habe ich mich mit Nathan, der Zahnarzt wird und gerade graduate ist, auf Anhieb super verstanden. Nathan leiht mir übrigens sowohl einen Tisch als auch ein Bett, was ein feiner Zug ist und einiges leichter macht. 
+Die anderen zwei Mitbewohner klingen Nathans Beschreibung nach auch sehr sympathisch. Außerdem habe ich direkt eine Flasche Franziskaner Weizen in der Küche bemerkt und als gutes Zeichen gedeutet. Als Nathan dann noch erzählte, dass einer der Mitbewohner für eine Brauerei arbeitet und hin und wieder etwas mit nach Hause bringt, musste ich nicht mehr groß überlegen.&lt;/p&gt;
+
+&lt;p&gt;Das Haus liegt in der Nähe vom South Campus, der wiederum näher an der Innenstadt ist als der North Campus. Es fährt aber ein Shuttle zwischen den Campus. Außerdem ist es mit dem Fahrrad nur eine Viertelstunde zum North Campus.
+ Das Straßenbahnsystem in Buffalo ist übrigens nicht annährend so verwirrend wie das in New York. Das liegt aber leider vor allem daran, dass es nur eine Linie gibt ;). Immerhin kann man sich da nicht vertun. Die Bahn fährt direkt vom South Campus in die Innenstadt und zurück. Die Innenstadt habe ich mir heute dann direkt angeguckt. Besonders beeindruckt hat mich die City Hall, also das Rathaus. Aber es gibt noch mehr interessante Gebäude in Buffalo. Unter anderem einige, die Frank Lloyd Wright entworfen hat. Die muss ich mir aber mal angucken, wenn ich ein Fahrrad habe. Und das werde ich wohl brauchen.&lt;/p&gt;
+
+&lt;p&gt;Das Fernsehprogramm hier ist ausgezeichnet. Es läuft eigentlich immer was Sehenswertes (gerade Clone Wars, jetzt Thundercats). Die Daily Show kannte ich ja schon vorher gut. Was auch empfehlenswert ist und direkt danach läuft, ist der Colbert Report. Falls mal nichts läuft, hat man immer noch Hulu. Das ist sowas wie Kino.to in legal und mit super Qualität. Aber keine Sorge, ich gucke nicht den ganzen Tag Fernsehen. Könnte man aber, was vielleicht erklärt, warum so wenig auf den Straßen los ist. Vielleicht sind das aber auch nur die Nachwirkungen des Time Squares.&lt;/p&gt;
+
+&lt;p&gt;Zum Essen: Neben den Veggie Patties bei Subway ist Taco Bell meine große vegetarische Hoffnung. Ich kann vor allem die bean burritos empfehlen. Zumal die echt günstig sind. Einer der Mitarbeiter bei Taco Bell, ein netter Immigrant aus Kenia, hat mir nicht nur das komplette Menu erklärt, sondern mir auch direkt angeboten, bei ihm zur Untermiete zu wohnen. Nettes Angebot, auch wenn er ziemlich weit ab vom Schuss wohnt. Sowieso sind die Leute in Buffalo hilfsbereit und nett, auch wenn ich aus ihrer Perspektive manchmal blödsinnige Fragen stelle. Zum Beispiel wusste ich nicht, wie im Bus deutlich mache, dass ich an der nächsten Station aussteigen will. Der Trick ist, nicht nach irgendwelchen Knöpfen zu suchen, sondern an einer Schnur über dem Fenster zu ziehen. Muss man auch erstmal drauf kommen. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/travel-blog/2011/08/13/what-a-difference-a-day-made.html&quot;&gt;What a Difference a Day Made&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 13, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Hey white boy, whatcha doin’ downtown?]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/travel-blog/2011/08/11/hey-white-boy.html" />
-  <id>http://h10r.github.io/travel-blog/2011/08/11/hey-white-boy</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/travel-blog/2011/08/11/hey-white-boy.html" />
+  <id>http://0.0.0.0:4000/travel-blog/2011/08/11/hey-white-boy</id>
   <published>2011-08-11T08:03:00Z</published>
   <updated>2011-08-11T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
-  <content type="html">&lt;p&gt;Am Samstagabend war ich ganz stilecht auf dem Broadway und habe mir Hair angeguckt. Ohne gleich wieder mit Superlativen um mich zu werfen, hat mich das Stück schon schwer beeindruckt. Obwohl, oder gerade weil, ich ja auch den Film kenne und der einige Schwachstellen hat, um nicht zu sagen, teilweise stinklangweilig ist. Im Theater war das anders. Es wurde mehr wert auf die Musik gelegt, was bei den ausgezeichneten SängerInnen eine gute Wahl war. Und die langweiligen Teilen wurden einfach weggelassen.
+  <content type="html">&lt;p&gt;Am Samstagabend war ich ganz stilecht auf dem Broadway und habe mir Hair angeguckt. Ohne gleich wieder mit Superlativen um mich zu werfen, hat mich das Stück schon schwer beeindruckt. Obwohl, oder gerade weil, ich ja auch den Film kenne und der einige Schwachstellen hat, um nicht zu sagen, teilweise stinklangweilig ist. Im Theater war das anders. Es wurde mehr wert auf die Musik gelegt, was bei den ausgezeichneten SängerInnen eine gute Wahl war. Und die langweiligen Teile wurden einfach weggelassen.
 Ich hatte einen Platz auf dem Balkon, was wirklich weit oben war (das Theater war nicht besonders lang / tief, dafür aber sehr hoch). Im Endeffekt war das aber nicht so schlimm, auch wenn man ab und zu nicht mitbekommen hat, wie die Schauspieler ins Publikum gegangen sind. Im Stück war auch eine gute Balance zwischen ernster Kriegsdienstverweigerung / Vietnam-Kritik und einem Porträt der Hippie-Bewegung (auch wenn die beiden natürlich immer miteinander verbunden waren).
 Was mich an dem Stück wirklich beeindruckt hat und was ich, wie man so schön sagt, “mitnehmen” werde, ist das da wirklich nur Schauspieler, eine Band und eine gute Beleuchtung im Spiel waren. Mehr nicht. Also nichts, was man nicht auch in Bremen machen könnte, wenn man wollte ;).&lt;/p&gt;
 
 &lt;p&gt;Nach dem Stück bin ich dann nochmal über den Broadway gelaufen, der auch bei Nacht taghell war. Habe dann durch Zufall vor dem Planet Hollywood noch eine unglaubliche Sammlung teurer Sportwagen gesehen. Vor dem Planet Hollywood war auch Ice-T, den zwar weder ich noch die hundert anderen Leute, die ihn umringt haben, wirklich erkannt haben. Aber darum geht es ja auch nicht, oder?&lt;/p&gt;
 
-&lt;p&gt;Am Sonntag bin ich dann nach Greenwich Village gefahren. Da war ich dann unter anderem im Washington Square Garden, der direkt gegenüber der New York University liegt. Ich kannte den Park vor allem aus Dylans Biografie, weil sich in den Sechzigern dort jeden Sonntag viele Folkmusiker versammelt haben und Musik gemacht haben. Musiker habe ich aber leider keine gesehen. Bin dann weiter zu den Electric Lady Studios, die Jimi Hendrix für sich hat bauen lassen, auch wenn er leider nur einen Song dort aufgenommen hat (und leider nicht das Album Electric Ladyland, wie ich beim Namen irgendwie gehofft hätte). Dafür haben aber unter anderem John Lennon, Led Zeppelin und Radiohead&lt;/p&gt;
-
-&lt;p&gt;http://en.wikipedia.org/wiki/Electric_Lady_Studios&lt;/p&gt;
-
-&lt;p&gt;da ihre Alben aufgenommen. Jetzt mag der ein oder andere sich fragen: Was bringt es dem Jungen, sich das längst verlassene Studio von Jimi Hendrix anzugucken? An sich nicht viel, ein bisschen Aura vielleicht, aber an sich ist es nur ein feiner Grund, mal durchs Village zu laufen und sich die Straßen anzusehen.&lt;/p&gt;
+&lt;p&gt;Am Sonntag bin ich dann nach Greenwich Village gefahren. Da war ich dann unter anderem im Washington Square Garden, der direkt gegenüber der New York University liegt. Ich kannte den Park vor allem aus Dylans Biografie, weil sich in den Sechzigern dort jeden Sonntag viele Folkmusiker versammelt haben und Musik gemacht haben. Musiker habe ich aber leider keine gesehen. Bin dann weiter zu den Electric Lady Studios, die Jimi Hendrix für sich hat bauen lassen, auch wenn er leider nur einen Song dort aufgenommen hat (und leider nicht das Album Electric Ladyland, wie ich beim Namen irgendwie gehofft hätte). Dafür haben aber unter anderem John Lennon, Led Zeppelin und Radiohead dort ihre Alben aufgenommen. Jetzt mag der ein oder andere sich fragen: Was bringt es dem Jungen, sich das längst verlassene Studio von Jimi Hendrix anzugucken? An sich nicht viel, ein bisschen Aura vielleicht, aber an sich ist es nur ein feiner Grund, mal durchs Village zu laufen und sich die Straßen anzusehen.&lt;/p&gt;
 
 &lt;p&gt;Zum Essen. Hier ist es eigentlich genau so, wie man sich die USA vorstellt. Überall gibt es billig Pizza, Pommes, Burger, Hotdogs oder Döner. Und an jeder Straßenecke Starbucks. An jeder Straßenecke! Und alle sind voll. Keine Ahnung, was die Amerikaner daran so lieben. Ich habe hier zwei Straßen weiter einen ausgezeichneten Diner, in dem ich mir meinen Kaffee hole und dann so lange mein Akku reicht im Internet surfe. Da wird mir der Kaffee pausenlos nachgeschenkt und es kostet umgerechnet genau einen Euro. Ich bin es gerade auch ein bisschen Leid, die ganze Zeit Fastfood zu essen, zumal man hier vegetarisch meistens dann doch begrenzte Möglichkeiten hat. Aber ich habe ja ein ausgezeichnetes Kochbuch im Gepäck.&lt;/p&gt;
 
-&lt;p&gt;Vorgestern hatte ich mir eigentlich vorgenommen ins Metropolitan Museum of the Arts zu gehen, aber das hat, wie die meisten Museen in New York, am Montag geschlossen. Ich bin dann ins National Museum of the American Indian (NMAI) gegangen und war ziemlich enttäuscht. Zum einen, weil die Ausstellung so klein war. Zum anderen aber auch, weil es viele Repliken gab und viele der Gegenstände aus den 1990er oder den 2000er kamen und Textilien waren. Immerhin musste man für die paar bestickten Kleider und Kinderpuppen (à la Spielzeugmuseum) keinen Eintritt bezahlen. Und es gab auch ein paar coole Sachen, wie Friedenspfeifen, Statuen von Opfergöttern und ein Video, in dem ein paar Weiße ein Zelt nachgebaut haben. Und lustige Hüte (siehe Bilder).&lt;/p&gt;
+&lt;p&gt;Vorgestern hatte ich mir eigentlich vorgenommen ins Metropolitan Museum of the Arts zu gehen, aber das hat, wie die meisten Museen in New York, am Montag geschlossen. Ich bin dann ins National Museum of the American Indian (NMAI) gegangen und war ziemlich enttäuscht. Zum einen, weil die Ausstellung so klein war. Zum anderen aber auch, weil es viele Repliken gab und viele der Gegenstände aus den 1990er oder den 2000er kamen und Textilien waren. Immerhin musste man für die paar bestickten Kleider und Kinderpuppen (à la Spielzeugmuseum) keinen Eintritt bezahlen. Und es gab auch ein paar coole Sachen, wie Friedenspfeifen, Statuen von Opfergöttern und ein Video, in dem ein paar Weiße ein Zelt nachgebaut haben. Und lustige Hüte.&lt;/p&gt;
 
 &lt;p&gt;Letztendlich wusste ich dann aber nicht mehr so richtig, was ich mir noch angucken soll. Bis ich dann bei Facebook von Christian S. den entscheidenden Hinweis bekommen habe, dass ich mir unbedingt noch Coney Island angucken muss. Also bin ich einmal mit der Subway von Manhattan komplett durch Brooklyn an das äußerste Ende von New York gefahren. Und stand am Strand. Unglaublich, ein richtig schöner Sandstrand, zu dem man mit der U-Bahn fährt. Dazu noch ein Vergnügungspark mit Achterbahn (die Amis wissen, wie man sich amüsiert) und Nathan’s Famous Hot Dog. Den musste ich natürlich probieren. Hat wirklich gut geschmeckt, auch wenn es nur eine würzige Wurst und ein Stück Brot ist (damit sehr nah an meinem alten Bremer Hot Dog Rezept - Heißwurst mit Brot). Jedenfalls habe ich vorgestern den Tag am Strand verbracht, wozu man nicht viel schreiben muss, was aber eine wirklich super Sache ist.&lt;/p&gt;
 
-&lt;p&gt;Gestern war dann das erste und einzige Mal schlechtes Wetter in New York. Und zwar so richtig schlechtes. Habe deshalb die meiste Zeit des Tages bei Starbucks verbracht und mich mit einem Journalisten aus Neuseeland unterhalten, der Korrespondent für die Vereinten Nationen ist. Sein Fokus ist eigentlich Armut, auch wenn er sich gestern mehr für meine iPhone-Apps interessiert hat. Und er hat mir geraten, bei den Vereinten Nationen eine Führung zu machen, was ich dann auch heute, an meinem letzten Tag in New York, gemacht habe. Das hat sich auch auf jeden Fall gelohnt. Was mir im Gedächtnis hängengeblieben ist, ist folgendes Zitat: &lt;/p&gt;
+&lt;p&gt;Gestern war dann das erste und einzige Mal schlechtes Wetter in New York. Und zwar so richtig Schlechtes. Habe deshalb die meiste Zeit des Tages bei Starbucks verbracht und mich mit einem Journalisten aus Neuseeland unterhalten, der Korrespondent für die Vereinten Nationen ist. Sein Fokus ist eigentlich Armut, auch wenn er sich gestern mehr für meine iPhone-Apps interessiert hat. Er hat mir geraten, bei den Vereinten Nationen eine Führung zu machen, was ich dann auch heute, an meinem letzten Tag in New York, gemacht habe. Das hat sich auch auf jeden Fall gelohnt. Was mir im Gedächtnis hängengeblieben ist, ist folgendes Zitat: &lt;/p&gt;
 
 &lt;p&gt;“The UN was not created to take mankind to heaven, but to save humanity from hell.” 
 — Dag Hammarskjöld, Secretary-General from 1953 to 1961&lt;/p&gt;
@@ -558,72 +553,35 @@ Was mich an dem Stück wirklich beeindruckt hat und was ich, wie man so schön s
 &lt;p&gt;Ich habe mich heute im Central Park übrigens noch mit einer älteren Lady unterhalten, die so einige Geschichten über verstorbene Verwandte und Hunde auf Lager hatte - als Reisender hat man ja Zeit. Aber die Frau war auch sehr nett. Jedenfalls ging es in einer der Geschichten um ihren Sohn, der seinen Hund immer in der Uni bei sich hatte. Und, wie es der Zufall will, hat der Sohn in Buffalo an “meiner” Uni studiert. Wenn das mal kein gutes Omen ist! Ihrem Sohn hat es dort jedenfalls ausgezeichnet gefallen, auch wenn er sagt, dass man den Gehweg vor Schnee von Oktober bis Mai nicht zu Gesicht bekommt ;)!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/travel-blog/2011/08/11/hey-white-boy.html&quot;&gt;Hey white boy, whatcha doin’ downtown?&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[A Day in the Life]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/travel-blog/2011/08/11/a-day-in-the-life.html" />
-  <id>http://h10r.github.io/travel-blog/2011/08/11/a-day-in-the-life</id>
-  <published>2011-08-11T08:03:00Z</published>
-  <updated>2011-08-11T08:03:00Z</updated>
-  <author>
-    <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
-    <email>you@email.com</email>
-  </author>
-  <content type="html">&lt;p&gt;Mittlerweile ist es richtig voll auf dem Campus. Das Semester hat gestern endlich angefangen und damit sind auch alle amerikanischen StudentInnen angekommen. Zumindest die, die nicht vom “Hurricane” Irene abgehalten wurden. Wobei ich selbst weder vom Erdbeben noch vom Hurricane besonders viel mitbekommen habe. Mein Mitbewohner (der bei der Brauerei) sagt aber, dass er gehört hat, wie das Erdbeben die Städte in seiner Telefonkonferenz passiert hat. &lt;/p&gt;
-
-&lt;p&gt;Der Hurricane war hier in Buffalo überhaupt kein Thema, weil wir circa 800km von der Küste entfernt sind. Hier war strahlender Sonnenschein und ich war am Samstag zum zweiten Mal bei den Niagarafällen. Einfach weil es da so schön ist und die Uni eine Fahrt für die internationalen Studenten organisiert hat.&lt;/p&gt;
-
-&lt;p&gt;Ich glaube übrigens auch, dass der Hurricane ein bisschen in den Medien aufgeblasen wurde, damit Obama mal was hat, um innenpolitisch zu brillieren. Die Nachrichten hier in den Tagen sahen jedenfalls so aus, als würde New York City komplett und für immer untergehen. Und am Samstag wurde der Hurricane dann ja auch zum tropischen Wirbelsturm downgeratet (nichtmal AA+). Die New York Times hat mich dabei insofern enttäuscht, als dass sie diese ganze Panikmache an keiner Stelle hinterfragt hat, sondern immer nur Zusammenfassungen geliefert hat, was der Bürgermeister sagt (Ich vermisse die taz). Ansonsten kann man die New York Times aber ganz gut lesen, zumal ich die auf dem Campus gratis bekomme (auch wenn die relativ schnell vergriffen ist).&lt;/p&gt;
-
-&lt;p&gt;Eher furchtbar ist dagegen die USA Today (auch gratis). Habe sie mir gestern geholt, weil die NYT nicht mehr da war, aber nach ein paar Artikel aufgegeben. Einer der Artikel ging darum, dass man die Quantentheorie ja auch nicht beweisen kann, sondern glauben muss. Und dass die Sache mit Gott das Gleiche sei. Sowieso scheint den Amerikanern nicht immer klar zu sein, was eine wissenschaftliche Theorie ist (“Evolution is a theory”). Auch so Sachen wie bedingungslose Menschenrechte sind hier noch nicht angekommen. Selbst meinem Mitbewohner, wohlgemerkt Zahnarzt ist und sicherlich nicht dumm, fällt es schwer zwischen den Attentätern vom 11. September und Muslimen zu unterscheiden. Und was er von Guantanamo Bay hält, erzähle ich euch mal lieber bei einem beruhigenden Bier ;).&lt;/p&gt;
-
-&lt;p&gt;Die Organisation an meiner amerikanischen Uni ist ausgezeichnet. Im Moment stehen zum Beispiel überall auf dem Campus Leute herum, die einem Karten geben und die man nach dem Weg fragen kann. Ich habe heute zum Beispiel einen bestimmten Raum gesucht und wurde fast direkt vor die Tür begleitet. Das ist wirklich sehr hilfreich, gerade weil der Campus eher einer Kleinstadt ähnelt (Ich habe es leider immer noch nicht geschafft, ein paar Bilder vom Campus zu machen). 
-Außerdem gibt es ständig Veranstaltungen mit leckerem Essen. Sei es das Willkommenspicnic mit Hähnchenkeulen bzw. vegetarischen Burgern oder die Mitternachtspfannkuchen. Es gibt einfach immer was zu essen. Sogar auf der Willkommensparty gab es Stände mit Pizza, Cola, Kaffee, Nachos und Zuckerwatte (!). Natürlich alles gratis (wobei man natürlich genug Gebühren bezahlt hat). Nur Bier gabs leider keins. 
-Insgesamt bin ich ganz froh, nicht direkt auf dem Campus zu wohnen und gezwungenermaßen jeden Tag 20min. hin und her zu gehen. Auch wenn das im Winter wahrscheinlich nerven wird.&lt;/p&gt;
-
-&lt;p&gt;Nach zwei Tagen habe ich jetzt auch einen ersten Eindruck von den Vorlesungen und Seminaren, die ich in den nächsten Monaten machen werde. Mein Eindruck ist sehr gut, auch wenn ich einen Haufen Arbeit auf mich zukommen sehen ;). “Game Design” und “Programming Graphics” werden von einem Hippie unterrichtet, der mir allein schon deshalb sympathisch ist, weil er als einziger Amerikaner, den ich bis jetzt kenne, längere Haare hat als ich. Die dann aber als Pferdeschwanz, worüber man wieder streiten kann. Und muss. Viel wichtiger ist aber, dass er augenscheinlich viel von seinem Handwerk versteht und einen sehr guten, aber auch strikten Plan hat. Einer der anderen Studenten hat mir außerdem erzählt, dass er früher für die NASA gearbeitet hat, was verhältnismäßig cool ist. &lt;/p&gt;
-
-&lt;p&gt;In “Game Design” sollen wir als erstes Brettspiel bzw. einen Prototyp aus Papier entwickeln, den wir dann ausprobieren und später als Compuerspiel implementieren. Ein spannender Ansatz, weil man sich so wirklich auf das Gameplay konzentrieren muss.&lt;/p&gt;
-
-&lt;p&gt;“Programming Graphics” hat mich in der ersten halben Stunde sehr an meinen Grafikkurs bei Frieder erinnert. Während es bei Frieder wie immer ein Studium generale mit viel Mathematik, aber auch Systemkritik im Allgemeinen gab, geht es hier eher darum, OpenGL 3.2+ und Shader zu lernen. Zu meiner Freude in Python.&lt;/p&gt;
-
-&lt;p&gt;Der dritte Kurs ist “Sound Media Poetics”, wo ich dank Frieders Medienkunstdefinition auch gleich einen guten Eindruck hinterlassen habe. Dort geht es um Poesie im Allgemeinen und Poesie mit Sound im Besonderen. Was das genau heißt, weiß ich zwar auch noch nicht, aber die erste Vorlesung hat mir super gefallen. Der Kurs findet in einer Art Kinosaal statt und der Dozent ist sehr selbstironisch. Allgemein sind die amerikanischen Dozent sehr unterhaltsam und gut darin, ihren Stoff zu präsentieren. Gleichzeitig sind sie aber auch sehr streng was die Benotung angeht, was im Falle von “Sound Media Poetics” zum Beispiel heißt, dass sich meine Endnote aus einem Vortrag, drei schriftlichen Prüfungen, einem Filmtagebuch, einer Filmkritik, einem kreativen Projekt und meiner Beteiligung im Kurs zusammensetzt. Schon krass.&lt;/p&gt;
-
-&lt;p&gt;Als vierten Kurs habe ich “Philosophy and Pop Culture” gewählt. Die erste Aufgabe dazu hatte ich ja schon bei Facebook gepostet. Sie bestand darin, sich ein paar Simpsonsfolgen und vielleicht Star Wars nochmal anzugegucken. Verschwiegen habe ich euch dabei, dass ich auch vierzig Seiten über Kant und seinen kategorischen Imperativ lesen sollte. Der Professor ist genauso kauzig, wie man es von einem Philosophieprofessor erwartet. Und sein Ansatz ist wirklich bemerkenswert, weil er die Philosophie von Kant, Hegel und Plato in und an Popkulturbeispielen wie den Simpsons, The Matrix und Star Wars erläutert. Seine These, dass das Fernsehen unsere neue Religion ist, halte ich aber für ein bisschen weit hergeholt ;).&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/travel-blog/2011/08/11/a-day-in-the-life.html&quot;&gt;A Day in the Life&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/travel-blog/2011/08/11/hey-white-boy.html&quot;&gt;Hey white boy, whatcha doin’ downtown?&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Talkin’ New York]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/travel-blog/2011/08/06/talkin-new-york.html" />
-  <id>http://h10r.github.io/travel-blog/2011/08/06/talkin-new-york</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/travel-blog/2011/08/06/talkin-new-york.html" />
+  <id>http://0.0.0.0:4000/travel-blog/2011/08/06/talkin-new-york</id>
   <published>2011-08-06T08:03:00Z</published>
   <updated>2011-08-06T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
-  <content type="html">&lt;p&gt;Mein Hostel ist wirklich billig und mir war natürlich bewusst, dass man für ca. 20 Euro pro Nacht nicht allzuviel erwarten darf (zumal man auch für den doppelten Preis nur ein Bett im Achterzimmer bekommt und es immerhin Midtown Manhattan liegt). Dafür habe ich hier aber auch gerade mal ein Bett und einen Gang, der vollkommen von meinem Koffer gefüllt wird. Das Ganze ist nach oben hin offen und in einem riesigen Raum mit ca. 30 anderen Räumen, wodurch ich am Leben der anderen sehr gut teilhaben kann. 
+  <content type="html">&lt;p&gt;Mein Hostel ist wirklich billig und mir war natürlich bewusst, dass man für ca. 20 Euro pro Nacht nicht allzuviel erwarten darf (zumal man auch für den doppelten Preis nur ein Bett im Achterzimmer bekommt und es immerhin Midtown Manhattan liegt). Dafür habe ich hier aber auch gerade mal ein Bett und einen Gang, der vollkommen von meinem Koffer gefüllt wird. Das Ganze ist nach oben hin offen und in einem riesigen Raum mit ca. 30 anderen Betten, wodurch ich am Leben der anderen sehr gut teilhaben kann. 
 Auf gechlortes Wasser war ich eingestellt, auch wenn es gerade beim Zähneputzen ekelhaft ist. Auf verrückte Franzosen, die ihre Spirte mit dem gechlorten Wasser auffüllen und auch nicht einsehen wollen, dass das keine gute Idee ist, aber nicht.
-Der Raum ist gut gekühlt, d.h. eiskalt, weshalb ich absurderweise durch über 30 Grad draußen teilweise mit Jacke schlafe.
+Der Raum ist gut gekühlt, d.h. eiskalt, weshalb ich absurderweise trotz über 30 Grad draußen teilweise mit Jacke schlafe.
 Insgesamt erfüllt es aber seinen Zweck. Wirklich nervig ist nur, dass ich nicht nur kein richtiges Internet, sondern auch keine eigenen Steckdosen habe. Dementsprechend muss ich Notebook und Handy an der Rezeption aufladen lassen, was einiges an Vertrauen erfordert.&lt;/p&gt;
 
 &lt;p&gt;New York ist einfach gigantisch. Ich bin, da ich am ersten Tag dank Jetlag schon um 6 Uhr hellwach war, von meinem Hostel zu Fuß zum Empire State Building gelaufen, was circa eine dreiviertel Stunde gedauert hat und vor allem deshalb so schön war, weil so wenig los war. Im Grunde war so viel los wie mittags in Bremen, aber im Vergleich für New Yorker Verhältnisse war es halt leer. &lt;/p&gt;
 
-&lt;p&gt;Das Empire State Building und auch die Fahrt zur Freiheitstatur sind irgendwie Pflichtprogramm und ich habe vorher kurz überlegt, ob ich dafür wirklich Geld ausgeben soll. Für mich hat es sich aber in beiden Fällen mehr als gelohnt. Zum einen, weil man aus dem 86. Stockwerk einfach einen ganz anderen Blick auf die Stadt bekommt (ich hätte übrigens auch nicht gedacht, dass New York “nur” 8,2 Millionen Einwohner hat, das wirkt alles viel größer). Zum anderen, weil die Fahrt zur Freiheitstatur nicht nur eine kleine Rundfahrt um die Insel war, wie ich es aus dem Heidepark gewohnt war, sondern weil man auch noch nach Ellis Island gebracht wurde und dort ins Museum konnte. &lt;/p&gt;
+&lt;p&gt;Das Empire State Building und auch die Fahrt zur Freiheitsstatue sind irgendwie Pflichtprogramm und ich habe vorher kurz überlegt, ob ich dafür wirklich Geld ausgeben soll. Für mich hat es sich aber in beiden Fällen mehr als gelohnt. Zum einen, weil man vom 86. Stockwerk aus einfach einen ganz anderen Blick auf die Stadt bekommt (ich hätte übrigens auch nicht gedacht, dass New York “nur” 8,2 Millionen Einwohner hat, das wirkt alles viel größer). Zum anderen, weil die Fahrt zur Freiheitsstatue nicht nur eine kleine Rundfahrt um die Insel war, wie ich es aus dem Heidepark gewohnt war, sondern weil man auch noch nach Ellis Island gebracht wurde und dort ins Museum konnte. &lt;/p&gt;
 
-&lt;p&gt;Ellis Island war für 12 Millionen Einwanderer nach Amerika die erste Station und der Ort, wo sich entschieden hat, ob sie in Neuengland bleiben dürfen oder auf eigene Kosten nach Hause geschickt werden. Das Spannendste am Museum ist aber, dass es halt nicht irgendein Museum ist, sondern das die Geschichten, die erzählt werden, sich genau in den Räumen abgespielt haben, in denen man steht. Das macht das Ganze viel nahbarer. Bremen gehört übrigens zu den zwei Häfen, aus denen die häufigsten Boote kamen (Funfact).&lt;/p&gt;
+&lt;p&gt;Ellis Island war für 12 Millionen Einwanderer die erste Station und der Ort, wo sich entschieden hat, ob sie in Neuengland bleiben dürfen oder auf eigene Kosten nach Hause geschickt werden. Das Spannendste am Museum ist aber, dass es halt nicht irgendein Museum ist, sondern das die Geschichten, die erzählt werden, sich genau in den Räumen abgespielt haben, in denen man sie liest. Das macht das Ganze viel nahbarer. Bremen gehört übrigens zu den zwei Häfen, aus denen die häufigsten Boote kamen.&lt;/p&gt;
 
-&lt;p&gt;Wirklich bewegend, so pathetisch das jetzt klingen mag, fand ich das World Trade Center-Denkmal. Erstmal, weil das, wie bei Ellis Island, nochmal ein ganze andere Dimension bekommt, wenn man dasteht, die Menschenmengen rumwuseln sieht und sich vorstellt, dass da diese riesigen Hochhäuser eingestürzt sind. Dazu kommt aber auch, dass es kein wirkliches Denkmal gibt. Nur in der Seitenstraße eine hässliche Tafel mit den Namen der Opfer. Das wirkliche Denkmal werden die neu gebauten Hochhäuser und das ist irgendwie schon ein schönes Fuck You an die Terroristen.&lt;/p&gt;
+&lt;p&gt;Wirklich bewegend, so pathetisch das jetzt klingen mag, fand ich das World Trade Center-Denkmal. Erstmal, weil das, wie bei Ellis Island, nochmal eine ganz andere Dimension bekommt, wenn man da steht, die Menschenmengen rumwuseln sieht und sich vorstellt, dass da diese riesigen Hochhäuser eingestürzt sind. Dazu kommt aber auch, dass es kein wirkliches Denkmal gibt. Nur in der Seitenstraße eine hässliche Tafel mit den Namen der Opfer. Das wirkliche Denkmal werden die neu gebauten Hochhäuser.&lt;/p&gt;
 
-&lt;p&gt;Das Schönste an New York ist für mich aber der Central Park. Gerade bei diesem herrlichen Wetter gibt es nicht besseres, als auf einem riesigen Stein zu sitzen, im Hintergrund einen Saxophonisten zu hören und gleichzeitig den Blick auf zahlreiche Hochhäuser und einen See zu haben. Außerdem sind überall Eichhörnchen, die sehr zutraulich sind. Im Central Park gibt es außerdem einen Teil, der Strawberry Fields heißt und John Lennon gewidmet ist (mit einem großen “Imagine”-Mosaik). Der Ort, an dem Lennon erschoßen wurde, liegt auch direkt am Rande des Central Parks. Natürlich bin ich hingegangen (der nächste logische Schritt nach dem Grab von Jim Morrison in Paris und Bob Dylan in Berlin; auch wenn Dylan rein technisch natürlich noch am Leben ist).&lt;/p&gt;
+&lt;p&gt;Das Schönste an New York ist für mich aber der Central Park. Gerade bei diesem herrlichen Wetter gibt es nicht Besseres, als auf einem riesigen Stein zu sitzen, im Hintergrund einen Saxophonisten zu hören und gleichzeitig den Blick auf zahlreiche Hochhäuser und einen See zu haben. Außerdem sind überall Eichhörnchen, die sehr zutraulich sind. Im Central Park gibt es außerdem einen Teil, der Strawberry Fields heißt und John Lennon gewidmet ist (mit einem großen “Imagine”-Mosaik). Der Ort, an dem Lennon erschoßen wurde, liegt auch direkt am Rande des Central Parks. Natürlich bin ich hingegangen (der nächste logische Schritt nach dem Grab von Jim Morrison in Paris und Bob Dylan in Berlin; auch wenn Dylan rein technisch natürlich noch am Leben ist).&lt;/p&gt;
 
 &lt;p&gt;Sehr empfehlenswert ist auch das Museum of Modern Art, in dem ich heute war und das mich so häufig überrascht hat, wie ich es nicht für möglich gehalten hätte. Das war greifbarer Kunstunterricht. Zumal nicht einfach irgendwelche Bilder gezeigt wurden, sondern (soweit man und vor allem ich das sagen kann) Schlüsselwerke. Von allen etwas: Dali, Monet, Matisse, van Gogh, Kandinsky, Mondrian, Duchamp, aber auch Max Bill und natürlich Lichtenstein, Warhol und Picasso. Dazu noch die ausgezeichnete Sonderausstellung “Talk to me - design and communication between people and objects”. Da waren so viele geniale, spannende Sachen aus den digitalen Medien dabei, dass ich einfach auf die Ausstellung verlinke und jedem Digitale Medien-Studenten, der zufällig in New York ist, einen Besuch ans Herz lege. Besonders hervorheben muss man aber e.chromi. Das ist so faszinierend, abwegig, aber genial, dass es jeder gesehen haben muss. Ansonsten waren viele gute Informationsvisualisierungen zu sehen, spannende Sache zur Nearness und sehr interessante Tangibles. Interessant fand ich auch, dass die Arbeiten aus aller Welt kamen und wirklich wenig vom MIT dabei war (da hätte ich irgendwie mehr erwartet, zumal die Royal Academy of the Arts gut vertreten war).
 Auf jeden Fall ist das MoMA das beste Museum, das ich kenne. Geniale Werke, genial präsentiert. Ich hatte bei den Klassikern nur ein manchmal das Gefühl, dass auf Teufel komm raus noch ein paar amerikanische Künstler dazugestellt wurden, die dann nicht ganz mithalten konnten. Und mir ist aufgefallen, dass ich zu den wenigen gehörte, die sich die Bilder nicht (nur) durch die Displays ihrer Kameras angeguckt haben ;).&lt;/p&gt;
@@ -632,11 +590,11 @@ Auf jeden Fall ist das MoMA das beste Museum, das ich kenne. Geniale Werke, geni
 
 &lt;p&gt;Das U-Bahn-Netz ist sowieso das Schlimmste an New York. Ich verstehe das System einfach nicht und ich verstehe vor allem nicht, warum man es nicht so wie in London macht. Zumal es ja sogar die Franzosen in Paris hinbekommen! Die Stationen sind nicht direkt auf der Straßenkarte eingezeichnet. Es gibt immer nur am Eingang eine große Karte, nie eine Auflistung der Stationen. Man muss wissen ob die Station, zu der man fahren will, Uptown oder Downtown liegt (wobei das auch nicht einfach nördlich oder südlich meint, weil Uptown mal in die Bronx und mal nach Queens führt). Man weiß nie, ob es ein Express oder ein Local Train ist (wobei die New Yorker das schon unterscheiden können, auch wenn mir bis jetzt keiner erklären konnte, wie). Und vor allem und das ist das Verrückteste: Es gibt keine Anzeige, wann die nächste Bahn kommt (an ganz großen Haltestellen schon, aber meistens nicht). Die Leute sitzen einfach da und warten, was als Nächstes kommt. Es stört die meisten auch nicht, weil es scheinbar auch nachts nie länger als zwanzig Minuten dauert. Sowas macht mich wahnsinnig und ich hätte es eher in Südafrika erwartet, als in New York. Es führt aber auch dazu, dass man mit jemandem aus der Karibik dasteht und sich darüber aufregen kann.&lt;/p&gt;
 
-&lt;p&gt;In Brooklyn war es jedenfalls sehr dunkel und ich musste erstmal die Gegenseite zu meiner Haltestelle finden. Da habe ich dann eine gute Weile auf die nächste Bahn gewartet und bin dann mit dem Local Train in Richtung Uptown gefahren. Einer der Mitreisenden hat, quasi als vorläufiger Höhepunkte meiner Erfahrung mit der New Yorker Subway, seinen vollständigen Magen im Abteil hinterlassen. Durch die schlechten Verbindungen zwischen den Stationen bin ich dann auch nichtmal mehr in die Nähe des Comedy Clubs gekommen. Das war letztendlich aber auch gar nicht so schlimm, weil am Union Square Garden nicht nur, für meine Begriffe, ausgezeichnete Skater unterwegs waren, denen man zugucken konnte (mit Blick auf die Schuldenuhr der Vereinigten Staaten, die sich sekündlich in Zehntausenderschritten erhöht), sondern zufällig auch eine Speakers Corner war (wie die im Hyde Park). Jeder konnte an Mikro und erzählen, was er gerade auf dem Herzen hatte. Da ging es natürlich um die Republikaner, aber auch darum, wie man den Obdachlosen helfen kann, ob man ihnen Geld geben sollte oder nicht, das ein Crackdealer viel von Marketing und Branding versteht und im Grunde ja ein 100000-Dollar-Business führt uvm.&lt;/p&gt;
+&lt;p&gt;In Brooklyn war es jedenfalls sehr dunkel und ich musste erstmal die Gegenseite zu meiner Haltestelle finden. Da habe ich dann eine gute Weile auf die nächste Bahn gewartet und bin dann mit dem Local Train in Richtung Uptown gefahren. Einer der Mitreisenden hat, quasi als vorläufiger Höhepunkte meiner Erfahrung mit der New Yorker Subway, seinen vollständigen Mageninhalt im Abteil hinterlassen. Durch die schlechten Verbindungen zwischen den Stationen bin ich dann auch nichtmal mehr in die Nähe des Comedy Clubs gekommen. Das war letztendlich aber auch gar nicht so schlimm, weil am Union Square Garden nicht nur, für meine Begriffe, ausgezeichnete Skater unterwegs waren, denen man zugucken konnte (mit Blick auf die Schuldenuhr der Vereinigten Staaten, die sich sekündlich in Zehntausenderschritten erhöht), sondern zufällig auch eine Speakers Corner war (wie die im Hyde Park). Jeder konnte ans Mikro gehen und erzählen, was er gerade auf dem Herzen hat. Da ging es natürlich um die Republikaner, aber auch darum, wie man den Obdachlosen helfen kann, ob man ihnen Geld geben sollte oder nicht, und daram, dass ein Crackdealer viel von Marketing und Branding versteht und im Grunde ja ein 100000-Dollar-Business führt uvm.&lt;/p&gt;
 
 &lt;p&gt;Insgesamt habe ich also eine gute Zeit hier in New York. Am 11. August geht es dann weiter in den Norden nach Buffalo. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/travel-blog/2011/08/06/talkin-new-york.html&quot;&gt;Talkin’ New York&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 06, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/travel-blog/2011/08/06/talkin-new-york.html&quot;&gt;Talkin’ New York&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 06, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>

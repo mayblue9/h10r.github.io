@@ -2,6 +2,7 @@
 layout: post
 title: "A Day in the Life"
 category: travel-blog
+travel-country: Buffalo, USA
 date:   2011-08-23 08:03:00
 tags: [german, usa, buffalo, personal]
 image:

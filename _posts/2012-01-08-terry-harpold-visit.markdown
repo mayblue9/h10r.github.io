@@ -2,6 +2,7 @@
 layout: post
 title: "Terry Harpold Visit"
 category: articles
+context: Sound Media Poetry
 date:   2012-01-08 08:03:00
 tags: [aesthetics, poetry, media theory]
 image:

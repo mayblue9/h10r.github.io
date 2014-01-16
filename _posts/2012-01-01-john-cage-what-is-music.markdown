@@ -2,6 +2,7 @@
 layout: post
 title: "John Cage - What is music?"
 category: articles
+context: Master Composer
 date:   2012-01-01 08:03:00
 tags: [aesthetics, music, cage]
 image:

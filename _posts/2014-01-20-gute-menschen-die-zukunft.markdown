@@ -2,8 +2,8 @@
 layout: post
 title: "Gute Menschen & die Zukunft"
 tagline: "Warum Schweden keine Cola klauen"
-description: "Warum Schweden keine Cola klauen"
 category: travel-blog
+travel-country: Stockholm, Schweden
 date:   2014-01-20 08:03:00
 tags: [german, stockholm, personal]
 image:

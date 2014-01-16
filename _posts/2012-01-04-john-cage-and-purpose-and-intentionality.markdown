@@ -2,6 +2,7 @@
 layout: post
 title: "John Cage - Purpose and Intentionality in Music"
 category: articles
+context: Master Composer
 date:   2012-01-04 08:03:00
 tags: [aesthetics, music, cage]
 image:
