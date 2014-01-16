@@ -1,20 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://h10r.github.io</loc>
+        <loc>http://0.0.0.0:4000</loc>
     </url>
     
     
     <url>
-        <loc>http://h10r.github.io/articles/2014/01/20/gute-menschen-die-zukunft.html</loc>
+        <loc>http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft.html</loc>
     </url>
     
     <url>
-        <loc>http://h10r.github.io/articles/2013/08/31/valkommen-till-sverige.html</loc>
+        <loc>http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige.html</loc>
     </url>
     
     <url>
-        <loc>http://h10r.github.io/articles/2011/08/31/test.html</loc>
+        <loc>http://0.0.0.0:4000/articles/2012/01/06/terry-harpold-visit.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2012/01/06/nick-montfort-visit.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2012/01/06/lizabel-monica-visit.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2012/01/05/john-cage-art-and-technology.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2012/01/04/john-cage-and-purpose-and-intentionality.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2012/01/03/modes-of-listening.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2012/01/02/john-cage-and-suny-buffalo.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2012/01/01/john-cage-what-is-music.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2011/08/11/what-a-difference-a-day-made.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2011/08/11/universal-tellerwascher.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2011/08/11/there-is-more-to-life-than-this.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2011/08/11/space-oddity.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2011/08/11/mutual-core.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2011/08/11/hey-white-boy.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2011/08/11/a-day-in-the-life.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/articles/2011/08/06/talkin-new-york.html</loc>
     </url>
     
 </urlset>

@@ -5,5 +5,5 @@ title: Articles
 tagline: A List of Posts
 tags: [blog, graphic design]
 image:
-  feature: texture-feature-04.jpg
+  feature: texture-feature-01.jpg
 ---

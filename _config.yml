@@ -2,8 +2,8 @@ title:            Hendrik Heuer
 description:      Hendrix Blog
 disqus_shortname: subjecttochanges
 #url:              http://hen-drik.de
-url:              http://h10r.github.io
-#url:              http://0.0.0.0:4000
+#url:              http://h10r.github.io
+url:              http://0.0.0.0:4000
 
 # Owner/author information
 owner:
@@ -36,7 +36,7 @@ links:
     url: /
   - title: Projects
     url: /showcase.html
-  - title: Blog
+  - title: Articles
     url: /articles/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

@@ -3,26 +3,26 @@
 <title type="text">Hendrik Heuer</title>
 <subtitle type="text"></subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://h10r.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://h10r.github.io" />
-<updated>2014-01-15T14:24:34+01:00</updated>
-<id>http://h10r.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://0.0.0.0:4000" />
+<updated>2014-01-16T10:55:56+01:00</updated>
+<id>http://0.0.0.0:4000/</id>
 <author>
   <name>Hendrik</name>
-  <uri>http://h10r.github.io/</uri>
+  <uri>http://0.0.0.0:4000/</uri>
   <email>you@email.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Gute Menschen & die Zukunft]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2014/01/20/gute-menschen-die-zukunft.html" />
-  <id>http://h10r.github.io/articles/2014/01/20/gute-menschen-die-zukunft</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft.html" />
+  <id>http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft</id>
   <published>2014-01-20T08:03:00Z</published>
   <updated>2014-01-20T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;Schweden ist wirklich ein sehr schönes und anständiges Land. Mir gefällt es hier auch weiterhin und ziemlich durchgehend ausgezeichnet. An der KTH gibt es, wie an wahrscheinlich jeder Universität, gute und weniger gute Kurse und Professoren. Wobei man sich letzten Endes nicht wirklich beschweren kann, auch wenn ich das natürlich trotzdem gerne tue.&lt;/p&gt;
@@ -35,19 +35,19 @@ Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes L
 &lt;p&gt;Ich war vor kurzem außerdem auf der TEDxKTH. Da gab es wissenschaftliche Vorträge im alten Atomreaktor der KTH (dem ersten Atomreaktor Skandinaviens). Besonders gut gefallen hat mir der eines Professors, der DVD-Laufwerke benutzt, um schnell und günstig HIV, Malaria und Tuberkulose nachzuweisen. Die DVD-Laufwerke sind durch die Massenproduktion extrem günstig und außerdem noch klein. Die Geräte sollen z.B. in Eritrea in Afrika eingesetzt werden, um schnell und einfach Tests durchzuführen. Als Vera zu Besuch war, waren wir außerdem bei den Nobelpreis-Vorlesungen in der Medizin. Auch wenn ich ehrlich gesagt wenig verstanden habe, war es schon sehr interessant, mal dabei gewesen zu sein.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2014/01/20/gute-menschen-die-zukunft.html&quot;&gt;Gute Menschen & die Zukunft&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft.html&quot;&gt;Gute Menschen & die Zukunft&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Välkommen till Sverige!]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2013/08/31/valkommen-till-sverige.html" />
-  <id>http://h10r.github.io/articles/2013/08/31/valkommen-till-sverige</id>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige.html" />
+  <id>http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige</id>
   <published>2013-08-31T08:03:00Z</published>
   <updated>2013-08-31T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
   <content type="html">&lt;p&gt;Stockholm und Schweden gefallen mir bisher ganz hervorragend. Soweit wirkt es hier alles ein bisschen so, wie ich mir das von Amsterdam erhofft hatte. Ich habe ein sehr schönes Apartment, das sowohl nah an der Natur als auch nah an der Innenstadt ist. Wenn ich rechts aus dem Haus gehe, bin ich in 15 Minuten im Wald, wenn ich links aus dem Haus gehe, in 25 Minuten in der Innenstadt.&lt;/p&gt;
@@ -67,73 +67,540 @@ Dieses Eye Tracking hat sehr interessante Einsatzmöglichkeiten, weil ja jedes L
 &lt;p&gt;Bisher habe ich aber auch noch gar nicht besonders viele Schweden und Schwedinnen kennengelernt, weil ich meistens mit anderen internationalen Studenten unterwegs bin. Insgesamt ist hier alles im schönsten Sinne multikulturell und international. Und die anderen Studenten kommen wirklich von überall her — Indien, China, Südafrika, Fidji, Weißrussland, Ukraine, Island und Türkei.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2013/08/31/valkommen-till-sverige.html&quot;&gt;Välkommen till Sverige!&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 31, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige.html&quot;&gt;Välkommen till Sverige!&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 31, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Post with Large Feature Image and Text]]></title>
-  <link rel="alternate" type="text/html" href="http://h10r.github.io/articles/2011/08/31/test.html" />
-  <id>http://h10r.github.io/articles/2011/08/31/test</id>
-  <published>2011-08-31T00:00:00+02:00</published>
-  <updated>2011-08-31T00:00:00+02:00</updated>
+  <title type="html"><![CDATA[Terry Harpold Visit]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/06/terry-harpold-visit.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/06/terry-harpold-visit</id>
+  <published>2012-01-06T08:03:00Z</published>
+  <updated>2012-01-06T08:03:00Z</updated>
   <author>
     <name>Hendrik</name>
-    <uri>http://h10r.github.io</uri>
+    <uri>http://0.0.0.0:4000</uri>
     <email>you@email.com</email>
   </author>
-  <content type="html">&lt;p&gt;texture-feature-02.jpg&lt;/p&gt;
+  <content type="html">&lt;p&gt;I really enjoyed the Terry Harpold visit and I think it was the highlight of the year so far. I was really happy that he introduced us to the main themes in his research. Especially interesting was how he interacted with us. He really cared about our reactions. 
+I also liked the interview he did with you about your poetry, as it was laid-back yet insightful. &lt;/p&gt;
 
-&lt;p&gt;This is a sample post with a large feature image&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; up top and tons of text. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
+&lt;p&gt;It really made me wish more classes would be like this - people talking about their vision and their ideas. While this of course would clash with many syllabi and it might be hard to grade the work in the end, I think these kinds of classes are far more engaging and students learn a lot more there (I appreciate the fact that your classes, like the classes of Frieder Nake I took at Bremen, aim for that).&lt;/p&gt;
 
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
+&lt;p&gt;I really loved how Harpold discussed “White-Faced Bromeliads on 20 Hectares” as well as “Family Tree” by Rozalie Hirs &amp;amp; Harm van den Dorpel. It was a great discussion of poetry as it provided a deep understanding of the work while encouraging us to think about the deeper issues connected to poetry. I myself for example would say that neither the text nor the digital version of “Family Tree” is better or worse. I’d rather say that both versions should be consumed together, as both tell the same story by different means. Consuming them together would therefore lead to an almost dialectical synthesis, as both the content in the text (thesis) as well as the form of the digital version (antithesis) lead to a synthesis, which makes the work approachable.&lt;/p&gt;
 
-&lt;h2 id=&quot;cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/h2&gt;
+&lt;p&gt;The theory of the Russian formalists he introduced us to really enriched my understanding of what poetry is all about and how it works. The idea, that in poetry rhythm, syntax, patterns and allusion are in the foreground, is plausible and catchy, but nobody ever articulated it to me in that way. &lt;/p&gt;
 
-&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s. &lt;/p&gt;
+&lt;p&gt;Another really enlightening thought was the idea that we live in the incunabula of Digital Media. A really strong quote in this regard was that his father “can watch TV, but he can’t see TV”. Equally strong is the idea that his grandmother lived in a time where there was no human flight. I can only imagine having to explain to my kids that I am older than the World Wide Web and that we once used cables to connect stuff (I once read this comment on a forum, that while we may think of ourselves as open-minded and liberal people, which would be cool parents, our generation will inevitably be freaked out by stuff our kids do, too – if they for example start to date robots).&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Sartorial hoodie &lt;/li&gt;
-  &lt;li&gt;Labore viral forage&lt;/li&gt;
-  &lt;li&gt;Tote bag selvage &lt;/li&gt;
-  &lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The concept of the digital incunabula also reminded me of an article I once read in WIRED magazine, where they argued that YouTube and Twitter embody independent new media themselves, although they yet have to find their real means of expression. On YouTube, for example, many people just upload TV and movie material. This, they said in the article, was somewhat similar to the advent of TV, where radio hosts were just sitting in front of the cameras reading their transcript. The same is true for media poetics, as they yet have to find their “classic” format (just like the symphony is the supreme format in music and the novel in literature).&lt;/p&gt;
 
-&lt;p&gt;Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.&lt;/p&gt;
+&lt;p&gt;I am also happy to have asked him why misspelled English is different from misspelled German and his explanation makes a lot of sense. I also loved that he did not just disregard phrases like “LOL” as some slang, but rather as a condensate of a variety of emotions. The reference to Orwell’s idea of Newspeak was also insightful. If you think about it, the Internet is especially encouraging this narrow-mindedness. On Facebook, for example, you don’t write interesting responses anymore and you don’t tell your friends what you think about their links and statues - you just like them. This is another fine example how Orwell’s predictions were out-competed by reality (British CCTV is another example).&lt;/p&gt;
 
-&lt;p&gt;Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven’t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney’s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.&lt;/p&gt;
+&lt;p&gt;Another really great concept is how language is shaping our worldview. Language of course forms how he memorize and reason about events, so I think it shapes a big part of our worldview. I read once that in languages where location is communicated in relation to cardinal directions, people are way better at pointing at exact directions. I myself, on the other hand, do not think that it makes a big difference if I speak and think in either English or German, although I think that I can express certain concepts more precisely in German. I haven’t yet decided if this is due to my lack of my English proficiency or due to the precision of the German language. &lt;/p&gt;
 
-&lt;h2 id=&quot;forage-occaecat-cardigan-qui&quot;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
+&lt;p&gt;Harpold introduced the hypothesis that language shapes our worldview and that the experience of language is often mediated. Therefore, the media conditions define our thoughts. This is a really interesting concept and I really have to think about it further. But I have the gut feeling that he might be right. Take for example how personal relationships are depicted in Hollywood cinema and how this shapes our idea of perfect love and friendship. Or how aspiration is destroyed by constantly being exposed to really great artwork. Whenever somebody starts painting, writing poetry or playing music, his first attempts will be horrible in comparison to their heros. This discourages many people, as nobody tells them that this is just normal. 
+Harpold emphasis of the social relationship in reading is interesting and reminded me of the four-sides model of Friedemann Schulz von Thun. In Schulz von Thun’s model, every message includes factual information, self-revelation, relationship information and an appeal. As appeal and factual information are not that important in poetry, the relationship obviously becomes more important. But I think that Harpold somewhat underestimates the self-revelation, as a poet normally reveals a lot about himself while writing poetry, too. I know that for example post-World War II artists like John Cage tried to remove intention and purpose from their art, but I think that even they thereby conveyed something about themselves, their situation and their personality. Just like in Paul Watzlawick said: “One cannot not communicate”.  &lt;/p&gt;
 
-&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole. &lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/06/terry-harpold-visit.html&quot;&gt;Terry Harpold Visit&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 06, 2012.&lt;/p&gt;</content>
+</entry>
 
-&lt;blockquote&gt;
-  &lt;p&gt;Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;p&gt;Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney’s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney’s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.&lt;/p&gt;
+<entry>
+  <title type="html"><![CDATA[Nick Montfort Visit]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/06/nick-montfort-visit.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/06/nick-montfort-visit</id>
+  <published>2012-01-06T08:03:00Z</published>
+  <updated>2012-01-06T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I really enjoyed the visit of Nick Montfort and his workshop.&lt;/p&gt;
 
-&lt;h2 id=&quot;hoodie-duis&quot;&gt;Hoodie Duis&lt;/h2&gt;
+&lt;p&gt;Regarding the workshop, I already knew a fair deal of Python. Nevertheless, it was interesting to see how a professor from MIT organizes his introduction to programming for non-programmers (learning and teaching programming has been an issue which really fascinates me for some reason). &lt;/p&gt;
 
-&lt;p&gt;Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90’s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.&lt;/p&gt;
+&lt;p&gt;With regards to the content, I want to record his thoughts on negation. Unlike in fiction, where a negation is important in terms of the actions and consequences, in poetry, Montfort regards a negated statement as equal to a non-negated statement, as both introduce the idea and express its importance. &lt;/p&gt;
 
-&lt;h3 id=&quot;thundercats-ho&quot;&gt;Thundercats Ho!&lt;/h3&gt;
+&lt;p&gt;Thanks to the workshop, I came up the idea of coding a twitter bot, which updates my personal twitter status randomly using the same technique Montfort uses to create poetry. I would define a set of interesting activities, which are then posted at random times (I might pick up this idea as my final project).&lt;/p&gt;
 
-&lt;p&gt;Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney’s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.&lt;/p&gt;
+&lt;p&gt;I really liked Nick’s presentation, both in terms of content and style. I also liked the fact that he showed so many examples. He was presenting in a personal, entertaining fashion.&lt;/p&gt;
 
-&lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
+&lt;p&gt;His project “Ad Verbum” and the whole concept of interactive fiction is especially interesting to me. I think it was a wonderful combination of an interesting interfaces and some really good poetry. &lt;/p&gt;
 
-&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
+&lt;p&gt;His description of the Electric Literature Organization reminded me of the discussion in the book regarding the term “sound art”. He said, that the ELO is “no literary movement, but a variety of people”. This is also similar to how Lizabel Monica described the digital poetry scene in Cuba.&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Texture image courtesty of &lt;a href=&quot;http://www.lovetextures.com/&quot;&gt;Lovetextures&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;Also interesting is what Nick said about potential literature. He had the notion, that the algorithm itself only represents “potential literature”. That means, it can be used to create literature, but it is not literature in itself. He also referenced the n+7 method used by Ourvoir de Literature Potential (Oulipo), who replaced each noun in a text with the noun seven entries away from it in the dictionary.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://h10r.github.io/articles/2011/08/31/test.html&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://h10r.github.io&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 31, 2011.&lt;/p&gt;</content>
+&lt;p&gt;The talk also raised very interesting questions. For instance, what if somebody took a specific Processing sketch, exchanged the words and presented it as his work. Who would be credited and what is the important part of a work - the algorithm, the words or both?&lt;/p&gt;
+
+&lt;p&gt;I also loved Montfort’s remark on the postmodern nature of programming. On the one hand, as I as a programmer myself know how much code is found on the web and adapted. On the other hand, as computer science itself is entirely postmodern and has no content on it’s own, but rather applies mathematical knowledge to a variety of different topics and sciences.&lt;/p&gt;
+
+&lt;p&gt;Especially interesting to me was Montfort’s discussion of how to judge the aesthetic quality of electronic literature and if the process or the result is more important to this quality. Many visual algorithmic artists from the early days, like Frieder Nake and Roman Verostko, regarded the process of creating their paintings as more important than the paintings themself. For Montfort, both the results and the code appear to be equally important. 
+Montfort also utilizes the code itself in an artistic sense. Especially with ppg256, where the title refers to the limitation to 256 characters as well as to the use of the rather hard to read programming language Perl (which is “write-only”, as Nick put it).
+An ironic side note was that people need a title to recognize poetry.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/06/nick-montfort-visit.html&quot;&gt;Nick Montfort Visit&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 06, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Lizabel Monica Visit]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/06/lizabel-monica-visit.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/06/lizabel-monica-visit</id>
+  <published>2012-01-06T08:03:00Z</published>
+  <updated>2012-01-06T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;First, I still can’t believe that Cuba does not have proper Internet for its people. In face of the events like Arab Spring, I thought everybody in the world has at least basic Internet access by now. Unbelievable.&lt;/p&gt;
+
+&lt;p&gt;As I already pointed out in class, I would recommend the people to set up mesh networks. On the one hand, this may enable them to bridge the gap to real Internet access, but on the other hand, it will also enable the people, who are part of that network, to communicate safely and without the government listening.&lt;/p&gt;
+
+&lt;p&gt;Moncia and her friends should also install some USB dead drops in Cuba, if they have not done that already. USB dead drops is a really nice art project by Aram Bartholl from Berlin [http://vimeo.com/16620712].&lt;/p&gt;
+
+&lt;p&gt;What I loved most about the talk was the really amazing example. What I did not like was the timeline format, as it focused too much on the timely order of the events. I would have preferred to have the projects presented in relation to their significance. Monica should have been more self-confident anyway, as she appears to have a lot to say. Yet did see merely provide a list of names, which I obviously might check out myself. But it would have been much better, if she had provided more examples.&lt;/p&gt;
+
+&lt;p&gt;A good example she gave were the ready-mades of state security files that some artist’s presented at the Biennale. But she should have provided much more. Especially as she could have told us more about the cultural context of the works.&lt;/p&gt;
+
+&lt;p&gt;Regarding the film “For the first time”, I really loved to see the faces of the people watching their first movie. They were so amazed and happy, which was really moving. My anticipation was not met, though, as my first association regarding “watching film for the first time” was of course “L’Arrivée d’un train en gare de La Ciota” by the Lumière Brothers and the urban legend, that the people screamed and ran to the back of the room. Technically, I totally loved the style of the documentary, which reminded me of many sixties music documentaries (especially that one about Jimi Hendrix and Woodstock). &lt;/p&gt;
+
+&lt;p&gt;I think it is hard to define, what social media is really about. Obvious parts of the social media puzzle are of course social networks, blogs, podcasts, and sites with user-generated content like YouTube or Wikipedia. But as we are not only talking about social media, but actually about social media art, we have to define what media art is first. My personal definition of media art is very much inspired by Frieder Nake. According to this definition, something considered media art must not be immediate, but conveyed by a medium. Like algorithmic visual art, where algorithms are executed to produce the artwork. With that definition in mind, most of the art and poetry shown as examples in the talk would not be what I consider media art. I would rather describe it as social media-aided art, as the Internet obviously has a huge impact on the artists and how they (inter-)operate.&lt;/p&gt;
+
+&lt;p&gt;The idea of Cuba Fake News really reminded me about the American news satire organization The Onion, as they share a common approach. Ironically, people frequently take the Onion serious with little media literacy, as the site Literally Unbelievable [http://literallyunbelievable.org/] demonstrates. As the people in Cuba have little exposure to new media and therefore little media literacy, I wonder if Lizabel Monica has experienced similar stories. As she hosts her blog with Google Blogger, which provides a pretty good PageRank and visibility in search result, her stories may show up frequently while googling and confuse people, which is subversive and great.&lt;/p&gt;
+
+&lt;p&gt;I think it is remarkable and courageous to make art facing physical harm and punishment. &lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/06/lizabel-monica-visit.html&quot;&gt;Lizabel Monica Visit&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 06, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[John Cage - Art and Technology]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/05/john-cage-art-and-technology.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/05/john-cage-art-and-technology</id>
+  <published>2012-01-05T08:03:00Z</published>
+  <updated>2012-01-05T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I like the idea of synergies between art and technology and I do believe that everybody nowadays benefits from technology. Not only, but also, regarding the art world. I also agree with Cage when he says “all technology must move toward” to what he describes as an “identification with nature” in “complete mystery”. This really reminds me of the Tangible User Interfaces. Invented at the MIT Media Lab by Hiroshi Ishii and his Tangible Media Group, Tangible User Interfaces are an alternative to traditional human computer interaction. Their goal is it to make technology tangible and invisible, moving technology away from personal computers, which you use with a mouse and keyboard, towards seemingless and ubiquitous computing.&lt;/p&gt;
+
+&lt;p&gt;I also agree with Cage that there is an audience for computer art. His remark, that the computer turns us into artists, has been completely verified by history. What he does not consider are movements like the algorithmic art or the generative art movement (http://www.creativeapplications.net/), where technology is not just means, but an end in itself. This also goes far beyond most contemporary art, which is just art with computer assistance.&lt;/p&gt;
+
+&lt;p&gt;I do not share Cage’s opinion that art and TV are “equally tedious”, but I like the idea of art being socialized. Today, art, especially in terms of design, is omniscient and just everywhere you look. With the advent of the MP3 and the iPod, the notion, that “concerts celebrate the fact that concerts are no longer necessary” is completely right and proved. While we don’t need concerts to listen to music, people still love to go to concerts, because it is a special, unique and social event. That’s the kind of “auratic perception” Walter Benjamin is talking about.   As I consider myself on the border between computer science and art, I feel sad on the remark that conversations between artists and engineers did not work for Cage. Maybe today, as more computer scientists are engaged in art, a conversation might work? I hope so.&lt;/p&gt;
+
+&lt;p&gt;In his “Preface to Notations”, Cage remarks that memorizing written music is an Occidental practice, while passing it on from person to person is Oriental. Moreover, writing music down makes art a property and thereby part of the political practice. This also holds true to this day, as copyright is a big issue, especially as everything is digital and so easily copied nowadays. Cage addresses this implication of electronic technology, too. &lt;/p&gt;
+
+&lt;p&gt;A beautiful remark is the idea that music is the “only true international language”. 
+I also like Cage’s approach to have manuscript pages, which leave the composer’s hand. This renunciation is a really nice comment on the art of the twentieth century, as almost everything changed and most of the rules and the conventional wisdom did not apply to art anymore. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/05/john-cage-art-and-technology.html&quot;&gt;John Cage - Art and Technology&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 05, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[John Cage - Purpose and Intentionality in Music]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/04/john-cage-and-purpose-and-intentionality.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/04/john-cage-and-purpose-and-intentionality</id>
+  <published>2012-01-04T08:03:00Z</published>
+  <updated>2012-01-04T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;h4 id=&quot;can-you-remove-purpose-or-intentionality-in-music--in-what-ways-does-cage-attempt-to-do-this&quot;&gt;Can you remove purpose or intentionality in music?  In what ways does Cage attempt to do this?&lt;/h4&gt;
+
+&lt;p&gt;You can of course remove purpose or intentionality in music. But the more important question is, if you will still consider it music, then. This depends on your personal definition of what music is. Cage’s definition of music is very wide and includes all kinds of sound and noises. Moreover and exemplified by his answers to the various questions regarding timbre, dynamics, themes, I don’t have the feeling that he actually can remove purpose and intentionality entirely. But I am sure he tries not to add purpose and intentionality. This is made clear by his statement that there are no themes, as it is “not a question of having something to say”. But his approach of organizing sound and his attempt to avoid intentionality is intentional itself and thus prevents him from achieving his goal. 
+Moreover, he declines the idea that “experimental” music has purpose, saying “No purposes. Sounds.” So he does not remove purpose or intentionality, but rather ignores them, as they are not part of his definition or idea of “music”.&lt;/p&gt;
+
+&lt;p&gt;I would rather describe Cage’s “music” as sound art, although this implies that my definition is strongly influenced by Beethoven, Mahler, and Schönberg. And all of them had purpose or intentionality in music. Even Arnold Schönberg had very strong themes, just consider his brilliant work “A Survivor from Warsaw”.  Therefore, I prefer to regard Cage as an artist, as the main goal of art, at least to my understanding, has always been to extend the means of expression. Picasso is one of the most important artists of the 20th century and he augmented what can be expressed in paintings. Picasso for example introduced abstract, foreign faces instead of realistic depictions of people. 
+Cage’s point of view is influenced by his notion that there are always at least two sounds: the nerve’s systematic operation and the blood’s circulation. This is an interesting thought and it can inspire you to think about silence, so it is procreative and generative from a creative perspective. 
+On the other hand, I don’t like this in connection to a definition of music, as it is too phenomenological, as it focuses on specific parts like sounds and noises and disregards what is really important in music. After all, it is the sum of the tones and their arrangement that music is all about. This is also the big difference between music and sound art for me.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-are-merzbow-and-cage-specifically-433-similar-in-what-ways-are-they-different-think-in-terms-of-intentionality&quot;&gt;How are Merzbow and Cage (specifically 4’33”) similar? In what ways are they different (think in terms of intentionality)?&lt;/h4&gt;
+
+&lt;p&gt;The most remarkable quote about Merzbow’s music is the idea, that “the distinction between noise, sound and music (…) [is] left to come apart in Akita’s hands.” Akita is said to amplify the “sound spectrum.” This, I think, is the next step after Cage, who with his piece 4’33” and his entire theory of sound, mainly focuses on what sound can be heard while listening to silence. While Cage is the first to encourage us to be silent and just listen to the sounds around us, Akita is the one who uses technology to build noisy sounds with technology, going one step further than Cage. Merzbow focuses on “noise-making” and artificially creates new sounds, while Cage wants us to listen closely to the sounds that are already there. &lt;/p&gt;
+
+&lt;p&gt;I would disagree, that McLuhan’s “medium is the message” does not apply to this kind of “music” or rather sound art, as the art is focusing strictly on itself and its basic component. I think, that although the music itself does not have a purpose or intentionality, it still has meaning in a broader sense. As concrete art, it does certainly not transport a message. But on a formal level, it definitely has an intention, although this is not necessarily reflected in the music, but rather in the theory, premise or background story. This is important and applies to works like 4”33’ as well as to Merzbow’s.&lt;/p&gt;
+
+&lt;h4 id=&quot;based-on-the-views-cage-has-expressed-in-the-readings-as-well-as-the-material-presented-in-class-how-might-cage-go-about-making-choices-in-his-music&quot;&gt;Based on the views Cage has expressed in the readings as well as the material presented in class, how might Cage go about making choices in his music?&lt;/h4&gt;
+
+&lt;p&gt;In the text Cage discusses his use of “chance operations”, using both formal systems like the I Ching as well as self-reflection on his imperfections. But the most striking comment on his choices might be this answer: “By not giving a thought”. Even with this information in mind, I think it is really hard to answer this question. On the one hand, as Cage apparently put a lot of thought in his music and he has a very strong idea about what to say. On the other hand, he does not convey his message in traditional ways, that is via music, but rather by what I describe as theory, premise or background story. Therefore, I think that Cage might think of all these factors beforehand and then find a way to implement these ideas. The development of 4”33’, for example, could be more like designing a board game, where you set up the rules and the scope of action, rather than the actual action.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/04/john-cage-and-purpose-and-intentionality.html&quot;&gt;John Cage - Purpose and Intentionality in Music&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 04, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Modes of listening, Pierre Schaeffer]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/03/modes-of-listening.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/03/modes-of-listening</id>
+  <published>2012-01-03T08:03:00Z</published>
+  <updated>2012-01-03T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;h4 id=&quot;what-are-the-three-modes-of-listening-and-how-do-they-differ-from-each-other&quot;&gt;What are the three modes of listening, and how do they differ from each other?&lt;/h4&gt;
+
+&lt;p&gt;Michel Chion introduces three modes of listening: Causal Listening, Semantic Listening and Reduced Listening. Causal Listening is gathering information about the objects in the world through listening. Here, the focus lies on the cause of a sound. In contrast, Semantic Listening deals with encoded information, which is transmitted by noises and which has to be decoded by the listener to make sense. Language is the most common occurrence of Semantic Listening. In Language, pitch and subtle differences in the sound do not matter, as long as they are unimportant to pronunciation. In Semantic Listening, you don’t listen to acoustical properties, but you rather look for certain differences and oppositions.&lt;/p&gt;
+
+&lt;p&gt;The third mode of listening is Reduced Listening. Here, the sound itself is emphasized. The cause of a sound is not important. In Reduced Listening, the listener is encouraged to pay attention to sonic textures, masses, and velocities. The goal of Reduced Listening is to perceive the inherent traits of a sound and to study the raw materials themselves.&lt;/p&gt;
+
+&lt;h4 id=&quot;schaeffer-refers-to-reduced-listening-as-the-most-advanced-state-of-listening--why-is-this-mode-of-listening-the-most-challenging--why-might-achieving-this-mode-of-listening-be-particularly-difficult-for-electronic-music&quot;&gt;Schaeffer refers to reduced listening as the most advanced state of listening.  Why is this mode of listening the most challenging?  Why might achieving this mode of listening be particularly difficult for electronic music?&lt;/h4&gt;
+
+&lt;p&gt;First of all, we are very used to Causal Listening. In terms of evolution, determining the cause of a sound was important to survive. Therefore, we are programmed to automatically relate sounds to certain concepts or events. Overcoming this is a big challenge, as there is automatically a connection between something you see and something you hear at the same time. This process is called synchresis. Sound design utilizes synchresis and encourages Causal Listening. Video only works, as the brain automatically connects the sounds heard with the images seen. 
+But as said in the text, this connection can be broken by repetition, which is a very good way to remove the cause from the sound itself. If you hear something over and over again, you can start to focus on the sound itself.&lt;/p&gt;
+
+&lt;p&gt;The “Étude aux chemins de fer” is an interesting mixture of different sounds related to trains and train stations. At least to me, it always generates pictures of travelling trains in my head, although I am aware that this is not what Schaeffer was trying to accomplish. But even if I try really heard, I can’t stop myself from picturing how, for instance, the train wheels scrape against the rail. While I still relate single sounds to specific objects and events, I regard the music and it’s progression as independent from the cause of the sound. That means, I do not connect the sounds to a story like “a driving train drives into a city, stops at a train station and lets the passengers deboard”, but I rather listen to it as it is.&lt;/p&gt;
+
+&lt;p&gt;I think Chion is right, that it is really hard to describe these phenomena using normal musical terminology. Schaeffer’s “Traite des objets musicaux” is a very elaborate system to classify sounds and I used it briefly in a sound design class I took in Bremen. But it can’t capture all aspects of sound.&lt;/p&gt;
+
+&lt;p&gt;Achieving the mode of Reduced Listening might be the easiest using musical instruments, which don’t have as many connotations as real life sounds. If you attribute a cause to a sound from a musical instrument, you mostly relate it to the musician playing the instrument. 
+But I don’t think achieving the mode of Reduced Listening is much harder with electronic music in general. If you think about synthesizer and for example frequency modulation synthesis (FM synthesis), it is abstract and does not relate to things in the real world. Therefore, I think it is as easy to achieve Reduced Listening in electronic music as it is in classical music. Especially as musical instruments are also sometimes connected to certain causes (like in Prokofiev’s “Peter and the Wolf”). Reduced Listening is of course the goal of musique concrète, as you remove the cause of a sound to use it as your musical material. But even in musique concrète, you can’t completely remove the cause of sound. Schaeffer for example names his piece “Études de chemin de fer”, which points the listener to the fact that he is using train sounds as his musical material and which makes Reduced Listening harder.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/03/modes-of-listening.html&quot;&gt;Modes of listening, Pierre Schaeffer&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 03, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[John Cage and the Center of the Creative and Performing Arts at SUNY Buffalo]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/02/john-cage-and-suny-buffalo.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/02/john-cage-and-suny-buffalo</id>
+  <published>2012-01-02T08:03:00Z</published>
+  <updated>2012-01-02T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;The Center of the Creative and Performing Arts seems to have been a very innovative place with a vision and many people who were curious and passionate about new music. For Cage, just like for many other people, this must have been very appealing. One of the aims of the Center was to close the gap between performer and composer. This is also one of Cage’s main themes, as he for example left room for interpretation with his graphical notations, thereby encouraging the performers to add their interpretation to the works. &lt;/p&gt;
+
+&lt;p&gt;One of the Center’s aims was to provide time and freedom to practice and experiment, covering a wide variety of musical topics and techniques from improvisation to installations to computer music. Another important aim of the Center was to enable each musician to “find his or her artitistic path”. This must have appealed to Cage, who himself did not just follow Schönberg’s advice, but found his own musical voice.&lt;/p&gt;
+
+&lt;p&gt;Another important thing about the Center is the security it provided to inexperienced musicians. While many people are surely motivated to find new ways of musical expression, most do not have the chance to try them, as they have to make money to make a living. Making money almost always demands some sacrifices, like commissions or teaching. The center did provide a reliable paycheck while encouraging people to be innovative. It also aimed for the long run and encouraged real innovation, while commissions often force musician’s to satisfy trends.&lt;/p&gt;
+
+&lt;p&gt;Another really important feature about the Center in Buffalo is the role of the media, especially the press. They helped spread the word about the music and even turned the Creative Assistants into celebrities, as the text says.&lt;/p&gt;
+
+&lt;p&gt;Cage was talented in terms of social networking and in many places he visited, a group of people, who were influenced by his ideas, formed. Therefore, the idea of a group must have been very appealing to him. The Creative Associates worked as a group and inspired, encouraged and helped each other, just like Cage did with many of his friends. &lt;/p&gt;
+
+&lt;p&gt;Working at the center was also a big commitment, as the people had to relocate to Buffalo to work with the Center. But this created a unique spirit and made the group working possible, as they had a defined place to meet. Cage was tied to New York City, just like his collaborators Merce Cunningham and David Tudor, so he knew the advantage of working together in the same place. While New York City is certainly an inspiring and interesting city, it might not be the best place to invent completely new music, as there are so many influences. Moreover, I think it can be pretty hard to be heard in New York City, as the musical scene is so much bigger than in Buffalo.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/02/john-cage-and-suny-buffalo.html&quot;&gt;John Cage and the Center of the Creative and Performing Arts at SUNY Buffalo&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 02, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[John Cage - What is music?]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2012/01/01/john-cage-what-is-music.html" />
+  <id>http://0.0.0.0:4000/articles/2012/01/01/john-cage-what-is-music</id>
+  <published>2012-01-01T08:03:00Z</published>
+  <updated>2012-01-01T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Cage and others liberated music from tradition and connected it with dance and performance art, which made it more expressive, but also very different from traditional music. He is also a good example for the art of the twentieth century, as almost everything changed and most of the conventional rules did not apply to this new art any more. In his “Preface to Notations”, Cage describes music as the “only international language”, which is a wonderful comment on the nature of music.&lt;/p&gt;
+
+&lt;p&gt;For Cage, music was just sounds and these sounds did not have to originate from traditional music. He for example proofed in “Water Walk” that every household item could be used to create music. “Music Of Changes” showed that even chance operations could lead to musical pieces, as long as you have a rule set to map the chance operations to musical parameters.&lt;/p&gt;
+
+&lt;p&gt;After World War II, many composers were looking for radically new means of expression. Meanwhile, the concept of art itself was challenged by radical artist like Marcel Duchamp, who broadened the definition of what art is. All this influenced the idea of what music is to John Cage. His music marks a very interesting point in music history. Cage questions many of our preconceived ideas of music – especially materiality and intentionality. Considering music history, Hindemith and especially Schönberg challenged the harmonic foundations of music. Schönberg’s dodecaphony and serialism in general paved the way for Cage. But Cage did not simply continued what Schönberg did. While Schönberg mostly challenged our concept of harmony, Cage also challenged how we think about the process of composition (chance operations), instruments (“Water Walk”) and materiality (“4’33””).&lt;/p&gt;
+
+&lt;p&gt;In his text “The Future of Music - Credo”, Cage defines his art as the “organization of sound”. He explores a variety of instruments and materials to create his music. In “4”33’”, he even makes silence the material of his music. The fundamental key to understand Cage’s concept of music is the story of the anechoic chamber, where Cage realized that there is no silence but always noise of some kind. Equally important is the utilization of indeterminacy in his piece, which enabled him to remove intentionality form his music.&lt;/p&gt;
+
+&lt;p&gt;In the 20th century, many composers of new music altered well-known instruments to make new noises (for example the prepared piano by Cage). Moreover, the traditional boundaries between specific art forms blurred, as composer like Cage did many things, which were quite similar to the performance art in Fluxus. &lt;/p&gt;
+
+&lt;p&gt;Music was not only about melodies and sounds anymore, but became a way of artistic expression, equally important as painting or dance. This of course had a big impact on the musician’s who played the pieces Cage composed. Cage did his experiments with virtuosity and challenged musicians to play especially hard pieces of music. He also introduced room for interpretation with his graphic notations, as it was not always completely clear and definite how to play his music.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2012/01/01/john-cage-what-is-music.html&quot;&gt;John Cage - What is music?&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on January 01, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[What a Difference a Day Made]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2011/08/11/what-a-difference-a-day-made.html" />
+  <id>http://0.0.0.0:4000/articles/2011/08/11/what-a-difference-a-day-made</id>
+  <published>2011-08-11T08:03:00Z</published>
+  <updated>2011-08-11T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Jetzt bin ich also endlich in Buffalo. So hoch wie New York City ist, so weitläufig ist Buffalo. Die Uni, insbesondere der North Campus, an dem ich die meisten Kurse haben werde und in dessen Nähe auch das Hotel ist, in dem ich gerade wohne, ist relativ weit von der Innenstadt entfernt. Der Campus liegt, ähnlich wie die Uni Bremen, direkt an der Autobahn am Arsch der Welt. Dementsprechend wenig ist hier in der Nähe des Hotels los. Im ersten Moment war das für mich, der mittags noch in New York war und nur ein bisschen mehr als eine Stunde mit JetBlue geflogen ist, ein kleiner Schock. Genau wie mein Zimmer. Denn das ist riesig, hat ein eigenes Bad mit Badewanne, Kabelfernsehen, Strom und Internet. Kein Vergleich zu meinem Bett mit Tür in New York. Richtig geil war auch, dass die University at Buffalo das Taxi vom Flughafen zum Hotel bezahlt hat.&lt;/p&gt;
+
+&lt;p&gt;Die beste Nachricht ist aber wohl, dass ich ein Zimmer in Buffalo habe! Man muss dazu sagen, dass ich mich bewusst gegen eine Unterkunft auf dem Campus entschieden habe und bis gestern noch keine Ahnung hatte, wo und wie ich wohnen werde. Das hat mir in den letzten Tag auch einige Bauchschmerzen bereitet, zumal niemand bei Craigslist auf meine Anfragen reagiert hat (Bauchschmerzen habe ich aber sowieso. Wegen des Essens, glaube ich). &lt;/p&gt;
+
+&lt;p&gt;Ich habe aber vor einem Monat schon ein paar Leuten geschrieben und ein nettes Inserat gesehen. Die Leute wollten zwar ursprünglich jemanden, der für ein Jahr dort einzieht. Sie haben aber gesagt, dass sie sich melden, wenn das Zimmer Mitte August noch nicht vermietet ist. Was sie auch getan haben. Ich bin also heute morgen hingegangen - und habe das Zimmer direkt genommen. Zum einen ist es ein wirklich schönes Haus mit großer Küche, Wohnzimmer und Geschirrspülmaschine. Zum anderen habe ich mich mit Nathan, der Zahnarzt wird und gerade graduate ist, auf Anhieb super verstanden. Nathan leiht mir übrigens sowohl einen Tisch als auch ein Bett, was ein feiner Zug ist und einiges leichter macht. 
+Die anderen zwei Mitbewohnen klingen Nathans Beschreibung nach auch sehr sympathisch. Außerdem habe ich direkt eine Flasche Franziskaner Weißen in der Küche bemerkt und als gutes Zeichen gedeutet. Als Nathan dann noch erzählte, dass einer der Mitbewohner für eine Brauerei arbeitet und hin und wieder etwas mit nach Hause bringt, musste ich nicht mehr groß überlegen. 
+Das hat sogar das Potential, Micheles Bremer Mitbewohner zu toppen. Auch wenn der als experimenteller Bäcker sicher auch nicht schlecht war.&lt;/p&gt;
+
+&lt;p&gt;Das Haus liegt in der Nähe vom South Campus, der wiederum näher an der Innenstadt ist als der North Campus. Es fährt aber ein Shuttle zwischen den Campus. Außerdem ist es mit dem Fahrrad nur eine Viertelstunde zum North Campus.
+ Das Straßenbahnsystem in Buffalo ist übrigens nicht annährend so verwirrend wie das in New York. Das liegt aber leider vor allem daran, dass es nur eine Linie gibt ;). Immerhin kann man sich da nicht vertun. Die Bahn fährt direkt vom South Campus in die Innenstadt und zurück. Die Innenstadt habe ich mir heute dann direkt angeguckt. Besonders beeindruckt hat mich die City Hall, also das Rathaus. Aber es gibt noch mehr interessante Gebäude in Buffalo. Unter anderem einige, die Frank Lloyd Wright entworfen hat. Die muss ich mir aber mal angucken, wenn ich ein Fahrrad habe. Und das werde ich wohl brauchen.&lt;/p&gt;
+
+&lt;p&gt;Das Fernsehprogramm hier ist ausgezeichnet. Es läuft eigentlich immer was Sehenswertes (gerade Clone Wars, jetzt Thundercats). Die Daily Show kannte ich ja schon vorher gut. Was auch empfehlenswert ist und direkt danach läuft, ist der Colbert Report. Falls mal nichts läuft, hat man immer noch Hulu. Das ist sowas wie Kino.to in legal und mit super Qualität. Aber keine Sorge, ich gucke nicht den ganzen Tag Fernsehen. Könnte man aber, was vielleicht erklärt, warum so wenig auf den Straßen los ist. Vielleicht sind das aber auch nur die Nachwirkungen des Time Squares.&lt;/p&gt;
+
+&lt;p&gt;Zum Essen: Neben den Veggie Patties bei Subway ist Taco Bell meine große vegetarische Hoffnung. Ich kann vor allem die bean burritos empfehlen. Zumal die echt günstig sind. Einer der Mitarbeiter bei Taco Bell, ein netter Immigrant aus Kenia, hat mir nicht nur das komplette Menu erklärt, sondern mir auch direkt angeboten, beim ihm zur Untermiete zu wohnen. Nettes Angebot, auch wenn er ziemlich weit ab vom Schuss wohnt. Sowieso sind die Leute in Buffalo hilfsbereit und nett, auch wenn ich aus ihrer Perspektive manchmal blödsinnige Fragen stelle. Zum Beispiel wusste ich nicht, wie im Bus deutlich mache, dass ich an der nächsten Station aussteigen will. Der Trick ist, nicht nach irgendwelchen Knöpfen zu suchen, sondern an einer Schnur über dem Fenster zu ziehen. Muss man auch erstmal drauf kommen. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/11/what-a-difference-a-day-made.html&quot;&gt;What a Difference a Day Made&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Universal Tellerwäscher]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2011/08/11/universal-tellerwascher.html" />
+  <id>http://0.0.0.0:4000/articles/2011/08/11/universal-tellerwascher</id>
+  <published>2011-08-11T08:03:00Z</published>
+  <updated>2011-08-11T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;So. Ich glaube, jetzt muss ich erstmal ein paar Sätze zu Blödsinn loswerden. Eigentlich mag ich alberne Sachen ja sehr gerne, vor allem wenn Tulpen und Mümmelmann dabei eine Rolle spielen. Der Blödsinn, den ich jetzt meine, ist aber ein anderer. Ich habe zum Beispiel gerade eine Flasche Cola im Laden hier auf dem Campus gekauft. Zwei Liter. Weil die Zweiliterflasche Cola billiger war als ein halber Liter. Warum? Die Trümmerfrau in mir hat es jedenfalls einfach nicht übers Herz gebracht, mehr für weniger zu bezahlen! &lt;/p&gt;
+
+&lt;p&gt;Blödsinnig sind auch die Schlangen in der Bibliothek. Es gibt dort 15 Computer an Expressterminals, an denen man für eine Viertelstunde Sachen raussuchen und ausdrucken kann. Es gibt aber auch 20 Computer, an denen man so lange arbeiten kann, wie man will. Kein Unterschied, nur kein Zeitlimit. Und? Die Amerikaner stehen an der Expressschlange an. Auch wenn drei der anderen Computer frei sind. Punkt für mich, weil ich immer schnell einen Computer bekomme. Aber trotzdem: Warum?
+Free Refill bei Subay? Leute kaufen trotzdem den größten Becher. Möglicherweise aber nicht nur aus Dummheit, sondern auch teilweise aus Faulheit, weil man für den Free Refill natürlich wieder einmal durch das Restaurant laufen muss. Und bei Subway gibt es keine elektrischen Rollstühle, wie in den meisten Supermärkten.&lt;/p&gt;
+
+&lt;p&gt;Noch mehr Blödsinn? Football! Meine Meinung zu Sport und Fußball im Besonderen ist ja stadtbekannt, aber im Vergleich zu den amerikanischen Sportarten ist sogar Fußball eine sehr aufregende Sache. Football besteht zu 1% Sachen mit einem Ball machen, zu 29% aus Leute umschubsen und zu 70% aus Pausen und Timeouts (mit Werbung und Marching Bands). Dank der Pausen dauert ein Footballspiel mit vier Vierteln à 15 Minuten dann drei Stunden. Wobei ich in der Mitte des dritten Viertels aufgegeben habe. Immerhin gab es, wie eigentlich bei allen anderen studentischen Veranstaltung, kostenlos Essen (Pizza) und Trinken. Da war ich natürlich wieder vorne mit dabei, ganz klar.&lt;/p&gt;
+
+&lt;p&gt;Auch toll: das Telefonnetz von AT&amp;amp;T! Von der wunderbaren Idee, auch für einkommende SMS und Anrufe zu bezahlen, habe ich ja schon geschrieben. Mindestens genauso innovativ ist die Idee, dass jeder Anrufsversuch 10 Cent kostet. Also bezahlt man jedes Mal, wenn man jemanden nicht erreicht. Ist aber alles nur halb so schlimm, weil man auf dem Campus sowieso fast nie Empfang hat.&lt;/p&gt;
+
+&lt;p&gt;Das sind aber alles eher Kleinigkeiten und ganz klar first world problems. Die meiste Zeit amüsiere ich mich hier mit ein bisschen ironischer Distanz über diese Sachen. Die Uni läuft ansonsten super. Ich muss relativ viel lesen und habe insgesamt das Gefühl, dass es hier wesentlich schulischer, aber auch organisierter und zielgerichteter zugeht als in Bremen.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/11/universal-tellerwascher.html&quot;&gt;Universal Tellerwäscher&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[There’s more to life than this]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2011/08/11/there-is-more-to-life-than-this.html" />
+  <id>http://0.0.0.0:4000/articles/2011/08/11/there-is-more-to-life-than-this</id>
+  <published>2011-08-11T08:03:00Z</published>
+  <updated>2011-08-11T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Ich setze mal als bekannt voraus, dass es mir hier sehr gut geht und mir die Uni viel Spaß macht und interessant ist. Aber ich bin mittlerweile an einem sehr interessanten Punkt angelangt. Es ist der Punkt, an dem die Kleinigkeiten, von denen ich dachte, dass ich mich einfach daran gewöhnen werde, tierisch auf die Nerven gehen.&lt;/p&gt;
+
+&lt;p&gt;Zum Beispiel das Essen: Das Brot ist einfach furchtbar! Richtig ekelig. Der Käse schmeckt meistens nach nichts, oft aber auch einfach komisch. Dann gibt es noch dutzende Dinge, die man auf das Watteartige Brot schmieren kann. Aber technisch sind das nur verschiedene Zuckervariationen mit verschiedenen Geschmacksverstärkern. Als Alternative gibt es noch Cornflakes. Aber auch das ist auch nur bunter Zucker in verschiedenen Formen. &lt;/p&gt;
+
+&lt;p&gt;Das Schlimmste ist aber das Wasser. Das wird hier mit Fluoriden angereichert. Zur Kariesprophylaxe. Das muss man sich mal auf der Zunge oder besser gleich den Zähnen zergehen lassen. Dieses Land trinkt den ganzen Tag Cola, schmierrt sich Zucker aufs Brot und kippt dann Chemikalien ins Wasser, damit ihnen die Zähne nicht direkt ausfallen. 
+Weiß jemand von euch zufällig, wie giftig diese Fluoride sind? Ich habe da mal im Internet nach gesucht und beeindruckende Verschwörungstheorien gefunden.
+Und die Fluoride sind natürlich auch in der Zahnpasta. Deshalb darf man die hier nicht verschlucken. Kleiner Haushaltstip: Eine Tube Zahnpasta ist giftig genug, um ein Kleinkind zu töten. Aber auch, wenn man die Zahnpasta selbst verschluckt, wird einem auf der Tube geraten, einen Arzt zu rufen. &lt;/p&gt;
+
+&lt;p&gt;Ich habe mich anfangs ja sehr darüber gefreut, sowohl einen Wäschetrockner als auch eine Geschirrspülmaschine im Haus zu haben. Ist aber beides scheiße. Das Geschirr ist immer halb dreckig. Und die Klamotten werden nie wirklich trocken. Die Maschine erkennt nämlich automatisch, wenn die Sachen trocken genug sind. Klappt natürlich nicht. Dann stell ich sie per Hand nochmal für ne halbe Stunde an. 
+Und dann habe ich keinen Bock mehr, den Scheiß nochmal anzumachen und nehme die nassen Sachen raus.&lt;/p&gt;
+
+&lt;p&gt;Alle, die meine große Freude an Nationalsymbolen kennen, wird es außerdem freuen, dass die USA-Flagge vor meinem Haus die größte in unserer Siedlung ist. Selbstverständlich haben auch alle Nachbarn eine. Nicht, dass man vergisst, in welchem Land man gerade ist. &lt;/p&gt;
+
+&lt;p&gt;In dieser Woche ist außerdem Homecoming-Week an der Uni. Das hat irgendwie was mit dem ollen Community Spirit hier zu tun. Aber es ist hauptsächlich Anlass für Brot und Spiele. Zum Beispiel wurde am Montag in der Nähe der Bushaltestelle ein Auto kaputtgehauen. Also als Performance, kein normaler Gentrifizierungsprotest. Dann gab es am Dienstag einen elektrischen Bullen, so ein American Gladiators-Hüpfburg-Ding, wo man sich mit Bällen umschubsen konnte, und dieses Gummischnur-Wettrenn-Ding, das man von Festivals kennt. Am Mittwoch waren dann noch Kühe und Hühner auf dem Campus. Was das soll?&lt;/p&gt;
+
+&lt;p&gt;Gleichzeitig sind Wahlen für die Student Association. Das macht man hier natürlich nicht mit Flyern, sondern indem man im Anzug oder Kostüm Leute direkt anspricht. Mich hat eine kleine, blonde Cheerleaderin angesprochen. Sie trug ein ein Namensschild, auf dem ungelogen stand: “Hello, my name is Kittie”. Hello Kitty! Auf die Frage, was die SA (auch eine feine Abkürzung für die Student Association) so macht, zeigt sie auf das Tohowabohu, über das ich mich mit Fabian, einem ähnlich irritierten deutschen Studenten, fein lustig gemacht hat und sagt stolz: “This!”. Das reicht mir natürlich nicht, um sie zu wählen. Ich will Argumente. Und die bekomme ich auch. Ich soll ihre Partei wählen, weil es ihre Partei schon am längsten gibt. Aber auch das zieht bei mir nicht. Und mehr fällt ihr nicht ein, also wird sie persönlich. Sie guckt auf meine Vans und erzählt mir, dass sie jeden Tag Longboard fährt. Dann guckt sie auf meine Haare und erzählt mir, dass die meisten ihrer Freunde auch Hippies seien. Personalisierte Werbung. Wie bei Facebook. 
+Da ist mir der Bremer AStA doch lieber. Der kämpft für die wirklich wichtigen Dinge im Leben. Wie veganes Essen in der Mensa (zusätzlich zu den fünf vegetarischen Mahlzeiten). Außerdem muss man sich in Bremen nur zwischen links, sehr-links, dogmatisch-links, undogmatisch-links, Die Linke-links und diesen CDU-Affen entscheiden (RCDS).&lt;/p&gt;
+
+&lt;p&gt;Euer Skaterhippie
+Hendrik&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/11/there-is-more-to-life-than-this.html&quot;&gt;There’s more to life than this&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Space Oddity]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2011/08/11/space-oddity.html" />
+  <id>http://0.0.0.0:4000/articles/2011/08/11/space-oddity</id>
+  <published>2011-08-11T08:03:00Z</published>
+  <updated>2011-08-11T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Das Orientierungsprogramm der Universität läuft seit Sonntag und ich habe schon eine Menge interessanter und netter Menschen kennengelernt. Als Europärer ist man unter den internationalen Student eine wirkliche Seltenheit. Hauptsächlich trifft man hier Japaner, Chinesen und Inder. Die meisten der Chinesen studieren irgendwas mit Business und ausnahmslos alle Inder, die ich kennengelernt habe, Computer Science. Heute Abend hat sich dann aber doch eine kleine europäische Union gebildet, die sich aus mir, einer Finnin und einem Haufen Briten zusammensetzt. An den Briten schätze ich nicht nur ihren wunderbaren Akzent, sondern auch ihren Sinn für Humor. Einen Digital Media / Media Studies habe ich bis jetzt aber noch nicht getroffen.&lt;/p&gt;
+
+&lt;p&gt;Das Orientierungsprogramm ist wahnsinnig gut organisiert und beschäftigt sich mit fast allen Aspekten des amerikanischen Lebens. Darunter “How To Stay Healthy in a Fast Food Culture” und wichtige Informationen zu Bankkonten und Bankbetrug, aber auch obskure Sachen wie “Dating: Cultural Differences and U.S. Laws” (u.a. von einem Doktor der Informatik!). &lt;/p&gt;
+
+&lt;p&gt;Ich war heute zum Beispiel in einer Vorlesung zur Sicherheit und hatte danach das Gefühl, dass ich, wenn ich nicht direkt auf dem Nachhauseweg ausgeraubt und erstochen werde, spätestens in meinem eigenen Appartement verbrenne. Ein bisschen wie Notruf gucken war das. Die machen sich da echt ein bisschen zu viele Sorgen und geben so hilfreiche Ratschläge, wie niemals allein in der Nachbarschaft unterwegs zu sein (auch nicht tagsüber!). Oder einem Obdachlosen niemals Geld zu geben, was ich ein bisschen asozial finde, gerade weil das Sozialsystem in Amerika an der einen oder anderen Stelle dann ja doch noch Platz für Verbesserungen bereithält. Dazu dann noch folgende Aussage: “When somebody asks you on the streets for money, they’re probably drug addicts or thiefs”. Das ist glaube ich schlicht falsch, weil man schneller obdachlos werden kann, als einem lieb ist.&lt;/p&gt;
+
+&lt;p&gt;Manchmal richtet sich das Program auch eher an Leute, die ihr komplettes Studium in Buffalo absolvieren. Wie die das finanzieren, ist mir oft schleierhaft. Und man fühlt sich bei all dem Glück und den Vorteilen, die man als Westeuropäer und insbesondere Bremer hat, dann doch manchmal ein bisschen schlecht. Zum Beispiel wenn man sich vorstellt, was man hier für einen Bachelor bezahlt.&lt;/p&gt;
+
+&lt;p&gt;Ich kämpfe gerade selbst noch ein bisschen mit meinen Studiengebühren. Bei all der wunderbaren Organisation und den tausenden Veranstaltungen habe ich immer noch keine Ahnung, was ich jetzt wirklich bezahlen muss. Es gibt nämlich zusätzlich zu den normalen Studiengebühren von ca. 8000 Dollar noch eine Fülle an spannenden Gebühren. Die meisten anderen Auslandsstudenten wissen zwar auch nicht, was sie bezahlen müssen. Die Briten haben es ähnlich gut wie ich und müssen nach eigener Angabe nichts bezahlen, womit auch ich gut leben könnte. Die Deadline für das Bezahlen ist schon morgen und danach soll es Strafgebühren geben (auch da weiß wieder keiner, ob man die als internationaler Student bezahlen muss oder nicht). Es bleibt spannend, klärt sich aber hoffentlich morgen.&lt;/p&gt;
+
+&lt;p&gt;Eine Sache, die hier drüben übrigens wirklich leidet, ist mein carbon footprint. Nicht nur durch den Flug. Allein die Tatsache, dass ein normaler Einkauf in zehn unterschiedliche Plastiktüten verpackt wird (selbstverständlich vom Verkäufer). Das ist eine riesige Energieverschwendung. Zumal die Amerikaner die Tüten in ihren Kofferraum packen und nur für den Weg von der Garage ins Haus brauchen. Ich glaube, man müsste einen Ölkrieg weniger führen, wenn man diesen Blödsinn mit den Plastiktüten lassen würde. &lt;/p&gt;
+
+&lt;p&gt;Was auch sehr hilfreich an der Orientierungswoche ist, sind die Stände der Telefonanbieter und Banken. Ich habe jetzt ein Konto hier und kann ganz amerikanisch Schecks ausstellen. Ganz europäisch habe ich aber verfügt, dass ich das Konto nicht überziehen kann ;). 
+Außerdem habe ich mir heute ein neues Handy gekauft. Prepaid inkl. Simkarte für zehn Euro. Damit ist mein iPhone ganz offiziell nur noch Angeberei, auch wenn ich es weiterhin gerne bei mir habe ;).&lt;/p&gt;
+
+&lt;p&gt;Die Faulheit der Amerikaner treibt übrigens seltsame Blüten. Dass es Restaurants mit Drive-In bzw. Drive-Trough gibt, kennt man ja auch aus Deutschland. Hier gibt es aber auch Drive-Through-Apotheken und Bankautomanten. Bankautomaten!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/11/space-oddity.html&quot;&gt;Space Oddity&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Mutual Core]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2011/08/11/mutual-core.html" />
+  <id>http://0.0.0.0:4000/articles/2011/08/11/mutual-core</id>
+  <published>2011-08-11T08:03:00Z</published>
+  <updated>2011-08-11T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Reisen ist eine gute Sache! Und Kanada ein sehr schönes Land. Auch wenn ich den Eindruck habe, dass Kanada und die USA gar nicht so unterschiedlich sind. Vielleicht liegt das aber auch einfach daran, dass Buffalo kanadisch geprägt ist und Toronto / Ontario wiederum relativ amerikanisch geprägt ist.&lt;/p&gt;
+
+&lt;p&gt;Um nach Toronto zu kommen, haben wir uns ein Auto gemietet. War schön, endlich mal wieder Auto fahren zu dürfen. Wobei interessante Unterschiede zwischen Deutschland und den USA gibt. Man darf hier zum Beispiel an den meisten Ampeln auch rechts abbiegen, wenn rot ist. Ein Gefühl von Anarchie, wenn man das zum ersten Mal macht! Ich hoffe, dass ich mich nicht allzu sehr daran gewöhnt habe und das nie in Deutschland versuche. Bis auf das störend niedrige Tempolimit ging das Fahren aber klar. Wobei die Parkplatzsuche in der Stadt natürlich immer ätzend ist.&lt;/p&gt;
+
+&lt;p&gt;Unterwegs war ich mit zwei Freundinnen von der Uni. Suzy (England) und Annakaisa (Finnland). Mit an Board waren auch die Eltern von Annakaisa. Das war eine interessante Mischung, die den stumpfsinnigen U.S.-Grenzbeamten ein bisschen überfordert hat (“Do you all study together?”).&lt;/p&gt;
+
+&lt;p&gt;Ganz im Gegensatz zu eurem redseligen Hendrik sind die Finnen ein eher schweigsames Volk sind. Gesprochen wird nur das Nötigste und beim Essen schonmal gar nicht. War trotzdem schön und Annakaisa ist der Beweis, dass auch Finnen viel reden können.&lt;/p&gt;
+
+&lt;p&gt;Wir hatten ein fantastisches Hostel (Planet Traveler, falls ihr mal nach Toronto kommt). Vielleicht das beste Hostel, das ich bis jetzt gesehen habe. Mit einer wunderschönen Dachterrasse mit Blick auf die Skyline von Toronto. Mit sehr schönem Zimmer, Frühstück inklusive und freiem Abendessen am Samstag auf der Dachterrasse. Außerdem konnte man den ganzen Tag Kaffee trinken und Popcorn essen. Hervorragend! &lt;/p&gt;
+
+&lt;p&gt;Toronto ist eine wunderschöne Stadt. Es war sowieso schön mal wieder in einer richtigen Stadt zu sein. Buffalo ist gut und schön, aber in Toronto war unser Hostel mitten in der Stadt und alles war ein bisschen szeniger. So wie das Viertel in Bremen. Toronto hat diesen schönen CN Tower. Da fährt man hoch und hat einen fantastischen Blick auf die Stadt. Cool ist vor allem, dass der Tower eine große Glasplatten im Boden hat und man nach unten gucken kann. Für Leute mit Höhenangst vielleicht nicht unbedingt das Richtige, aber ich hatte meinen Spaß und bin fein rumgesprungen.&lt;/p&gt;
+
+&lt;p&gt;Das Nachtleben in Toronto war schön, aber kurz. Die Bars haben nämlich alle schon um 2 Uhr nachts geschlossen. Und das am Freitag und am Samstag! Damit hätte ich nun wirklich nicht gerechnet. Zumal Toronto mit 2,5 Millionen Einwohner ja wesentlich größer als Hamburg ist. Wir hatten trotzdem unseren Spaß. Die Kanadier, mit denen wir gesprochen haben, haben sich nämlich große Mühe gegeben, alle Klischees zu erfüllen, aye. Die Amis haben uns nämlich vorher erzählt, dass Kanadier nach jedem Satz “Aye” sagen, aye. Und das haben sie tatsächlich gemacht, aye. Eher nervig, aye. Zwei der Kanadier waren außerdem sehr dumm, betrunken oder beides. Dem einen musste ich dreimal erklären, dass ich aus Deutschland komme. Nur damit er mich drei Minuten später fragt: “So how is living in France like, aye?”. Sein Kumpel war auch nicht besser. Nachdem Suzy ihm erzählt hat, dass sie aus London kommt, fragt er: “Oh cool, London, Ontario!” “No, London, ENGLAND!”. Zumal Suzy einen kräftigen britischen Akzent hat. Und jeder, wirklich jeder Amerikaner und Kanadier ist einfach entzückt, wenn er britischen Akzent hört. Im Herzen sind das nämlich beides noch glückliche Kolonien, die heimlich die Queen anbeten (die Kanadier drucken die Alte ja sogar auf ihr Monopolygeld).&lt;/p&gt;
+
+&lt;p&gt;Die Uni läuft ansonsten gut. Habe heute meine Präsentation in “Philosophy and Pop Culture” gehalten. Das ist nämlich nicht nur Simpsons und Star Wars gucken. In meiner Präsentation ging es um “Dialectics of the Force in Star Wars”. Die Interpretation des Profs bezog sich hauptsächlich auf Hegel, seinen “Pathway to Spirit” und die alles umspannende “Life Force”. Ich habe es aber lieber auf Nietzsche und die attische Tragödie bezogen. Kam erstaunlich gut an.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/11/mutual-core.html&quot;&gt;Mutual Core&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Hey white boy, whatcha doin’ downtown?]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2011/08/11/hey-white-boy.html" />
+  <id>http://0.0.0.0:4000/articles/2011/08/11/hey-white-boy</id>
+  <published>2011-08-11T08:03:00Z</published>
+  <updated>2011-08-11T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Am Samstagabend war ich ganz stilecht auf dem Broadway und habe mir Hair angeguckt. Ohne gleich wieder mit Superlativen um mich zu werfen, hat mich das Stück schon schwer beeindruckt. Obwohl, oder gerade weil, ich ja auch den Film kenne und der einige Schwachstellen hat, um nicht zu sagen, teilweise stinklangweilig ist. Im Theater war das anders. Es wurde mehr wert auf die Musik gelegt, was bei den ausgezeichneten SängerInnen eine gute Wahl war. Und die langweiligen Teilen wurden einfach weggelassen.
+Ich hatte einen Platz auf dem Balkon, was wirklich weit oben war (das Theater war nicht besonders lang / tief, dafür aber sehr hoch). Im Endeffekt war das aber nicht so schlimm, auch wenn man ab und zu nicht mitbekommen hat, wie die Schauspieler ins Publikum gegangen sind. Im Stück war auch eine gute Balance zwischen ernster Kriegsdienstverweigerung / Vietnam-Kritik und einem Porträt der Hippie-Bewegung (auch wenn die beiden natürlich immer miteinander verbunden waren).
+Was mich an dem Stück wirklich beeindruckt hat und was ich, wie man so schön sagt, “mitnehmen” werde, ist das da wirklich nur Schauspieler, eine Band und eine gute Beleuchtung im Spiel waren. Mehr nicht. Also nichts, was man nicht auch in Bremen machen könnte, wenn man wollte ;).&lt;/p&gt;
+
+&lt;p&gt;Nach dem Stück bin ich dann nochmal über den Broadway gelaufen, der auch bei Nacht taghell war. Habe dann durch Zufall vor dem Planet Hollywood noch eine unglaubliche Sammlung teurer Sportwagen gesehen. Vor dem Planet Hollywood war auch Ice-T, den zwar weder ich noch die hundert anderen Leute, die ihn umringt haben, wirklich erkannt haben. Aber darum geht es ja auch nicht, oder?&lt;/p&gt;
+
+&lt;p&gt;Am Sonntag bin ich dann nach Greenwich Village gefahren. Da war ich dann unter anderem im Washington Square Garden, der direkt gegenüber der New York University liegt. Ich kannte den Park vor allem aus Dylans Biografie, weil sich in den Sechzigern dort jeden Sonntag viele Folkmusiker versammelt haben und Musik gemacht haben. Musiker habe ich aber leider keine gesehen. Bin dann weiter zu den Electric Lady Studios, die Jimi Hendrix für sich hat bauen lassen, auch wenn er leider nur einen Song dort aufgenommen hat (und leider nicht das Album Electric Ladyland, wie ich beim Namen irgendwie gehofft hätte). Dafür haben aber unter anderem John Lennon, Led Zeppelin und Radiohead&lt;/p&gt;
+
+&lt;p&gt;http://en.wikipedia.org/wiki/Electric_Lady_Studios&lt;/p&gt;
+
+&lt;p&gt;da ihre Alben aufgenommen. Jetzt mag der ein oder andere sich fragen: Was bringt es dem Jungen, sich das längst verlassene Studio von Jimi Hendrix anzugucken? An sich nicht viel, ein bisschen Aura vielleicht, aber an sich ist es nur ein feiner Grund, mal durchs Village zu laufen und sich die Straßen anzusehen.&lt;/p&gt;
+
+&lt;p&gt;Zum Essen. Hier ist es eigentlich genau so, wie man sich die USA vorstellt. Überall gibt es billig Pizza, Pommes, Burger, Hotdogs oder Döner. Und an jeder Straßenecke Starbucks. An jeder Straßenecke! Und alle sind voll. Keine Ahnung, was die Amerikaner daran so lieben. Ich habe hier zwei Straßen weiter einen ausgezeichneten Diner, in dem ich mir meinen Kaffee hole und dann so lange mein Akku reicht im Internet surfe. Da wird mir der Kaffee pausenlos nachgeschenkt und es kostet umgerechnet genau einen Euro. Ich bin es gerade auch ein bisschen Leid, die ganze Zeit Fastfood zu essen, zumal man hier vegetarisch meistens dann doch begrenzte Möglichkeiten hat. Aber ich habe ja ein ausgezeichnetes Kochbuch im Gepäck.&lt;/p&gt;
+
+&lt;p&gt;Vorgestern hatte ich mir eigentlich vorgenommen ins Metropolitan Museum of the Arts zu gehen, aber das hat, wie die meisten Museen in New York, am Montag geschlossen. Ich bin dann ins National Museum of the American Indian (NMAI) gegangen und war ziemlich enttäuscht. Zum einen, weil die Ausstellung so klein war. Zum anderen aber auch, weil es viele Repliken gab und viele der Gegenstände aus den 1990er oder den 2000er kamen und Textilien waren. Immerhin musste man für die paar bestickten Kleider und Kinderpuppen (à la Spielzeugmuseum) keinen Eintritt bezahlen. Und es gab auch ein paar coole Sachen, wie Friedenspfeifen, Statuen von Opfergöttern und ein Video, in dem ein paar Weiße ein Zelt nachgebaut haben. Und lustige Hüte (siehe Bilder).&lt;/p&gt;
+
+&lt;p&gt;Letztendlich wusste ich dann aber nicht mehr so richtig, was ich mir noch angucken soll. Bis ich dann bei Facebook von Christian S. den entscheidenden Hinweis bekommen habe, dass ich mir unbedingt noch Coney Island angucken muss. Also bin ich einmal mit der Subway von Manhattan komplett durch Brooklyn an das äußerste Ende von New York gefahren. Und stand am Strand. Unglaublich, ein richtig schöner Sandstrand, zu dem man mit der U-Bahn fährt. Dazu noch ein Vergnügungspark mit Achterbahn (die Amis wissen, wie man sich amüsiert) und Nathan’s Famous Hot Dog. Den musste ich natürlich probieren. Hat wirklich gut geschmeckt, auch wenn es nur eine würzige Wurst und ein Stück Brot ist (damit sehr nah an meinem alten Bremer Hot Dog Rezept - Heißwurst mit Brot). Jedenfalls habe ich vorgestern den Tag am Strand verbracht, wozu man nicht viel schreiben muss, was aber eine wirklich super Sache ist.&lt;/p&gt;
+
+&lt;p&gt;Gestern war dann das erste und einzige Mal schlechtes Wetter in New York. Und zwar so richtig schlechtes. Habe deshalb die meiste Zeit des Tages bei Starbucks verbracht und mich mit einem Journalisten aus Neuseeland unterhalten, der Korrespondent für die Vereinten Nationen ist. Sein Fokus ist eigentlich Armut, auch wenn er sich gestern mehr für meine iPhone-Apps interessiert hat. Und er hat mir geraten, bei den Vereinten Nationen eine Führung zu machen, was ich dann auch heute, an meinem letzten Tag in New York, gemacht habe. Das hat sich auch auf jeden Fall gelohnt. Was mir im Gedächtnis hängengeblieben ist, ist folgendes Zitat: &lt;/p&gt;
+
+&lt;p&gt;“The UN was not created to take mankind to heaven, but to save humanity from hell.” 
+— Dag Hammarskjöld, Secretary-General from 1953 to 1961&lt;/p&gt;
+
+&lt;p&gt;Die Führung war sehr unterhaltsam und führte unter anderem durch den großen Sitzungssaal und den Saal, in dem der Weltsicherheitsrat tagt. Interessant ist, wie heruntergekommen das UN-Gebäude ist. Dafür, dass sich da im September wieder die Staatsoberhäupte aus 193 Ländern treffen, ist viel kaputt. Zur Ehrrettung sei zwar gesagt, dass momentan viel renoviert wird. Und natürlich haben die Damen und Herren bei der U.N. auch andere Sorgen wie Armut, Hunger und Kriege ;). Empfehlenswert, aber nichts für sanfte Gemüter, sind auch die World Press Photos 2011, die im Foyer ausgestellt waren und die man sich auch online angucken kann.&lt;/p&gt;
+
+&lt;p&gt;Ich habe mich heute im Central Park übrigens noch mit einer älteren Lady unterhalten, die so einige Geschichten über verstorbene Verwandte und Hunde auf Lager hatte - als Reisender hat man ja Zeit. Aber die Frau war auch sehr nett. Jedenfalls ging es in einer der Geschichten um ihren Sohn, der seinen Hund immer in der Uni bei sich hatte. Und, wie es der Zufall will, hat der Sohn in Buffalo an “meiner” Uni studiert. Wenn das mal kein gutes Omen ist! Ihrem Sohn hat es dort jedenfalls ausgezeichnet gefallen, auch wenn er sagt, dass man den Gehweg vor Schnee von Oktober bis Mai nicht zu Gesicht bekommt ;)!&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/11/hey-white-boy.html&quot;&gt;Hey white boy, whatcha doin’ downtown?&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Day in the Life]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2011/08/11/a-day-in-the-life.html" />
+  <id>http://0.0.0.0:4000/articles/2011/08/11/a-day-in-the-life</id>
+  <published>2011-08-11T08:03:00Z</published>
+  <updated>2011-08-11T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Mittlerweile ist es richtig voll auf dem Campus. Das Semester hat gestern endlich angefangen und damit sind auch alle amerikanischen StudentInnen angekommen. Zumindest die, die nicht vom “Hurricane” Irene abgehalten wurden. Wobei ich selbst weder vom Erdbeben noch vom Hurricane besonders viel mitbekommen habe. Mein Mitbewohner (der bei der Brauerei) sagt aber, dass er gehört hat, wie das Erdbeben die Städte in seiner Telefonkonferenz passiert hat. &lt;/p&gt;
+
+&lt;p&gt;Der Hurricane war hier in Buffalo überhaupt kein Thema, weil wir circa 800km von der Küste entfernt sind. Hier war strahlender Sonnenschein und ich war am Samstag zum zweiten Mal bei den Niagarafällen. Einfach weil es da so schön ist und die Uni eine Fahrt für die internationalen Studenten organisiert hat.&lt;/p&gt;
+
+&lt;p&gt;Ich glaube übrigens auch, dass der Hurricane ein bisschen in den Medien aufgeblasen wurde, damit Obama mal was hat, um innenpolitisch zu brillieren. Die Nachrichten hier in den Tagen sahen jedenfalls so aus, als würde New York City komplett und für immer untergehen. Und am Samstag wurde der Hurricane dann ja auch zum tropischen Wirbelsturm downgeratet (nichtmal AA+). Die New York Times hat mich dabei insofern enttäuscht, als dass sie diese ganze Panikmache an keiner Stelle hinterfragt hat, sondern immer nur Zusammenfassungen geliefert hat, was der Bürgermeister sagt (Ich vermisse die taz). Ansonsten kann man die New York Times aber ganz gut lesen, zumal ich die auf dem Campus gratis bekomme (auch wenn die relativ schnell vergriffen ist).&lt;/p&gt;
+
+&lt;p&gt;Eher furchtbar ist dagegen die USA Today (auch gratis). Habe sie mir gestern geholt, weil die NYT nicht mehr da war, aber nach ein paar Artikel aufgegeben. Einer der Artikel ging darum, dass man die Quantentheorie ja auch nicht beweisen kann, sondern glauben muss. Und dass die Sache mit Gott das Gleiche sei. Sowieso scheint den Amerikanern nicht immer klar zu sein, was eine wissenschaftliche Theorie ist (“Evolution is a theory”). Auch so Sachen wie bedingungslose Menschenrechte sind hier noch nicht angekommen. Selbst meinem Mitbewohner, wohlgemerkt Zahnarzt ist und sicherlich nicht dumm, fällt es schwer zwischen den Attentätern vom 11. September und Muslimen zu unterscheiden. Und was er von Guantanamo Bay hält, erzähle ich euch mal lieber bei einem beruhigenden Bier ;).&lt;/p&gt;
+
+&lt;p&gt;Die Organisation an meiner amerikanischen Uni ist ausgezeichnet. Im Moment stehen zum Beispiel überall auf dem Campus Leute herum, die einem Karten geben und die man nach dem Weg fragen kann. Ich habe heute zum Beispiel einen bestimmten Raum gesucht und wurde fast direkt vor die Tür begleitet. Das ist wirklich sehr hilfreich, gerade weil der Campus eher einer Kleinstadt ähnelt (Ich habe es leider immer noch nicht geschafft, ein paar Bilder vom Campus zu machen). 
+Außerdem gibt es ständig Veranstaltungen mit leckerem Essen. Sei es das Willkommenspicnic mit Hähnchenkeulen bzw. vegetarischen Burgern oder die Mitternachtspfannkuchen. Es gibt einfach immer was zu essen. Sogar auf der Willkommensparty gab es Stände mit Pizza, Cola, Kaffee, Nachos und Zuckerwatte (!). Natürlich alles gratis (wobei man natürlich genug Gebühren bezahlt hat). Nur Bier gabs leider keins. 
+Insgesamt bin ich ganz froh, nicht direkt auf dem Campus zu wohnen und gezwungenermaßen jeden Tag 20min. hin und her zu gehen. Auch wenn das im Winter wahrscheinlich nerven wird.&lt;/p&gt;
+
+&lt;p&gt;Nach zwei Tagen habe ich jetzt auch einen ersten Eindruck von den Vorlesungen und Seminaren, die ich in den nächsten Monaten machen werde. Mein Eindruck ist sehr gut, auch wenn ich einen Haufen Arbeit auf mich zukommen sehen ;). “Game Design” und “Programming Graphics” werden von einem Hippie unterrichtet, der mir allein schon deshalb sympathisch ist, weil er als einziger Amerikaner, den ich bis jetzt kenne, längere Haare hat als ich. Die dann aber als Pferdeschwanz, worüber man wieder streiten kann. Und muss. Viel wichtiger ist aber, dass er augenscheinlich viel von seinem Handwerk versteht und einen sehr guten, aber auch strikten Plan hat. Einer der anderen Studenten hat mir außerdem erzählt, dass er früher für die NASA gearbeitet hat, was verhältnismäßig cool ist. &lt;/p&gt;
+
+&lt;p&gt;In “Game Design” sollen wir als erstes Brettspiel bzw. einen Prototyp aus Papier entwickeln, den wir dann ausprobieren und später als Compuerspiel implementieren. Ein spannender Ansatz, weil man sich so wirklich auf das Gameplay konzentrieren muss.&lt;/p&gt;
+
+&lt;p&gt;“Programming Graphics” hat mich in der ersten halben Stunde sehr an meinen Grafikkurs bei Frieder erinnert. Während es bei Frieder wie immer ein Studium generale mit viel Mathematik, aber auch Systemkritik im Allgemeinen gab, geht es hier eher darum, OpenGL 3.2+ und Shader zu lernen. Zu meiner Freude in Python.&lt;/p&gt;
+
+&lt;p&gt;Der dritte Kurs ist “Sound Media Poetics”, wo ich dank Frieders Medienkunstdefinition auch gleich einen guten Eindruck hinterlassen habe. Dort geht es um Poesie im Allgemeinen und Poesie mit Sound im Besonderen. Was das genau heißt, weiß ich zwar auch noch nicht, aber die erste Vorlesung hat mir super gefallen. Der Kurs findet in einer Art Kinosaal statt und der Dozent ist sehr selbstironisch. Allgemein sind die amerikanischen Dozent sehr unterhaltsam und gut darin, ihren Stoff zu präsentieren. Gleichzeitig sind sie aber auch sehr streng was die Benotung angeht, was im Falle von “Sound Media Poetics” zum Beispiel heißt, dass sich meine Endnote aus einem Vortrag, drei schriftlichen Prüfungen, einem Filmtagebuch, einer Filmkritik, einem kreativen Projekt und meiner Beteiligung im Kurs zusammensetzt. Schon krass.&lt;/p&gt;
+
+&lt;p&gt;Als vierten Kurs habe ich “Philosophy and Pop Culture” gewählt. Die erste Aufgabe dazu hatte ich ja schon bei Facebook gepostet. Sie bestand darin, sich ein paar Simpsonsfolgen und vielleicht Star Wars nochmal anzugegucken. Verschwiegen habe ich euch dabei, dass ich auch vierzig Seiten über Kant und seinen kategorischen Imperativ lesen sollte. Der Professor ist genauso kauzig, wie man es von einem Philosophieprofessor erwartet. Und sein Ansatz ist wirklich bemerkenswert, weil er die Philosophie von Kant, Hegel und Plato in und an Popkulturbeispielen wie den Simpsons, The Matrix und Star Wars erläutert. Seine These, dass das Fernsehen unsere neue Religion ist, halte ich aber für ein bisschen weit hergeholt ;).&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/11/a-day-in-the-life.html&quot;&gt;A Day in the Life&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Talkin’ New York]]></title>
+  <link rel="alternate" type="text/html" href="http://0.0.0.0:4000/articles/2011/08/06/talkin-new-york.html" />
+  <id>http://0.0.0.0:4000/articles/2011/08/06/talkin-new-york</id>
+  <published>2011-08-06T08:03:00Z</published>
+  <updated>2011-08-06T08:03:00Z</updated>
+  <author>
+    <name>Hendrik</name>
+    <uri>http://0.0.0.0:4000</uri>
+    <email>you@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Mein Hostel ist wirklich billig und mir war natürlich bewusst, dass man für ca. 20 Euro pro Nacht nicht allzuviel erwarten darf (zumal man auch für den doppelten Preis nur ein Bett im Achterzimmer bekommt und es immerhin Midtown Manhattan liegt). Dafür habe ich hier aber auch gerade mal ein Bett und einen Gang, der vollkommen von meinem Koffer gefüllt wird. Das Ganze ist nach oben hin offen und in einem riesigen Raum mit ca. 30 anderen Räumen, wodurch ich am Leben der anderen sehr gut teilhaben kann. 
+Auf gechlortes Wasser war ich eingestellt, auch wenn es gerade beim Zähneputzen ekelhaft ist. Auf verrückte Franzosen, die ihre Spirte mit dem gechlorten Wasser auffüllen und auch nicht einsehen wollen, dass das keine gute Idee ist, aber nicht.
+Der Raum ist gut gekühlt, d.h. eiskalt, weshalb ich absurderweise durch über 30 Grad draußen teilweise mit Jacke schlafe.
+Insgesamt erfüllt es aber seinen Zweck. Wirklich nervig ist nur, dass ich nicht nur kein richtiges Internet, sondern auch keine eigenen Steckdosen habe. Dementsprechend muss ich Notebook und Handy an der Rezeption aufladen lassen, was einiges an Vertrauen erfordert.&lt;/p&gt;
+
+&lt;p&gt;New York ist einfach gigantisch. Ich bin, da ich am ersten Tag dank Jetlag schon um 6 Uhr hellwach war, von meinem Hostel zu Fuß zum Empire State Building gelaufen, was circa eine dreiviertel Stunde gedauert hat und vor allem deshalb so schön war, weil so wenig los war. Im Grunde war so viel los wie mittags in Bremen, aber im Vergleich für New Yorker Verhältnisse war es halt leer. &lt;/p&gt;
+
+&lt;p&gt;Das Empire State Building und auch die Fahrt zur Freiheitstatur sind irgendwie Pflichtprogramm und ich habe vorher kurz überlegt, ob ich dafür wirklich Geld ausgeben soll. Für mich hat es sich aber in beiden Fällen mehr als gelohnt. Zum einen, weil man aus dem 86. Stockwerk einfach einen ganz anderen Blick auf die Stadt bekommt (ich hätte übrigens auch nicht gedacht, dass New York “nur” 8,2 Millionen Einwohner hat, das wirkt alles viel größer). Zum anderen, weil die Fahrt zur Freiheitstatur nicht nur eine kleine Rundfahrt um die Insel war, wie ich es aus dem Heidepark gewohnt war, sondern weil man auch noch nach Ellis Island gebracht wurde und dort ins Museum konnte. &lt;/p&gt;
+
+&lt;p&gt;Ellis Island war für 12 Millionen Einwanderer nach Amerika die erste Station und der Ort, wo sich entschieden hat, ob sie in Neuengland bleiben dürfen oder auf eigene Kosten nach Hause geschickt werden. Das Spannendste am Museum ist aber, dass es halt nicht irgendein Museum ist, sondern das die Geschichten, die erzählt werden, sich genau in den Räumen abgespielt haben, in denen man steht. Das macht das Ganze viel nahbarer. Bremen gehört übrigens zu den zwei Häfen, aus denen die häufigsten Boote kamen (Funfact).&lt;/p&gt;
+
+&lt;p&gt;Wirklich bewegend, so pathetisch das jetzt klingen mag, fand ich das World Trade Center-Denkmal. Erstmal, weil das, wie bei Ellis Island, nochmal ein ganze andere Dimension bekommt, wenn man dasteht, die Menschenmengen rumwuseln sieht und sich vorstellt, dass da diese riesigen Hochhäuser eingestürzt sind. Dazu kommt aber auch, dass es kein wirkliches Denkmal gibt. Nur in der Seitenstraße eine hässliche Tafel mit den Namen der Opfer. Das wirkliche Denkmal werden die neu gebauten Hochhäuser und das ist irgendwie schon ein schönes Fuck You an die Terroristen.&lt;/p&gt;
+
+&lt;p&gt;Das Schönste an New York ist für mich aber der Central Park. Gerade bei diesem herrlichen Wetter gibt es nicht besseres, als auf einem riesigen Stein zu sitzen, im Hintergrund einen Saxophonisten zu hören und gleichzeitig den Blick auf zahlreiche Hochhäuser und einen See zu haben. Außerdem sind überall Eichhörnchen, die sehr zutraulich sind. Im Central Park gibt es außerdem einen Teil, der Strawberry Fields heißt und John Lennon gewidmet ist (mit einem großen “Imagine”-Mosaik). Der Ort, an dem Lennon erschoßen wurde, liegt auch direkt am Rande des Central Parks. Natürlich bin ich hingegangen (der nächste logische Schritt nach dem Grab von Jim Morrison in Paris und Bob Dylan in Berlin; auch wenn Dylan rein technisch natürlich noch am Leben ist).&lt;/p&gt;
+
+&lt;p&gt;Sehr empfehlenswert ist auch das Museum of Modern Art, in dem ich heute war und das mich so häufig überrascht hat, wie ich es nicht für möglich gehalten hätte. Das war greifbarer Kunstunterricht. Zumal nicht einfach irgendwelche Bilder gezeigt wurden, sondern (soweit man und vor allem ich das sagen kann) Schlüsselwerke. Von allen etwas: Dali, Monet, Matisse, van Gogh, Kandinsky, Mondrian, Duchamp, aber auch Max Bill und natürlich Lichtenstein, Warhol und Picasso. Dazu noch die ausgezeichnete Sonderausstellung “Talk to me - design and communication between people and objects”. Da waren so viele geniale, spannende Sachen aus den digitalen Medien dabei, dass ich einfach auf die Ausstellung verlinke und jedem Digitale Medien-Studenten, der zufällig in New York ist, einen Besuch ans Herz lege. Besonders hervorheben muss man aber e.chromi. Das ist so faszinierend, abwegig, aber genial, dass es jeder gesehen haben muss. Ansonsten waren viele gute Informationsvisualisierungen zu sehen, spannende Sache zur Nearness und sehr interessante Tangibles. Interessant fand ich auch, dass die Arbeiten aus aller Welt kamen und wirklich wenig vom MIT dabei war (da hätte ich irgendwie mehr erwartet, zumal die Royal Academy of the Arts gut vertreten war).
+Auf jeden Fall ist das MoMA das beste Museum, das ich kenne. Geniale Werke, genial präsentiert. Ich hatte bei den Klassikern nur ein manchmal das Gefühl, dass auf Teufel komm raus noch ein paar amerikanische Künstler dazugestellt wurden, die dann nicht ganz mithalten konnten. Und mir ist aufgefallen, dass ich zu den wenigen gehörte, die sich die Bilder nicht (nur) durch die Displays ihrer Kameras angeguckt haben ;).&lt;/p&gt;
+
+&lt;p&gt;Dem New Yorker Nachtleben bin ich noch nicht wirklich auf die Schliche gekommen. Das liegt auch daran, dass ich entgegen meiner gemütlichen Natur den ganzen Tag rumlaufe und mir Sachen angucke. Gestern Abend wollte ich mir aber trotzdem den Comedy Club angucken, in dem Leute wie Dave Chapelle auftreten sollen. Vorweg: Es hat nicht geklappt :). Zum einen bin ich erstmal spontan in die falsche Richtung losgelaufen, was nicht weiter schlimm war, weil ich ja was von der Stadt sehen will und sowieso was essen musste. Als ich dann aber mit der U-Bahn fahren wollte, bin ich nicht etwa Uptown zum Comedy Club, sondern im Express nach Brooklyn gefahren. &lt;/p&gt;
+
+&lt;p&gt;Das U-Bahn-Netz ist sowieso das Schlimmste an New York. Ich verstehe das System einfach nicht und ich verstehe vor allem nicht, warum man es nicht so wie in London macht. Zumal es ja sogar die Franzosen in Paris hinbekommen! Die Stationen sind nicht direkt auf der Straßenkarte eingezeichnet. Es gibt immer nur am Eingang eine große Karte, nie eine Auflistung der Stationen. Man muss wissen ob die Station, zu der man fahren will, Uptown oder Downtown liegt (wobei das auch nicht einfach nördlich oder südlich meint, weil Uptown mal in die Bronx und mal nach Queens führt). Man weiß nie, ob es ein Express oder ein Local Train ist (wobei die New Yorker das schon unterscheiden können, auch wenn mir bis jetzt keiner erklären konnte, wie). Und vor allem und das ist das Verrückteste: Es gibt keine Anzeige, wann die nächste Bahn kommt (an ganz großen Haltestellen schon, aber meistens nicht). Die Leute sitzen einfach da und warten, was als Nächstes kommt. Es stört die meisten auch nicht, weil es scheinbar auch nachts nie länger als zwanzig Minuten dauert. Sowas macht mich wahnsinnig und ich hätte es eher in Südafrika erwartet, als in New York. Es führt aber auch dazu, dass man mit jemandem aus der Karibik dasteht und sich darüber aufregen kann.&lt;/p&gt;
+
+&lt;p&gt;In Brooklyn war es jedenfalls sehr dunkel und ich musste erstmal die Gegenseite zu meiner Haltestelle finden. Da habe ich dann eine gute Weile auf die nächste Bahn gewartet und bin dann mit dem Local Train in Richtung Uptown gefahren. Einer der Mitreisenden hat, quasi als vorläufiger Höhepunkte meiner Erfahrung mit der New Yorker Subway, seinen vollständigen Magen im Abteil hinterlassen. Durch die schlechten Verbindungen zwischen den Stationen bin ich dann auch nichtmal mehr in die Nähe des Comedy Clubs gekommen. Das war letztendlich aber auch gar nicht so schlimm, weil am Union Square Garden nicht nur, für meine Begriffe, ausgezeichnete Skater unterwegs waren, denen man zugucken konnte (mit Blick auf die Schuldenuhr der Vereinigten Staaten, die sich sekündlich in Zehntausenderschritten erhöht), sondern zufällig auch eine Speakers Corner war (wie die im Hyde Park). Jeder konnte an Mikro und erzählen, was er gerade auf dem Herzen hatte. Da ging es natürlich um die Republikaner, aber auch darum, wie man den Obdachlosen helfen kann, ob man ihnen Geld geben sollte oder nicht, das ein Crackdealer viel von Marketing und Branding versteht und im Grunde ja ein 100000-Dollar-Business führt uvm.&lt;/p&gt;
+
+&lt;p&gt;Insgesamt habe ich also eine gute Zeit hier in New York. Am 11. August geht es dann weiter in den Norden nach Buffalo. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://0.0.0.0:4000/articles/2011/08/06/talkin-new-york.html&quot;&gt;Talkin’ New York&lt;/a&gt; was originally published by Hendrik at &lt;a href=&quot;http://0.0.0.0:4000&quot;&gt;Hendrik Heuer&lt;/a&gt; on August 06, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>
