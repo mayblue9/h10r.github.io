@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hey white boy, whatcha doin’ downtown?"
-category: articles
+category: travel-blog
 date:   2011-08-11 08:03:00
 tags: [german, usa, new york, personal]
 image:

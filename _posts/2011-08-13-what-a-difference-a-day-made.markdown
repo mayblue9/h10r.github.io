@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What a Difference a Day Made"
-category: articles
+category: travel-blog
 date:   2011-08-11 08:03:00
 tags: [german, usa, buffalo, personal]
 image:

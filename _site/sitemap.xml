@@ -6,11 +6,11 @@
     
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2014/01/20/gute-menschen-die-zukunft.html</loc>
+        <loc>http://0.0.0.0:4000/travel-blog/2014/01/20/gute-menschen-die-zukunft.html</loc>
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2013/08/31/valkommen-till-sverige.html</loc>
+        <loc>http://0.0.0.0:4000/travel-blog/2013/08/31/valkommen-till-sverige.html</loc>
     </url>
     
     <url>
@@ -30,6 +30,10 @@
     </url>
     
     <url>
+        <loc>http://0.0.0.0:4000/articles/2012/01/05/game-proposal-kraken-and-kaos.html</loc>
+    </url>
+    
+    <url>
         <loc>http://0.0.0.0:4000/articles/2012/01/04/john-cage-and-purpose-and-intentionality.html</loc>
     </url>
     
@@ -46,35 +50,35 @@
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2011/08/11/what-a-difference-a-day-made.html</loc>
+        <loc>http://0.0.0.0:4000/travel-blog/2011/08/11/what-a-difference-a-day-made.html</loc>
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2011/08/11/universal-tellerwascher.html</loc>
+        <loc>http://0.0.0.0:4000/travel-blog/2011/08/11/universal-tellerwascher.html</loc>
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2011/08/11/there-is-more-to-life-than-this.html</loc>
+        <loc>http://0.0.0.0:4000/travel-blog/2011/08/11/there-is-more-to-life-than-this.html</loc>
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2011/08/11/space-oddity.html</loc>
+        <loc>http://0.0.0.0:4000/travel-blog/2011/08/11/space-oddity.html</loc>
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2011/08/11/mutual-core.html</loc>
+        <loc>http://0.0.0.0:4000/travel-blog/2011/08/11/mutual-core.html</loc>
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2011/08/11/hey-white-boy.html</loc>
+        <loc>http://0.0.0.0:4000/travel-blog/2011/08/11/hey-white-boy.html</loc>
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2011/08/11/a-day-in-the-life.html</loc>
+        <loc>http://0.0.0.0:4000/travel-blog/2011/08/11/a-day-in-the-life.html</loc>
     </url>
     
     <url>
-        <loc>http://0.0.0.0:4000/articles/2011/08/06/talkin-new-york.html</loc>
+        <loc>http://0.0.0.0:4000/travel-blog/2011/08/06/talkin-new-york.html</loc>
     </url>
     
 </urlset>
