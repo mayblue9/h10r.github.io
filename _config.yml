@@ -1,5 +1,5 @@
 title:            Hendrik Heuer
-description:      Hendrix Blog
+description:      
 disqus_shortname: subjecttochanges
 #url:              http://hen-drik.de
 #url:              http://h10r.github.io
@@ -35,7 +35,7 @@ links:
   - title: Home
     url: /
   - title: Projects
-    url: /showcase.html
+    url: /projects/
   - title: Articles
     url: /articles/
   - title: Travel Blog

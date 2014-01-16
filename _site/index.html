@@ -1,26 +1,56 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Hendrik Heuer</title>
+<style type="text/css">
+<!--
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans+Std+Light);
+html,body{height:100%;}
+*{outline:none;}
+body{margin:0px; padding:0px; background:#000;}
+#toolbar{position:fixed; z-index:3; right:10px; top:10px; padding:5px; background:url(malihu/fs_img_g_bg.png);}
+#toolbar img{border:none;}
+#img_title{margin-left: 16.666666666666668%; position:relative; z-index:3; left:0px; top:10px; padding:10px; background:url(malihu/fs_img_g_bg.png); color:#FFF; font-family:'Josefin Sans Std Light', arial, serif; font-size:24px; font-weight: normal;}
+#bg{position:fixed; z-index:1; overflow:hidden; width:100%; height:100%;background-color:#343434;}
+#bgimg{display:none; -ms-interpolation-mode: bicubic;}
+#preloader{position:relative; z-index:3; width:32px; padding:20px; top:39%; margin:auto; background:#343434;}
+#thumbnails_wrapper{z-index:2; position:fixed; bottom:0; width:100%; background:url(malihu/empty.gif); /* stupid ie needs a background value to understand hover area */}
+#outer_container{position:relative; padding:0; width:100%; margin:0px auto;}
+#outer_container .thumbScroller{position:relative; overflow:hidden; background:url(malihu/fs_img_g_bg.png);}
+#outer_container .thumbScroller, #outer_container .thumbScroller .container, #outer_container .thumbScroller .content{height:90px;}
+#outer_container .thumbScroller .container{position:relative; left:0;}
+#outer_container .thumbScroller .content{float:left;}
+#outer_container .thumbScroller .content div{margin:5px; height:100%;}
+#outer_container .thumbScroller img{border:5px solid #fff;}
+#outer_container .thumbScroller .content div a{display:block; padding:5px;}
+
+.nextImageBtn, .prevImageBtn{display:block; position:absolute; width:50px; height:50px; top:50%; margin:-25px 10px 0 10px; z-index:3; filter:alpha(opacity=40); -moz-opacity:0.4; -khtml-opacity:0.4; opacity:0.4;}
+.nextImageBtn:hover,.prevImageBtn:hover{filter:alpha(opacity=80); -moz-opacity:0.8; -khtml-opacity:0.8; opacity:0.8;}
+.nextImageBtn{right:0; background:#000 url(malihu/nextImgBtn.png) center center no-repeat;}
+.prevImageBtn{background:#000 url(malihu/prevImgBtn.png) center center no-repeat;}
+-->
+</style>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" src="jquery.easing.1.3.js"></script>
+
 <meta charset="utf-8">
 <title>Hendrik Heuer</title>
-<meta name="description" content="A responsive Jekyll theme with editorial tendencies by designer Michael Rose.">
-<meta name="keywords" content="Jekyll, theme, responsive, blog, template">
+<meta name="description" content="">
+<meta name="keywords" content="">
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="http://0.0.0.0:4000/images/texture-feature-01.jpg">
 
 <meta name="twitter:title" content="Hendrik Heuer">
-<meta name="twitter:description" content="A responsive Jekyll theme with editorial tendencies by designer Michael Rose.">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@hen_drik">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hendrik Heuer">
-<meta property="og:description" content="A responsive Jekyll theme with editorial tendencies by designer Michael Rose.">
+<meta property="og:description" content="">
 <meta property="og:url" content="http://0.0.0.0:4000/index.html">
 <meta property="og:site_name" content="Hendrik Heuer">
 
@@ -64,11 +94,9 @@
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://0.0.0.0:4000/images/apple-touch-icon-144x144-precomposed.png">
 
+
 </head>
-
-<body class="home" itemscope itemtype="http://schema.org/WebPage">
-
-<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+<body>
 
 <div class="navigation-wrapper">
 	<div class="site-name">
@@ -80,7 +108,7 @@
 		        
 				<li><a href="http://0.0.0.0:4000/" >Home</a></li>
 		        
-				<li><a href="http://0.0.0.0:4000/showcase.html" >Projects</a></li>
+				<li><a href="http://0.0.0.0:4000/projects/" >Projects</a></li>
 		        
 				<li><a href="http://0.0.0.0:4000/articles/" >Articles</a></li>
 		        
@@ -91,90 +119,331 @@
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
 
-<div class="image-wrap">
-  <img src="http://0.0.0.0:4000/images/texture-feature-01.jpg" alt=" feature image" itemprop="primaryImageOfPage">
-</div><!-- /.image-wrap -->
-
-<div class="article-author-side">
-  <img src="http://0.0.0.0:4000/images/bio-photo.jpg" class="bio-photo" alt="Hendrik bio photo"></a>
-<h3>Hendrik</h3>
-<p>I'm a student in Human-Computer Interaction and Design and Machine Learning at KTH Stockholm and Aalto Helsinki.</p>
-<a href="http://twitter.com/hen_drik" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
-
-
-<a href="http://linkedin.com/in/hendrikheuer" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>
-
-<a href="http://github.com/h10r" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
-
-
+<div id="bg"><a href="#" class="nextImageBtn" title="next"></a><a href="#" class="prevImageBtn" title="previous"></a><img src="gallery/01-current.png" width="1280" height="850" alt="Master Student at EIT ICT Labs Master School" title="Master Student at EIT ICT Labs Master School" id="bgimg" /></div>
+<div id="img_title"></div>
+<div id="preloader"><img src="malihu/ajax-loader.gif" width="32" height="32" /></div>
+<div id="toolbar" style="display:none;"><a href="#" title="Maximize" onClick="ImageViewMode('full');return false"><img src="toolbar_fs_icon.png" width="50" height="50"  /></a></div>
+<div id="thumbnails_wrapper">
+<div id="outer_container">
+<div class="thumbScroller">
+  <div class="container">
+      <div class="content">
+          <div><a href="gallery/01-current.png"><img src="gallery/01-current_thumb.png" title="Master Student at EIT ICT Labs Master School" alt="Master Student at EIT ICT Labs Master School" class="thumb" /></a></div>
+        </div>
+        <div class="content">
+          <div><a href="gallery/02-rei1440project.png"><img src="gallery/02-rei1440project_thumb.png" title="REI 1440 Project - A photo sharing site" alt="REI 1440 Project - A photo sharing site" class="thumb" /></a></div>
+        </div>
+      <div class="content">
+          <div><a href="gallery/03-blind_tennis.png"><img src="gallery/03-blind_tennis_thumb.png" title="Blind Tennis - Play tennis using your sense of hearing" alt="Blind Tennis - Play tennis using your sense of hearing" class="thumb" /></a></div>
+        </div>
+        <div class="content">
+          <div><a href="gallery/04-columbia.png"><img src="gallery/04-columbia_thumb.png" title="Columbia - A new approach to music composition" alt="Columbia - A new approach to music composition" class="thumb" /></a></div>
+        </div>
+  </div>
 </div>
+</div>
+</div>
+<script>
+//config
+//set default images view mode
+$defaultViewMode="full"; //full, normal, original
+$tsMargin=30; //first and last thumbnail margin (for better cursor interaction) 
+$scrollEasing=600; //scroll easing amount (0 for no easing) 
+$scrollEasingType="easeOutCirc"; //scroll easing type 
+$thumbnailsContainerOpacity=0.8; //thumbnails area default opacity
+$thumbnailsContainerMouseOutOpacity=0; //thumbnails area opacity on mouse out
+$thumbnailsOpacity=0.6; //thumbnails default opacity
+$nextPrevBtnsInitState="show"; //next/previous image buttons initial state ("hide" or "show")
+$keyboardNavigation="on"; //enable/disable keyboard navigation ("on" or "off")
 
-<div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  <h3><a href="http://0.0.0.0:4000/articles/">Articles</a></h3>
-      
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="http://0.0.0.0:4000/travel-blog/2014/01/20/gute-menschen-die-zukunft.html" rel="bookmark" title="Gute Menschen & die Zukunft">Gute Menschen & die Zukunft</a></h2>
-    <p itemprop="text">Warum Schweden keine Cola klauen</p>
-  </article>
-      
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="http://0.0.0.0:4000/travel-blog/2013/08/31/valkommen-till-sverige.html" rel="bookmark" title="Välkommen till Sverige!">Välkommen till Sverige!</a></h2>
-    <p itemprop="text">Mein erster Eindruck</p>
-  </article>
-      
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="http://0.0.0.0:4000/articles/2012/01/06/terry-harpold-visit.html" rel="bookmark" title="Terry Harpold Visit">Terry Harpold Visit</a></h2>
-    <p itemprop="text">I really enjoyed the Terry Harpold visit and I think it was the highlight of the year so far. I was really happy that...</p>
-  </article>
-      
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="http://0.0.0.0:4000/articles/2012/01/06/nick-montfort-visit.html" rel="bookmark" title="Nick Montfort Visit">Nick Montfort Visit</a></h2>
-    <p itemprop="text">I really enjoyed the visit of Nick Montfort and his workshop.Regarding the workshop, I already knew a fair deal of Py...</p>
-  </article>
-      
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="http://0.0.0.0:4000/articles/2012/01/06/lizabel-monica-visit.html" rel="bookmark" title="Lizabel Monica Visit">Lizabel Monica Visit</a></h2>
-    <p itemprop="text">First, I still can’t believe that Cuba does not have proper Internet for its people. In face of the events like Arab ...</p>
-  </article>
-      
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="http://0.0.0.0:4000/articles/2012/01/05/john-cage-art-and-technology.html" rel="bookmark" title="John Cage - Art and Technology">John Cage - Art and Technology</a></h2>
-    <p itemprop="text">I like the idea of synergies between art and technology and I do believe that everybody nowadays benefits from techno...</p>
-  </article>
-      
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="http://0.0.0.0:4000/articles/2012/01/05/game-proposal-kraken-and-kaos.html" rel="bookmark" title="Game Proposal - Kraken & Kaos">Game Proposal - Kraken & Kaos</a></h2>
-    <p itemprop="text">My idea is based on the underwater sound called “Bloop”. “Bloop” was an extremely powerful ultra-low frequency sound,...</p>
-  </article>
-      
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="http://0.0.0.0:4000/articles/2012/01/04/john-cage-and-purpose-and-intentionality.html" rel="bookmark" title="John Cage - Purpose and Intentionality in Music">John Cage - Purpose and Intentionality in Music</a></h2>
-    <p itemprop="text">Can you remove purpose or intentionality in music?  In what ways does Cage attempt to do this?You can of course remov...</p>
-  </article>
-      
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="http://0.0.0.0:4000/articles/2012/01/03/modes-of-listening.html" rel="bookmark" title="Modes of listening, Pierre Schaeffer">Modes of listening, Pierre Schaeffer</a></h2>
-    <p itemprop="text">What are the three modes of listening, and how do they differ from each other?Michel Chion introduces three modes of ...</p>
-  </article>
-      
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="http://0.0.0.0:4000/articles/2012/01/02/john-cage-and-suny-buffalo.html" rel="bookmark" title="John Cage and the Center of the Creative and Performing Arts at SUNY Buffalo">John Cage and the Center of the Creative and Performing Arts at SUNY Buffalo</a></h2>
-    <p itemprop="text">The Center of the Creative and Performing Arts seems to have been a very innovative place with a vision and many peop...</p>
-  </article>
+//cache vars
+$thumbnails_wrapper=$("#thumbnails_wrapper");
+$outer_container=$("#outer_container");
+$thumbScroller=$(".thumbScroller");
+$thumbScroller_container=$(".thumbScroller .container");
+$thumbScroller_content=$(".thumbScroller .content");
+$thumbScroller_thumb=$(".thumbScroller .thumb");
+$preloader=$("#preloader");
+$toolbar=$("#toolbar");
+$toolbar_a=$("#toolbar a");
+$bgimg=$("#bgimg");
+$img_title=$("#img_title");
+$nextImageBtn=$(".nextImageBtn");
+$prevImageBtn=$(".prevImageBtn");
+
+$(window).load(function() {
+  $toolbar.data("imageViewMode",$defaultViewMode); //default view mode
+  if($defaultViewMode=="full"){
+    $toolbar_a.html("<img src='malihu/toolbar_n_icon.png' width='50' height='50'  />").attr("onClick", "ImageViewMode('normal');return false").attr("title", "Restore");
+  } else {
+    $toolbar_a.html("<img src='malihu/toolbar_fs_icon.png' width='50' height='50'  />").attr("onClick", "ImageViewMode('full');return false").attr("title", "Maximize");
+  }
+  ShowHideNextPrev($nextPrevBtnsInitState);
+  //thumbnail scroller
+  $thumbScroller_container.css("marginLeft",$tsMargin+"px"); //add margin
+  sliderLeft=$thumbScroller_container.position().left;
+  sliderWidth=$outer_container.width();
+  $thumbScroller.css("width",sliderWidth);
+  var totalContent=0;
+  fadeSpeed=200;
   
-</div><!-- /#index -->
-
-<div class="footer-wrap">
-  <footer>
-    <span>&copy; 2014 Hendrik. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/">Minimal Mistakes</a> theme.</span>
-
-  </footer>
-</div><!-- /.footer-wrap -->
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://0.0.0.0:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://0.0.0.0:4000/assets/js/scripts.min.js"></script>
-
+  var $the_outer_container=document.getElementById("outer_container");
+  var $placement=findPos($the_outer_container);
   
+  $thumbScroller_content.each(function () {
+    var $this=$(this);
+    totalContent+=$this.innerWidth();
+    $thumbScroller_container.css("width",totalContent);
+    $this.children().children().children(".thumb").fadeTo(fadeSpeed, $thumbnailsOpacity);
+  });
+
+  $thumbScroller.mousemove(function(e){
+    if($thumbScroller_container.width()>sliderWidth){
+        var mouseCoords=(e.pageX - $placement[1]);
+        var mousePercentX=mouseCoords/sliderWidth;
+        var destX=-((((totalContent+($tsMargin*2))-(sliderWidth))-sliderWidth)*(mousePercentX));
+        var thePosA=mouseCoords-destX;
+        var thePosB=destX-mouseCoords;
+        if(mouseCoords>destX){
+          $thumbScroller_container.stop().animate({left: -thePosA}, $scrollEasing,$scrollEasingType); //with easing
+        } else if(mouseCoords<destX){
+          $thumbScroller_container.stop().animate({left: thePosB}, $scrollEasing,$scrollEasingType); //with easing
+        } else {
+        $thumbScroller_container.stop();  
+        }
+    }
+  });
+
+  $thumbnails_wrapper.fadeTo(fadeSpeed, $thumbnailsContainerOpacity);
+  $thumbnails_wrapper.hover(
+    function(){ //mouse over
+      var $this=$(this);
+      $this.stop().fadeTo("slow", 1);
+    },
+    function(){ //mouse out
+      var $this=$(this);
+      $this.stop().fadeTo("slow", $thumbnailsContainerMouseOutOpacity);
+    }
+  );
+
+  $thumbScroller_thumb.hover(
+    function(){ //mouse over
+      var $this=$(this);
+      $this.stop().fadeTo(fadeSpeed, 1);
+    },
+    function(){ //mouse out
+      var $this=$(this);
+      $this.stop().fadeTo(fadeSpeed, $thumbnailsOpacity);
+    }
+  );
+
+  //on window resize scale image and reset thumbnail scroller
+  $(window).resize(function() {
+    FullScreenBackground("#bgimg",$bgimg.data("newImageW"),$bgimg.data("newImageH"));
+    $thumbScroller_container.stop().animate({left: sliderLeft}, 400,"easeOutCirc"); 
+    var newWidth=$outer_container.width();
+    $thumbScroller.css("width",newWidth);
+    sliderWidth=newWidth;
+    $placement=findPos($the_outer_container);
+  });
+
+  //load 1st image
+  var the1stImg = new Image();
+  the1stImg.onload = CreateDelegate(the1stImg, theNewImg_onload);
+  the1stImg.src = $bgimg.attr("src");
+  $outer_container.data("nextImage",$(".content").first().next().find("a").attr("href"));
+  $outer_container.data("prevImage",$(".content").last().find("a").attr("href"));
+});
+
+function BackgroundLoad($this,imageWidth,imageHeight,imgSrc){
+  $this.fadeOut("fast",function(){
+    $this.attr("src", "").attr("src", imgSrc); //change image source
+    FullScreenBackground($this,imageWidth,imageHeight); //scale background image
+    $preloader.fadeOut("fast",function(){$this.fadeIn("slow");});
+    var imageTitle=$img_title.data("imageTitle");
+    if(imageTitle){
+      $this.attr("alt", imageTitle).attr("title", imageTitle);
+      $img_title.fadeOut("fast",function(){
+        $img_title.html(imageTitle).fadeIn();
+      });
+    } else {
+      $img_title.fadeOut("fast",function(){
+        $img_title.html($this.attr("title")).fadeIn();
+      });
+    }
+  });
+}
+
+//mouseover toolbar
+if($toolbar.css("display")!="none"){
+  $toolbar.fadeTo("fast", 0.4);
+}
+$toolbar.hover(
+  function(){ //mouse over
+    var $this=$(this);
+    $this.stop().fadeTo("fast", 1);
+  },
+  function(){ //mouse out
+    var $this=$(this);
+    $this.stop().fadeTo("fast", 0.4);
+  }
+);
+
+//Clicking on thumbnail changes the background image
+$("#outer_container a").click(function(event){
+  event.preventDefault();
+  var $this=$(this);
+  GetNextPrevImages($this);
+  GetImageTitle($this);
+  SwitchImage(this);
+  ShowHideNextPrev("show");
+}); 
+
+//next/prev images buttons
+$nextImageBtn.click(function(event){
+  event.preventDefault();
+  SwitchImage($outer_container.data("nextImage"));
+  var $this=$("#outer_container a[href='"+$outer_container.data("nextImage")+"']");
+  GetNextPrevImages($this);
+  GetImageTitle($this);
+});
+
+$prevImageBtn.click(function(event){
+  event.preventDefault();
+  SwitchImage($outer_container.data("prevImage"));
+  var $this=$("#outer_container a[href='"+$outer_container.data("prevImage")+"']");
+  GetNextPrevImages($this);
+  GetImageTitle($this);
+});
+
+//next/prev images keyboard arrows
+if($keyboardNavigation=="on"){
+$(document).keydown(function(ev) {
+    if(ev.keyCode == 39) { //right arrow
+        SwitchImage($outer_container.data("nextImage"));
+    var $this=$("#outer_container a[href='"+$outer_container.data("nextImage")+"']");
+    GetNextPrevImages($this);
+    GetImageTitle($this);
+        return false; // don't execute the default action (scrolling or whatever)
+    } else if(ev.keyCode == 37) { //left arrow
+        SwitchImage($outer_container.data("prevImage"));
+    var $this=$("#outer_container a[href='"+$outer_container.data("prevImage")+"']");
+    GetNextPrevImages($this);
+    GetImageTitle($this);
+        return false; // don't execute the default action (scrolling or whatever)
+    }
+});
+}
+
+function ShowHideNextPrev(state){
+  if(state=="hide"){
+    $nextImageBtn.fadeOut();
+    $prevImageBtn.fadeOut();
+  } else {
+    $nextImageBtn.fadeIn();
+    $prevImageBtn.fadeIn();
+  }
+}
+
+//get image title
+function GetImageTitle(elem){
+  var title_attr=elem.children("img").attr("title"); //get image title attribute
+  $img_title.data("imageTitle", title_attr); //store image title
+}
+
+//get next/prev images
+function GetNextPrevImages(curr){
+  var nextImage=curr.parents(".content").next().find("a").attr("href");
+  if(nextImage==null){ //if last image, next is first
+    var nextImage=$(".content").first().find("a").attr("href");
+  }
+  $outer_container.data("nextImage",nextImage);
+  var prevImage=curr.parents(".content").prev().find("a").attr("href");
+  if(prevImage==null){ //if first image, previous is last
+    var prevImage=$(".content").last().find("a").attr("href");
+  }
+  $outer_container.data("prevImage",prevImage);
+}
+
+//switch image
+function SwitchImage(img){
+  $preloader.fadeIn("fast"); //show preloader
+  var theNewImg = new Image();
+  theNewImg.onload = CreateDelegate(theNewImg, theNewImg_onload);
+  theNewImg.src = img;
+}
+
+//get new image dimensions
+function CreateDelegate(contextObject, delegateMethod){
+  return function(){
+    return delegateMethod.apply(contextObject, arguments);
+  }
+}
+
+//new image on load
+function theNewImg_onload(){
+  $bgimg.data("newImageW",this.width).data("newImageH",this.height);
+  BackgroundLoad($bgimg,this.width,this.height,this.src);
+}
+
+//Image scale function
+function FullScreenBackground(theItem,imageWidth,imageHeight){
+  var winWidth=$(window).width();
+  var winHeight=$(window).height();
+  if($toolbar.data("imageViewMode")!="original"){ //scale
+    var picHeight = imageHeight / imageWidth;
+    var picWidth = imageWidth / imageHeight;
+    if($toolbar.data("imageViewMode")=="full"){ //fullscreen size image mode
+      if ((winHeight / winWidth) < picHeight) {
+        $(theItem).attr("width",winWidth);
+        $(theItem).attr("height",picHeight*winWidth);
+      } else {
+        $(theItem).attr("height",winHeight);
+        $(theItem).attr("width",picWidth*winHeight);
+      };
+    } else { //normal size image mode
+      if ((winHeight / winWidth) > picHeight) {
+        $(theItem).attr("width",winWidth);
+        $(theItem).attr("height",picHeight*winWidth);
+      } else {
+        $(theItem).attr("height",winHeight);
+        $(theItem).attr("width",picWidth*winHeight);
+      };
+    }
+    $(theItem).css("margin-left",(winWidth-$(theItem).width())/2);
+    $(theItem).css("margin-top",(winHeight-$(theItem).height())/2);
+  } else { //no scale
+    $(theItem).attr("width",imageWidth);
+    $(theItem).attr("height",imageHeight);
+    $(theItem).css("margin-left",(winWidth-imageWidth)/2);
+    $(theItem).css("margin-top",(winHeight-imageHeight)/2);
+  }
+}
+
+//Image view mode function - fullscreen or normal size
+function ImageViewMode(theMode){
+  $toolbar.data("imageViewMode", theMode);
+  FullScreenBackground($bgimg,$bgimg.data("newImageW"),$bgimg.data("newImageH"));
+  if(theMode=="full"){
+    $toolbar_a.html("<img src='malihu/toolbar_n_icon.png' width='50' height='50'  />").attr("onClick", "ImageViewMode('normal');return false").attr("title", "Restore");
+  } else {
+    $toolbar_a.html("<img src='malihu/toolbar_fs_icon.png' width='50' height='50'  />").attr("onClick", "ImageViewMode('full');return false").attr("title", "Maximize");
+  }
+}
+
+//function to find element Position
+  function findPos(obj) {
+    var curleft = curtop = 0;
+    if (obj.offsetParent) {
+      curleft = obj.offsetLeft
+      curtop = obj.offsetTop
+      while (obj = obj.offsetParent) {
+        curleft += obj.offsetLeft
+        curtop += obj.offsetTop
+      }
+    }
+    return [curtop, curleft];
+  }
+</script>
 </body>
 </html>

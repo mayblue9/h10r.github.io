@@ -5,5 +5,5 @@ title: Travel Blog
 tagline: Some personal stories about my travels (in German)
 tags: [travel,blog,usa,sweden]
 image:
-  feature: texture-feature-01.jpg
+  feature: texture-feature-03.jpg
 ---

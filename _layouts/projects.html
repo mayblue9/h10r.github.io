@@ -1,0 +1,138 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="home" itemscope itemtype="http://schema.org/WebPage">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}<div class="image-wrap">
+  <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
+</div><!-- /.image-wrap -->{% endif %}
+
+<div class="article-author-side">
+  {% include _author-bio.html %}
+</div>
+
+<div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+  <h2>Projects</h2>
+
+<h3><a href="#columbia">Columbia</a></h3>
+
+<p>Columbia is a music composition aid for the iPad that focuses on harmony. The music composition aid is based on templates derived from an analysis of a set of pop songs regarding their chord progressions.</p>
+
+<div><iframe src="http://player.vimeo.com/video/50003276?title=0&amp;byline=0&amp;portrait=0&amp;color=ffaa00" width="520" height="377" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<p>Columbia was developed for my Bachelor's thesis which yields feedback on advantages, disadvantages, usability problems and suggested improvements of a non-mimicking digital musical interface with an integrated music composition aid. The interface and the music composition aid were evaluated in a Thinking-aloud study with six users and analysed with a qualitative approach according to Mayring.</p>
+
+<p>Technologies: Objective-C</p>
+
+<p><a href="https://github.com/h10r/columbia">Download source on Github</a></p>
+
+<h3><a href="#blindtennis">Blind Tennis</a></h3>
+
+<p>In Blind Tennis the user can't see the ball, but only hear it. He or she has to use his or her ears and wits to find out where the ball is and where it is moving. The longer the user plays, the more of the field is hidden by a curtain.</p>
+
+<div class="center"><iframe src="http://player.vimeo.com/video/38569243?title=0&amp;byline=0&amp;portrait=0&amp;color=ffaa00" width="299" height="520" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<p>Technologies: Objective-C, Cocos2D</p>
+
+<p>After more than 116000 downloads in one year, <a href="https://github.com/h10r/blindtennis">I open-sourced Blind Tennis on Github</a></p>
+
+<h3><a href="#wildandtame">WILD &amp; TAME</a></h3>
+
+<div><iframe src="http://player.vimeo.com/video/27491683?title=0&amp;byline=0&amp;portrait=0&amp;color=ffaa00" width="520" height="292" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<p>WILD &amp; TAME is a combination of a spherical robot with personality and a buttonless, formable controller. We observed that when users interact with technology, they have a tendency to attribute human features to non-human artifacts. People talk about how their computer had a bad day or how evil their printer is.</p>
+
+<div><img src="{{ site.url }}/images/wildandtame/robot.jpg"></div>
+
+<p> With WILD &amp; TAME we tried to play with this attribution and design this interaction. The player has to explore the personality and mood of the spherical robot. He or she uses the controller to either calm or thrill the robot.</p>
+
+<div><img src="{{ site.url }}/images/wildandtame/robotwithcontroller.jpg"></div>
+
+<p>The inner life of the robot is expressed through surface animations on the robot, its behavior and its heart-rate (which can be sensed through vibrations in the controller).</p>
+
+<p>Technologies: Arduino, Processing</p>
+
+<p>This was part of the Bachelor's project SpiDEx at the University of Bremen. Our  goal was to research the possibilities of tangibles in a gaming context. In collaboration with 
+<a href="http://www.julian-h.de/">Julian Hespenheide</a>, <a href="http://f3-h.de/">Felix Heibeck</a>,  <a href="http://mikrueger.de/">Michele Krüger</a> and Wiebke Roetman.</p>
+
+<h3><a href="#rei1440project">REI1440Project</a></h3>
+
+<p><a href="http://rei1440project.com/">The REI1440Project</a> is a photo-sharing site with a minute-by-minute timeline. The goal is to fill every minute with photos that represent outdoor activities. 
+</p>
+
+<div><img src="{{ site.url }}/images/rei1440project/rei1440project-main.jpg"></div>
+
+<p>I worked on this project as a Junior Interactive Developer for <a href="http://resn.co.nz/">resn</a> in Amsterdam, The Netherlands. I was responsible for the file upload, the Facebook import, the Google Maps integration, the social sharing and the analytics tracking.</p> 
+
+<p>Technologies: HTML, Javascript (Backbone), Ruby on Rails</p>
+
+<p><a href="http://rei1440project.com/">Visit the REI1440Project</a></p>
+
+<p>Awards</p>
+
+<ul>
+    <li><a href="http://www.thefwa.com/adobe/tcea/rei-1440-project"> FWA Award - Adobe Cutting Edge Project of the Week February 04 2013</a></li>
+
+    <li><a href="http://www.thefwa.com/site/rei-1440-project"> FWA Award - Site of the Day January 29 2013</a></li>
+
+    <li><a href="http://www.awwwards.com/web-design-awards/rei-1440-project"> Awwwards - Site of the Day January 07 2013</a></li>
+</ul>
+
+<h3><a href="#firecracker">firecracker (Mobile development, 2013)</a></h3>
+                    
+<p>firecracker is a Boston-based startup founded by Harvard medical students to help students and professionals prepare for their MCAT and USMLE medical exams. I designed and developed their mobile quiz interface.</p>
+
+<div>
+  <img src="{{ site.url }}/images/firecracker/firecracker01.PNG" >
+  <img src="{{ site.url }}/images/firecracker/firecracker02.PNG" >
+  <img src="{{ site.url }}/images/firecracker/firecracker08.PNG" >
+  <img src="{{ site.url }}/images/firecracker/firecracker10.PNG" >
+</div>
+
+<p>I was responsible for the Javascript frontend as well as the Ruby on Rails backend. I implemented a sophisticated and fast AJAX caching model.</p>
+
+<p><a href="http://firecracker.me">Visit firecracker</a></p>
+
+<h3><a href="#duckinabox">Duck in a box</a></h3>
+
+<p>A browser game where the user plays a fire-breathing duck. A simple scrolling game that features rich animations.</p> 
+
+<div><iframe src="http://player.vimeo.com/video/57591210?title=0&amp;byline=0&amp;portrait=0&amp;color=ffaa00" width="520" height="520" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<p>Technologies: HTML5, Canvas, Cocos2d-HTML5</p>
+
+<p>In collaboration with <a target="_blank" href="http://papierkraken.de/">Sarina Walter</a></p>
+
+<h3><a href="#hades">Hades (Installation, 2011)</a></h3>
+                    
+<div><iframe src="http://player.vimeo.com/video/36893935?title=0&amp;byline=0&amp;portrait=0&amp;color=ffaa00" width="520" height="390" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<p>Hades is a game based on space sound interaction. Players move freely in a certain space and use echolocation to find out where the other characters and places are.</p>  
+
+<p>The game is inspired by the tale of Orpheus and Eurydice. As Orpheus leads Eurydice from the Underworld back to the land of the living, he was instructed not to look at her. He feared Hades was tricking him so at the last second he looked for Eurydice and thus lost her.</p>
+<p>In our game, the players are told by the ghost of Eurydice that there are souls that have been wrongly cast down into the Underworld as a part of Hades' plan to recruit more minions. The player has to lead these souls out of the Underworld. In order to be sure that they won't end like Orpheus, Eurydice will "blind" the players, making it so that they can only use sound to gather the innocent souls and lead them to the exit of the underworld.</p>
+
+<p>The interface for players is based on motion detection which we implemented using a Microsoft Kinect. In our research we also tried to implement the game with four webcams and OpenCV blob detection. This worked to some extend, but it is harder to set up, the space is more limited and it is more likely to lose track.</p>
+
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+  
+</body>
+</html>
