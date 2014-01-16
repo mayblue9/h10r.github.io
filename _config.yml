@@ -2,15 +2,15 @@ title:            Hendrik Heuer
 description:      
 disqus_shortname: subjecttochanges
 #url:              http://hen-drik.de
-url:              http://h10r.github.io
-#url:              http://0.0.0.0:4000
+#url:              http://h10r.github.io
+url:              http://0.0.0.0:4000
 
 # Owner/author information
 owner:
   name:           Hendrik
   avatar:         bio-photo.jpg
   bio:            "I'm a student in Human-Computer Interaction and Design and Machine Learning at KTH Stockholm and Aalto Helsinki."
-  email:          you@email.com
+  email:          My full name at gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        hen_drik
   facebook:       
@@ -24,7 +24,7 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-38376204-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
