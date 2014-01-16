@@ -4,5 +4,5 @@ permalink: /projects/
 title: Projects
 tagline: My portfolio
 image:
-  feature: texture-feature-05.jpg
+  feature: texture-feature-01.jpg
 ---
