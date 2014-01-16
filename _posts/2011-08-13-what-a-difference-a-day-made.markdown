@@ -1,0 +1,24 @@
+---
+layout: post
+title: "What a Difference a Day Made"
+category: articles
+date:   2011-08-11 08:03:00
+tags: [german, usa, buffalo, personal]
+image:
+  feature: texture-feature-02.jpg
+---
+
+Jetzt bin ich also endlich in Buffalo. So hoch wie New York City ist, so weitläufig ist Buffalo. Die Uni, insbesondere der North Campus, an dem ich die meisten Kurse haben werde und in dessen Nähe auch das Hotel ist, in dem ich gerade wohne, ist relativ weit von der Innenstadt entfernt. Der Campus liegt, ähnlich wie die Uni Bremen, direkt an der Autobahn am Arsch der Welt. Dementsprechend wenig ist hier in der Nähe des Hotels los. Im ersten Moment war das für mich, der mittags noch in New York war und nur ein bisschen mehr als eine Stunde mit JetBlue geflogen ist, ein kleiner Schock. Genau wie mein Zimmer. Denn das ist riesig, hat ein eigenes Bad mit Badewanne, Kabelfernsehen, Strom und Internet. Kein Vergleich zu meinem Bett mit Tür in New York. Richtig geil war auch, dass die University at Buffalo das Taxi vom Flughafen zum Hotel bezahlt hat.
+
+Die beste Nachricht ist aber wohl, dass ich ein Zimmer in Buffalo habe! Man muss dazu sagen, dass ich mich bewusst gegen eine Unterkunft auf dem Campus entschieden habe und bis gestern noch keine Ahnung hatte, wo und wie ich wohnen werde. Das hat mir in den letzten Tag auch einige Bauchschmerzen bereitet, zumal niemand bei Craigslist auf meine Anfragen reagiert hat (Bauchschmerzen habe ich aber sowieso. Wegen des Essens, glaube ich). 
+
+Ich habe aber vor einem Monat schon ein paar Leuten geschrieben und ein nettes Inserat gesehen. Die Leute wollten zwar ursprünglich jemanden, der für ein Jahr dort einzieht. Sie haben aber gesagt, dass sie sich melden, wenn das Zimmer Mitte August noch nicht vermietet ist. Was sie auch getan haben. Ich bin also heute morgen hingegangen - und habe das Zimmer direkt genommen. Zum einen ist es ein wirklich schönes Haus mit großer Küche, Wohnzimmer und Geschirrspülmaschine. Zum anderen habe ich mich mit Nathan, der Zahnarzt wird und gerade graduate ist, auf Anhieb super verstanden. Nathan leiht mir übrigens sowohl einen Tisch als auch ein Bett, was ein feiner Zug ist und einiges leichter macht. 
+Die anderen zwei Mitbewohnen klingen Nathans Beschreibung nach auch sehr sympathisch. Außerdem habe ich direkt eine Flasche Franziskaner Weißen in der Küche bemerkt und als gutes Zeichen gedeutet. Als Nathan dann noch erzählte, dass einer der Mitbewohner für eine Brauerei arbeitet und hin und wieder etwas mit nach Hause bringt, musste ich nicht mehr groß überlegen. 
+Das hat sogar das Potential, Micheles Bremer Mitbewohner zu toppen. Auch wenn der als experimenteller Bäcker sicher auch nicht schlecht war.
+
+Das Haus liegt in der Nähe vom South Campus, der wiederum näher an der Innenstadt ist als der North Campus. Es fährt aber ein Shuttle zwischen den Campus. Außerdem ist es mit dem Fahrrad nur eine Viertelstunde zum North Campus.
+ Das Straßenbahnsystem in Buffalo ist übrigens nicht annährend so verwirrend wie das in New York. Das liegt aber leider vor allem daran, dass es nur eine Linie gibt ;). Immerhin kann man sich da nicht vertun. Die Bahn fährt direkt vom South Campus in die Innenstadt und zurück. Die Innenstadt habe ich mir heute dann direkt angeguckt. Besonders beeindruckt hat mich die City Hall, also das Rathaus. Aber es gibt noch mehr interessante Gebäude in Buffalo. Unter anderem einige, die Frank Lloyd Wright entworfen hat. Die muss ich mir aber mal angucken, wenn ich ein Fahrrad habe. Und das werde ich wohl brauchen.
+
+Das Fernsehprogramm hier ist ausgezeichnet. Es läuft eigentlich immer was Sehenswertes (gerade Clone Wars, jetzt Thundercats). Die Daily Show kannte ich ja schon vorher gut. Was auch empfehlenswert ist und direkt danach läuft, ist der Colbert Report. Falls mal nichts läuft, hat man immer noch Hulu. Das ist sowas wie Kino.to in legal und mit super Qualität. Aber keine Sorge, ich gucke nicht den ganzen Tag Fernsehen. Könnte man aber, was vielleicht erklärt, warum so wenig auf den Straßen los ist. Vielleicht sind das aber auch nur die Nachwirkungen des Time Squares.
+
+Zum Essen: Neben den Veggie Patties bei Subway ist Taco Bell meine große vegetarische Hoffnung. Ich kann vor allem die bean burritos empfehlen. Zumal die echt günstig sind. Einer der Mitarbeiter bei Taco Bell, ein netter Immigrant aus Kenia, hat mir nicht nur das komplette Menu erklärt, sondern mir auch direkt angeboten, beim ihm zur Untermiete zu wohnen. Nettes Angebot, auch wenn er ziemlich weit ab vom Schuss wohnt. Sowieso sind die Leute in Buffalo hilfsbereit und nett, auch wenn ich aus ihrer Perspektive manchmal blödsinnige Fragen stelle. Zum Beispiel wusste ich nicht, wie im Bus deutlich mache, dass ich an der nächsten Station aussteigen will. Der Trick ist, nicht nach irgendwelchen Knöpfen zu suchen, sondern an einer Schnur über dem Fenster zu ziehen. Muss man auch erstmal drauf kommen. 

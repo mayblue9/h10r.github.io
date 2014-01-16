@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Hey white boy, whatcha doin’ downtown?"
+category: articles
+date:   2011-08-11 08:03:00
+tags: [german, usa, new york, personal]
+image:
+  feature: texture-feature-06.jpg
+---
+
+Am Samstagabend war ich ganz stilecht auf dem Broadway und habe mir Hair angeguckt. Ohne gleich wieder mit Superlativen um mich zu werfen, hat mich das Stück schon schwer beeindruckt. Obwohl, oder gerade weil, ich ja auch den Film kenne und der einige Schwachstellen hat, um nicht zu sagen, teilweise stinklangweilig ist. Im Theater war das anders. Es wurde mehr wert auf die Musik gelegt, was bei den ausgezeichneten SängerInnen eine gute Wahl war. Und die langweiligen Teilen wurden einfach weggelassen.
+Ich hatte einen Platz auf dem Balkon, was wirklich weit oben war (das Theater war nicht besonders lang / tief, dafür aber sehr hoch). Im Endeffekt war das aber nicht so schlimm, auch wenn man ab und zu nicht mitbekommen hat, wie die Schauspieler ins Publikum gegangen sind. Im Stück war auch eine gute Balance zwischen ernster Kriegsdienstverweigerung / Vietnam-Kritik und einem Porträt der Hippie-Bewegung (auch wenn die beiden natürlich immer miteinander verbunden waren).
+Was mich an dem Stück wirklich beeindruckt hat und was ich, wie man so schön sagt, “mitnehmen” werde, ist das da wirklich nur Schauspieler, eine Band und eine gute Beleuchtung im Spiel waren. Mehr nicht. Also nichts, was man nicht auch in Bremen machen könnte, wenn man wollte ;).
+
+Nach dem Stück bin ich dann nochmal über den Broadway gelaufen, der auch bei Nacht taghell war. Habe dann durch Zufall vor dem Planet Hollywood noch eine unglaubliche Sammlung teurer Sportwagen gesehen. Vor dem Planet Hollywood war auch Ice-T, den zwar weder ich noch die hundert anderen Leute, die ihn umringt haben, wirklich erkannt haben. Aber darum geht es ja auch nicht, oder?
+
+Am Sonntag bin ich dann nach Greenwich Village gefahren. Da war ich dann unter anderem im Washington Square Garden, der direkt gegenüber der New York University liegt. Ich kannte den Park vor allem aus Dylans Biografie, weil sich in den Sechzigern dort jeden Sonntag viele Folkmusiker versammelt haben und Musik gemacht haben. Musiker habe ich aber leider keine gesehen. Bin dann weiter zu den Electric Lady Studios, die Jimi Hendrix für sich hat bauen lassen, auch wenn er leider nur einen Song dort aufgenommen hat (und leider nicht das Album Electric Ladyland, wie ich beim Namen irgendwie gehofft hätte). Dafür haben aber unter anderem John Lennon, Led Zeppelin und Radiohead
+
+http://en.wikipedia.org/wiki/Electric_Lady_Studios
+
+ da ihre Alben aufgenommen. Jetzt mag der ein oder andere sich fragen: Was bringt es dem Jungen, sich das längst verlassene Studio von Jimi Hendrix anzugucken? An sich nicht viel, ein bisschen Aura vielleicht, aber an sich ist es nur ein feiner Grund, mal durchs Village zu laufen und sich die Straßen anzusehen.
+
+Zum Essen. Hier ist es eigentlich genau so, wie man sich die USA vorstellt. Überall gibt es billig Pizza, Pommes, Burger, Hotdogs oder Döner. Und an jeder Straßenecke Starbucks. An jeder Straßenecke! Und alle sind voll. Keine Ahnung, was die Amerikaner daran so lieben. Ich habe hier zwei Straßen weiter einen ausgezeichneten Diner, in dem ich mir meinen Kaffee hole und dann so lange mein Akku reicht im Internet surfe. Da wird mir der Kaffee pausenlos nachgeschenkt und es kostet umgerechnet genau einen Euro. Ich bin es gerade auch ein bisschen Leid, die ganze Zeit Fastfood zu essen, zumal man hier vegetarisch meistens dann doch begrenzte Möglichkeiten hat. Aber ich habe ja ein ausgezeichnetes Kochbuch im Gepäck.
+
+Vorgestern hatte ich mir eigentlich vorgenommen ins Metropolitan Museum of the Arts zu gehen, aber das hat, wie die meisten Museen in New York, am Montag geschlossen. Ich bin dann ins National Museum of the American Indian (NMAI) gegangen und war ziemlich enttäuscht. Zum einen, weil die Ausstellung so klein war. Zum anderen aber auch, weil es viele Repliken gab und viele der Gegenstände aus den 1990er oder den 2000er kamen und Textilien waren. Immerhin musste man für die paar bestickten Kleider und Kinderpuppen (à la Spielzeugmuseum) keinen Eintritt bezahlen. Und es gab auch ein paar coole Sachen, wie Friedenspfeifen, Statuen von Opfergöttern und ein Video, in dem ein paar Weiße ein Zelt nachgebaut haben. Und lustige Hüte (siehe Bilder).
+
+Letztendlich wusste ich dann aber nicht mehr so richtig, was ich mir noch angucken soll. Bis ich dann bei Facebook von Christian S. den entscheidenden Hinweis bekommen habe, dass ich mir unbedingt noch Coney Island angucken muss. Also bin ich einmal mit der Subway von Manhattan komplett durch Brooklyn an das äußerste Ende von New York gefahren. Und stand am Strand. Unglaublich, ein richtig schöner Sandstrand, zu dem man mit der U-Bahn fährt. Dazu noch ein Vergnügungspark mit Achterbahn (die Amis wissen, wie man sich amüsiert) und Nathan’s Famous Hot Dog. Den musste ich natürlich probieren. Hat wirklich gut geschmeckt, auch wenn es nur eine würzige Wurst und ein Stück Brot ist (damit sehr nah an meinem alten Bremer Hot Dog Rezept - Heißwurst mit Brot). Jedenfalls habe ich vorgestern den Tag am Strand verbracht, wozu man nicht viel schreiben muss, was aber eine wirklich super Sache ist.
+
+Gestern war dann das erste und einzige Mal schlechtes Wetter in New York. Und zwar so richtig schlechtes. Habe deshalb die meiste Zeit des Tages bei Starbucks verbracht und mich mit einem Journalisten aus Neuseeland unterhalten, der Korrespondent für die Vereinten Nationen ist. Sein Fokus ist eigentlich Armut, auch wenn er sich gestern mehr für meine iPhone-Apps interessiert hat. Und er hat mir geraten, bei den Vereinten Nationen eine Führung zu machen, was ich dann auch heute, an meinem letzten Tag in New York, gemacht habe. Das hat sich auch auf jeden Fall gelohnt. Was mir im Gedächtnis hängengeblieben ist, ist folgendes Zitat: 
+
+"The UN was not created to take mankind to heaven, but to save humanity from hell." 
+— Dag Hammarskjöld, Secretary-General from 1953 to 1961
+
+Die Führung war sehr unterhaltsam und führte unter anderem durch den großen Sitzungssaal und den Saal, in dem der Weltsicherheitsrat tagt. Interessant ist, wie heruntergekommen das UN-Gebäude ist. Dafür, dass sich da im September wieder die Staatsoberhäupte aus 193 Ländern treffen, ist viel kaputt. Zur Ehrrettung sei zwar gesagt, dass momentan viel renoviert wird. Und natürlich haben die Damen und Herren bei der U.N. auch andere Sorgen wie Armut, Hunger und Kriege ;). Empfehlenswert, aber nichts für sanfte Gemüter, sind auch die World Press Photos 2011, die im Foyer ausgestellt waren und die man sich auch online angucken kann.
+
+Ich habe mich heute im Central Park übrigens noch mit einer älteren Lady unterhalten, die so einige Geschichten über verstorbene Verwandte und Hunde auf Lager hatte - als Reisender hat man ja Zeit. Aber die Frau war auch sehr nett. Jedenfalls ging es in einer der Geschichten um ihren Sohn, der seinen Hund immer in der Uni bei sich hatte. Und, wie es der Zufall will, hat der Sohn in Buffalo an “meiner” Uni studiert. Wenn das mal kein gutes Omen ist! Ihrem Sohn hat es dort jedenfalls ausgezeichnet gefallen, auch wenn er sagt, dass man den Gehweg vor Schnee von Oktober bis Mai nicht zu Gesicht bekommt ;)!
+
