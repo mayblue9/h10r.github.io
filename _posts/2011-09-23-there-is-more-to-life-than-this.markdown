@@ -2,7 +2,7 @@
 layout: post
 title: "There’s more to life than this"
 category: travel-blog
-date:   2011-08-11 08:03:00
+date:   2011-09-23 08:03:00
 tags: [german, usa, buffalo, personal]
 image:
   feature: texture-feature-02.jpg
